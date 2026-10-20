@@ -35,6 +35,8 @@ const CONCURRENCY = 16
 // version to history, so once one more full copy would cross the limit, the
 // run replaces history with a single snapshot of the current files.
 const GITHUB_REPOSITORY_LIMIT_BYTES = 10 * 1024 ** 3
+// GitHub's own rule: 60 days without activity disables the schedule.
+const KEEPALIVE_DAYS = 45
 
 function parseArgs(argv) {
   const options = { dryRun: false, push: true, symbols: null }
@@ -183,6 +185,17 @@ async function squashIfNearLimit(index) {
   console.log(`History replaced by snapshot ${snapshot.slice(0, 12)}`)
 }
 
+// GitHub turns off a public repository's scheduled workflows after 60 days
+// without activity, and a quiet catalogue commits nothing. An empty commit
+// every 45 quiet days keeps the hourly sync running.
+function keepScheduleAlive() {
+  const lastCommitSeconds = Number(git("log", "-1", "--format=%ct"))
+  if (Date.now() / 1000 - lastCommitSeconds < KEEPALIVE_DAYS * 86400) return
+  git("commit", "--quiet", "--allow-empty", "-m", `No blot changed in ${KEEPALIVE_DAYS} days`)
+  git("push", "--quiet", "origin", "HEAD:refs/heads/main")
+  console.log("Pushed an empty commit so GitHub keeps the hourly schedule on")
+}
+
 async function main() {
   const options = parseArgs(process.argv.slice(2))
   const blot = await loadBlotModule()
@@ -267,6 +280,7 @@ async function main() {
   }
   console.log(`Done: ${copied} copied, ${removed.length} removed, ${notDrawnYet} not drawn yet`)
   if (options.push) await squashIfNearLimit(index)
+  if (options.push) keepScheduleAlive()
   if (failures.length) {
     console.error(`${failures.length} failed:\n${failures.slice(0, 50).join("\n")}`)
     process.exitCode = 1
