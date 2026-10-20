@@ -14649,7 +14649,7 @@
     "SEPHS1": {"name":"selenophosphate synthetase 1","path":"blot/S/SEPHS1.webp","fingerprint":"e82b2720f7df6b35c8db7561d5234a22","bytes":64206},
     "SEPHS2": {"name":"selenophosphate synthetase 2","path":"blot/S/SEPHS2.webp","fingerprint":"fe5578242f768331b84110302c4abcc6","bytes":76544},
     "SEPSECS": {"name":"Sep (O-phosphoserine) tRNA:Sec (selenocysteine) tRNA synthase","path":"blot/S/SEPSECS.webp","fingerprint":"48c4adaef0b5e281530ce963d5be6e9e","bytes":124296},
-    "SEPTIN1": {"name":"septin 1","path":"blot/S/SEPTIN1.webp","fingerprint":"6c5f45858faf05d41d9b96655f21bc89","bytes":128692},
+    "SEPTIN1": {"name":"septin 1","path":"blot/S/SEPTIN1.webp","fingerprint":"b02f1e7a1a285769d70a2441068fd660","bytes":231316},
     "SEPTIN10": {"name":"septin 10","path":"blot/S/SEPTIN10.webp","fingerprint":"668c0b3dfa6a7a5ca8fc9a9180159481","bytes":103564},
     "SEPTIN11": {"name":"septin 11","path":"blot/S/SEPTIN11.webp","fingerprint":"280593fc36a48151f54a82804aa772b0","bytes":177116},
     "SEPTIN12": {"name":"septin 12","path":"blot/S/SEPTIN12.webp","fingerprint":"558b746b9a8759149cf4a4cae3d4e211","bytes":124052},
