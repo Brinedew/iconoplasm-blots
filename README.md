@@ -43,7 +43,7 @@ Paths use official HGNC symbols. For a name like p53, IL-1β or a UniProt access
 
 ## Freshness
 
-A gene's blot changes when the community votes in a better portrait. A GitHub Action ([sync.yml](.github/workflows/sync.yml)) checks Iconoplasm every hour and commits the blots that changed, so each file here is at most about an hour behind the site.
+A gene's blot changes when the community votes in a better portrait. A GitHub Action ([sync.yml](.github/workflows/sync.yml)) is scheduled to check Iconoplasm every hour and commit the blots that changed. GitHub runs hourly schedules on a best-effort basis and skips many of them, so a file here can be a few hours behind the site.
 
 ## License
 
