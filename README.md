@@ -36,6 +36,7 @@ data = base64.b64encode(open("blot/N/NOTCH1.webp", "rb").read()).decode()
 image = f'<image href="data:image/webp;base64,{data}" width="192" height="256"/>'
 ```
 
+**If your code can't download files at all** (a sandbox with network access off), link the `raw.githubusercontent.com` address instead of embedding. GitHub serves it, and the figure shows it wherever it is opened online. Claude.ai's file preview shows only embedded images, so a linked figure looks empty there until it is opened in a browser.
 ## Aliases
 
 Paths use official HGNC symbols. For a name like p53, IL-1β or a UniProt accession, map it to its HGNC symbol first (p53 is TP53). From code that can reach the site, the resolver does that: `POST https://iconoplasm.brinedew.bio/api/public/v1/images/resolve`.
