@@ -1,7 +1,8 @@
 name: Sync blots
 
 # Copies every new or changed Iconoplasm blot into this repository (sync.mjs).
-# A run with nothing new commits nothing.
+# A run with nothing new commits nothing. GitHub turns a schedule off after 60
+# days without a commit, so sync.mjs pushes an empty one after 45 quiet days.
 on:
   schedule:
     - cron: "17 * * * *"
