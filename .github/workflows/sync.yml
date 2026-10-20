@@ -1,0 +1,37 @@
+name: Sync blots
+
+# Copies every new or changed Iconoplasm blot into this repository (sync.mjs).
+# A run with nothing new commits nothing.
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      # Only the root files: the blots themselves are never downloaded, so a
+      # run that changes three blots moves about half a megabyte.
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          sparse-checkout: .github
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Copy changed blots
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          node sync.mjs
