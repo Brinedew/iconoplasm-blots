@@ -12078,7 +12078,7 @@
     "PEX7": {"name":"peroxisomal biogenesis factor 7","path":"blot/P/PEX7.webp","fingerprint":"2095e9a18b34ac30f1b391d275761eb9","bytes":195078},
     "PF4": {"name":"platelet factor 4","path":"blot/P/PF4.webp","fingerprint":"224e0a9bb1ea66e4dc3eb7ab1c186a97","bytes":250416},
     "PF4V1": {"name":"platelet factor 4 variant 1","path":"blot/P/PF4V1.webp","fingerprint":"b8e5b003cee3a78c20627198fef0e9db","bytes":217974},
-    "PFAS": {"name":"phosphoribosylformylglycinamidine synthase","path":"blot/P/PFAS.webp","fingerprint":"1fce7550e944ed5a5b32f77471ad97d1","bytes":214076},
+    "PFAS": {"name":"phosphoribosylformylglycinamidine synthase","path":"blot/P/PFAS.webp","fingerprint":"ae30584124d2dd8e0ee69b3d7e2036cd","bytes":201168},
     "PFDN1": {"name":"prefoldin subunit 1","path":"blot/P/PFDN1.webp","fingerprint":"f0605c78e797d1ad149c9172ac14c466","bytes":197590},
     "PFDN2": {"name":"prefoldin subunit 2","path":"blot/P/PFDN2.webp","fingerprint":"02cd90b2ab1819cad4820d8af9172e21","bytes":121288},
     "PFDN4": {"name":"prefoldin subunit 4","path":"blot/P/PFDN4.webp","fingerprint":"7d9ec20baa1c02cd96b367da24d69656","bytes":139228},
