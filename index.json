@@ -6,7 +6,7 @@
   "width": 768,
   "height": 1024,
   "path_pattern": "blot/{FIRST LETTER}/{SYMBOL}.webp",
-  "count": 13319,
+  "count": 13338,
   "genes": {
     "A1BG": {"name":"alpha-1-B glycoprotein","path":"blot/A/A1BG.webp","fingerprint":"815397a297eced566abe12cb8f7fa665","bytes":123078},
     "A1CF": {"name":"APOBEC1 complementation factor","path":"blot/A/A1CF.webp","fingerprint":"a8622c514b5656f10bd6d4d0916c2d3a","bytes":87120},
@@ -13326,6 +13326,25 @@
     "PYROXD2": {"name":"pyridine nucleotide-disulphide oxidoreductase domain 2","path":"blot/P/PYROXD2.webp","fingerprint":"832955c53b2af2ff8d8d278f448ce0ee","bytes":152080},
     "PYURF": {"name":"PIGY upstream open reading frame","path":"blot/P/PYURF.webp","fingerprint":"321aa45607e8efaad3ee149377f4b8af","bytes":134064},
     "PYY": {"name":"peptide YY","path":"blot/P/PYY.webp","fingerprint":"456eada3aec5dca976406cade5ca5308","bytes":56566},
-    "PZP": {"name":"PZP alpha-2-macroglobulin like","path":"blot/P/PZP.webp","fingerprint":"f89d8134b2ceaf7cc95294f4952f7ab1","bytes":112648}
+    "PZP": {"name":"PZP alpha-2-macroglobulin like","path":"blot/P/PZP.webp","fingerprint":"f89d8134b2ceaf7cc95294f4952f7ab1","bytes":112648},
+    "QARS1": {"name":"glutaminyl-tRNA synthetase 1","path":"blot/Q/QARS1.webp","fingerprint":"23fe838cde2f3350347d14123e3e88bd","bytes":138682},
+    "QDPR": {"name":"quinoid dihydropteridine reductase","path":"blot/Q/QDPR.webp","fingerprint":"a58ebcb182e4f1588d411009fb18930f","bytes":87908},
+    "QKI": {"name":"QKI, KH domain containing RNA binding","path":"blot/Q/QKI.webp","fingerprint":"11362885a569f1b5bb528e66fe876f8e","bytes":141722},
+    "QNG1": {"name":"Q-nucleotide N-glycosylase 1","path":"blot/Q/QNG1.webp","fingerprint":"72fe76be155de462cbbcf8a2469ab761","bytes":172652},
+    "QPCT": {"name":"glutaminyl-peptide cyclotransferase","path":"blot/Q/QPCT.webp","fingerprint":"76a30469894eb22761daffb9df100f82","bytes":175374},
+    "QPCTL": {"name":"glutaminyl-peptide cyclotransferase like","path":"blot/Q/QPCTL.webp","fingerprint":"0d385dc1abe76f3e7536beccec01f10f","bytes":70214},
+    "QPRT": {"name":"quinolinate phosphoribosyltransferase","path":"blot/Q/QPRT.webp","fingerprint":"63409ce6ff9170a2d97053e7a8bc9a53","bytes":207316},
+    "QRFP": {"name":"pyroglutamylated RFamide peptide","path":"blot/Q/QRFP.webp","fingerprint":"5d9a1901a9020639be9c96ab2234e49e","bytes":121626},
+    "QRFPR": {"name":"pyroglutamylated RFamide peptide receptor","path":"blot/Q/QRFPR.webp","fingerprint":"e8be121480a109ba7bb9b6c118c470a5","bytes":116018},
+    "QRICH1": {"name":"glutamine rich 1","path":"blot/Q/QRICH1.webp","fingerprint":"c9a6035b9a2dfa332928305d8b8b1b8c","bytes":108602},
+    "QRICH2": {"name":"glutamine rich 2","path":"blot/Q/QRICH2.webp","fingerprint":"8b8bbcc58244ea27a169706c4a1c68d0","bytes":142032},
+    "QRSL1": {"name":"glutaminyl-tRNA amidotransferase subunit QRSL1","path":"blot/Q/QRSL1.webp","fingerprint":"46f6b6abde63f63c45f672f2ec53f971","bytes":118114},
+    "QSER1": {"name":"glutamine and serine rich 1","path":"blot/Q/QSER1.webp","fingerprint":"3fe488a7ec3bc338eb7bac2919e315a7","bytes":124134},
+    "QSOX1": {"name":"quiescin sulfhydryl oxidase 1","path":"blot/Q/QSOX1.webp","fingerprint":"e8d09ae9af78baeca40124478213791b","bytes":74622},
+    "QSOX2": {"name":"quiescin sulfhydryl oxidase 2","path":"blot/Q/QSOX2.webp","fingerprint":"866a263c391f54d69d01cccdc3b82f21","bytes":137182},
+    "QTGAL": {"name":"queuosine-tRNA galactosyltransferase","path":"blot/Q/QTGAL.webp","fingerprint":"618c75500bc6a15c274571ceb7f09981","bytes":210618},
+    "QTMAN": {"name":"queuosine-tRNA mannosyltransferase","path":"blot/Q/QTMAN.webp","fingerprint":"21b673b0d87e90b81444b7c724608011","bytes":57228},
+    "QTRT1": {"name":"queuine tRNA-ribosyltransferase catalytic subunit 1","path":"blot/Q/QTRT1.webp","fingerprint":"a9b8a2fc68fa10aa613b1cc18f2ff9bd","bytes":155406},
+    "QTRT2": {"name":"queuine tRNA-ribosyltransferase accessory subunit 2","path":"blot/Q/QTRT2.webp","fingerprint":"09c05e0542e6cc39b10b46a758cbadb6","bytes":223664}
   }
 }
