@@ -13317,7 +13317,7 @@
     "PYDC5": {"name":"pyrin domain containing 5","path":"blot/P/PYDC5.webp","fingerprint":"966ddfa3d8d7ca9febf15ceed802fc58","bytes":105668},
     "PYGB": {"name":"glycogen phosphorylase B","path":"blot/P/PYGB.webp","fingerprint":"fe12d891dad352898bacf796ec670e86","bytes":164572},
     "PYGL": {"name":"glycogen phosphorylase L","path":"blot/P/PYGL.webp","fingerprint":"54af6ae893a324ea55c9255db6a4ba41","bytes":55234},
-    "PYGM": {"name":"glycogen phosphorylase, muscle associated","path":"blot/P/PYGM.webp","fingerprint":"656657d54d4089900b666c214b0fdef1","bytes":170100},
+    "PYGM": {"name":"glycogen phosphorylase, muscle associated","path":"blot/P/PYGM.webp","fingerprint":"45cd32e8fbc9ac0228dd76c6756867d7","bytes":113576},
     "PYGO1": {"name":"pygopus family PHD finger 1","path":"blot/P/PYGO1.webp","fingerprint":"255ce5e01e16ec7386c0105ebc267860","bytes":68050},
     "PYGO2": {"name":"pygopus family PHD finger 2","path":"blot/P/PYGO2.webp","fingerprint":"e06238a5394e9a1c85009d6415107fbf","bytes":123274},
     "PYHIN1": {"name":"pyrin and HIN domain family member 1","path":"blot/P/PYHIN1.webp","fingerprint":"dfd17bc082d7907e11b40ec4743f26cd","bytes":279166},
