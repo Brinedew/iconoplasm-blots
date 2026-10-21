@@ -3417,7 +3417,7 @@
     "COPA": {"name":"coat protein complex I subunit alpha","path":"blot/C/COPA.webp","fingerprint":"fee03debd026e19bb29a8fe45ea2cc5c","bytes":132970},
     "COPB1": {"name":"coat protein complex I subunit beta 1","path":"blot/C/COPB1.webp","fingerprint":"c8e37beecf595c375bf9af44619c11b0","bytes":95218},
     "COPB2": {"name":"coat protein complex I subunit beta 2","path":"blot/C/COPB2.webp","fingerprint":"f70553800bedf91c62381b918af8e057","bytes":120298},
-    "COPE": {"name":"coat protein complex I subunit epsilon","path":"blot/C/COPE.webp","fingerprint":"419104db2babb58e27c820ffe4764551","bytes":131794},
+    "COPE": {"name":"coat protein complex I subunit epsilon","path":"blot/C/COPE.webp","fingerprint":"69dd094dd1463073926980229aee57c8","bytes":127726},
     "COPG1": {"name":"coat protein complex I subunit gamma 1","path":"blot/C/COPG1.webp","fingerprint":"4b3638170d3afb14ff7a53ea1fd96cf9","bytes":172646},
     "COPG2": {"name":"coat protein complex I subunit gamma 2","path":"blot/C/COPG2.webp","fingerprint":"24fd2f983a1053395307eacb586c90ec","bytes":235100},
     "COPRS": {"name":"coordinator of PRMT5 and differentiation stimulator","path":"blot/C/COPRS.webp","fingerprint":"996f9ffe607eb18f393ca5c0e0808060","bytes":171492},
