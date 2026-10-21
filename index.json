@@ -610,7 +610,7 @@
     "ALPI": {"name":"alkaline phosphatase, intestinal","path":"blot/A/ALPI.webp","fingerprint":"db7f49f8b13a32a5156a1b7fe61d6172","bytes":128420},
     "ALPK1": {"name":"alpha kinase 1","path":"blot/A/ALPK1.webp","fingerprint":"42b3308a5d22692d8767d16d9aa53278","bytes":163984},
     "ALPK2": {"name":"alpha kinase 2","path":"blot/A/ALPK2.webp","fingerprint":"b7373020452f7d2e4541e60dfc64c8d3","bytes":238036},
-    "ALPK3": {"name":"alpha kinase 3","path":"blot/A/ALPK3.webp","fingerprint":"fa26e26732b37003bf020556fda765ce","bytes":141274},
+    "ALPK3": {"name":"alpha kinase 3","path":"blot/A/ALPK3.webp","fingerprint":"dd6afa669d7fe75b157ad07486fd41d6","bytes":91966},
     "ALPL": {"name":"alkaline phosphatase, biomineralization associated","path":"blot/A/ALPL.webp","fingerprint":"b760cad7e5a20c639ba35b79c37b923c","bytes":140402},
     "ALPP": {"name":"alkaline phosphatase, placental","path":"blot/A/ALPP.webp","fingerprint":"38b1e0c513bdccd0f06e8c4680999c51","bytes":151996},
     "ALS2": {"name":"alsin Rho guanine nucleotide exchange factor ALS2","path":"blot/A/ALS2.webp","fingerprint":"c04f8a1a19b7753ea2151171aaedcc6f","bytes":66918},
