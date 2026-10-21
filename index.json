@@ -4051,7 +4051,7 @@
     "DCSTAMP": {"name":"dendrocyte expressed seven transmembrane protein","path":"blot/D/DCSTAMP.webp","fingerprint":"2fee5a868f04e741f550b460f17a3b04","bytes":234060},
     "DCT": {"name":"dopachrome tautomerase","path":"blot/D/DCT.webp","fingerprint":"3a066424ee50158bb4ec2b1d119ca9e6","bytes":159680},
     "DCTD": {"name":"dCMP deaminase","path":"blot/D/DCTD.webp","fingerprint":"26bb4d2b83360cb328a7cd4741fc1798","bytes":190548},
-    "DCTN1": {"name":"dynactin subunit 1","path":"blot/D/DCTN1.webp","fingerprint":"99874ab87a34e733e3b7c8d81772e1e6","bytes":159114},
+    "DCTN1": {"name":"dynactin subunit 1","path":"blot/D/DCTN1.webp","fingerprint":"8f6a3fce57204978691ed0081449c1c5","bytes":66678},
     "DCTN2": {"name":"dynactin subunit 2","path":"blot/D/DCTN2.webp","fingerprint":"adb9c519fdec62e4af203b1c0a9affd9","bytes":91512},
     "DCTN3": {"name":"dynactin subunit 3","path":"blot/D/DCTN3.webp","fingerprint":"6a16f418aa9dc946293a1e9905473517","bytes":82434},
     "DCTN4": {"name":"dynactin subunit 4","path":"blot/D/DCTN4.webp","fingerprint":"f482e81a042eef2da31751d597286474","bytes":107558},
