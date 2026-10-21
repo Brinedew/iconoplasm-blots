@@ -10059,7 +10059,7 @@
     "MTRFR": {"name":"mitochondrial translation release factor in rescue","path":"blot/M/MTRFR.webp","fingerprint":"711617c3d03af55f000fbf69768dafde","bytes":141768},
     "MTRR": {"name":"5-methyltetrahydrofolate-homocysteine methyltransferase reductase","path":"blot/M/MTRR.webp","fingerprint":"ffb5616a5be8dac037e81b02c9b99d45","bytes":103294},
     "MTSS1": {"name":"MTSS I-BAR domain containing 1","path":"blot/M/MTSS1.webp","fingerprint":"0b4d9f192f12ec841968af203354b979","bytes":194850},
-    "MTSS2": {"name":"MTSS I-BAR domain containing 2","path":"blot/M/MTSS2.webp","fingerprint":"45f21ac811dc3e198148dc797a575dc0","bytes":123048},
+    "MTSS2": {"name":"MTSS I-BAR domain containing 2","path":"blot/M/MTSS2.webp","fingerprint":"7a246f765eb7d03299931d4c07f616af","bytes":126670},
     "MTTP": {"name":"microsomal triglyceride transfer protein","path":"blot/M/MTTP.webp","fingerprint":"f0fa26c4019abcdafb614de24a2f059d","bytes":134820},
     "MTURN": {"name":"maturin, neural progenitor differentiation regulator homolog","path":"blot/M/MTURN.webp","fingerprint":"e959f0d7ecdb3040cc2d4311079ef665","bytes":131992},
     "MTUS1": {"name":"microtubule associated scaffold protein 1","path":"blot/M/MTUS1.webp","fingerprint":"9a79e63b8d9168f39a717ccc2b1ac3e8","bytes":91026},
