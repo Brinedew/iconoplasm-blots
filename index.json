@@ -5925,7 +5925,7 @@
     "FTCDNL1": {"name":"formiminotransferase cyclodeaminase N-terminal like","path":"blot/F/FTCDNL1.webp","fingerprint":"2446fbd101d0e43e0f742faafefb8955","bytes":175396},
     "FTH1": {"name":"ferritin heavy chain 1","path":"blot/F/FTH1.webp","fingerprint":"4265f8532a9c95eeeabca1d26f00e0ad","bytes":87912},
     "FTHL17": {"name":"ferritin heavy chain like 17","path":"blot/F/FTHL17.webp","fingerprint":"917ad0034e5cf2e11fe0d501c0b993c2","bytes":109614},
-    "FTL": {"name":"ferritin light chain","path":"blot/F/FTL.webp","fingerprint":"12a34dc27e9185e6dd2a3a9488431f53","bytes":69500},
+    "FTL": {"name":"ferritin light chain","path":"blot/F/FTL.webp","fingerprint":"975db49f53126cbceec8e04327c74125","bytes":77440},
     "FTMT": {"name":"ferritin mitochondrial","path":"blot/F/FTMT.webp","fingerprint":"f37905729d7ca7130cf5195fe7dd97e8","bytes":114108},
     "FTO": {"name":"FTO alpha-ketoglutarate dependent dioxygenase","path":"blot/F/FTO.webp","fingerprint":"1b0802e580c2b7a10be50ee1932b50be","bytes":78642},
     "FTSJ1": {"name":"FtsJ RNA 2'-O-methyltransferase 1","path":"blot/F/FTSJ1.webp","fingerprint":"a5bc5bed807d3789de78b4b43c791b1e","bytes":109854},
