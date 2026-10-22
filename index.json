@@ -14560,7 +14560,7 @@
     "SDR42E1": {"name":"short chain dehydrogenase/reductase family 42E, member 1","path":"blot/S/SDR42E1.webp","fingerprint":"c4379ed425c3ad1c7f51dd7e71110825","bytes":85008},
     "SDR42E2": {"name":"short chain dehydrogenase/reductase family 42E, member 2","path":"blot/S/SDR42E2.webp","fingerprint":"740a198790688d2c20f68e02f74a749d","bytes":139888},
     "SDR9C7": {"name":"short chain dehydrogenase/reductase family 9C member 7","path":"blot/S/SDR9C7.webp","fingerprint":"134d4147442e7b4fd7847d1b00521da8","bytes":128070},
-    "SDS": {"name":"serine dehydratase","path":"blot/S/SDS.webp","fingerprint":"8eba97d542ca5fcbb89d27b5a2ac241e","bytes":100572},
+    "SDS": {"name":"serine dehydratase","path":"blot/S/SDS.webp","fingerprint":"0c73d45742c69e984cd71c935b7c8235","bytes":91758},
     "SDSL": {"name":"serine dehydratase like","path":"blot/S/SDSL.webp","fingerprint":"244cbe6cf90dfbfa9ead0ca203b4f27b","bytes":62712},
     "SEBOX": {"name":"SEBOX homeobox","path":"blot/S/SEBOX.webp","fingerprint":"81a0708818d614106f7dfb170f19d0b5","bytes":188874},
     "SEC11A": {"name":"SEC11 homolog A, signal peptidase complex subunit","path":"blot/S/SEC11A.webp","fingerprint":"ec02840df0c518b3def12e3b837ed2ce","bytes":247872},
