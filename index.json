@@ -11590,7 +11590,7 @@
     "OSTN": {"name":"osteocrin","path":"blot/O/OSTN.webp","fingerprint":"51d89a51f8e7ed081714c12f7d40bb81","bytes":143414},
     "OTC": {"name":"ornithine transcarbamylase","path":"blot/O/OTC.webp","fingerprint":"62972fd03fb9c31391b0218c6b4b795e","bytes":117864},
     "OTOA": {"name":"otoancorin","path":"blot/O/OTOA.webp","fingerprint":"9283e9fe834f921495ffd5edbefa8d1b","bytes":195686},
-    "OTOF": {"name":"otoferlin","path":"blot/O/OTOF.webp","fingerprint":"8ebf7322070f7183d7de0e07347f5b4e","bytes":148942},
+    "OTOF": {"name":"otoferlin","path":"blot/O/OTOF.webp","fingerprint":"05eb24f0a8e4b1065e576a4e82673f67","bytes":58888},
     "OTOG": {"name":"otogelin","path":"blot/O/OTOG.webp","fingerprint":"8456018042b0d048f68c5a99415989ef","bytes":236368},
     "OTOGL": {"name":"otogelin like","path":"blot/O/OTOGL.webp","fingerprint":"5ce6e0c7e88f4933030abe35dddfbae0","bytes":93204},
     "OTOL1": {"name":"otolin 1","path":"blot/O/OTOL1.webp","fingerprint":"66a4bbb5b8f1926a3aa7c8029e54955b","bytes":45682},
