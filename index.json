@@ -13095,7 +13095,7 @@
     "PSD4": {"name":"pleckstrin and Sec7 domain containing 4","path":"blot/P/PSD4.webp","fingerprint":"862e749609f9f3cff22ca449dc764f9a","bytes":130708},
     "PSEN1": {"name":"presenilin 1","path":"blot/P/PSEN1.webp","fingerprint":"a97fcfcb7b2859c0961376ab72111d21","bytes":124752},
     "PSEN2": {"name":"presenilin 2","path":"blot/P/PSEN2.webp","fingerprint":"5db97422768ffda4dd4b2a4d0f831975","bytes":146778},
-    "PSENEN": {"name":"presenilin enhancer, gamma-secretase subunit","path":"blot/P/PSENEN.webp","fingerprint":"9dbbb083581d7c848d9754e6d3ec23db","bytes":114944},
+    "PSENEN": {"name":"presenilin enhancer, gamma-secretase subunit","path":"blot/P/PSENEN.webp","fingerprint":"e963ac51ea4321bc504ec32f9458fb83","bytes":271168},
     "PSG1": {"name":"pregnancy specific beta-1-glycoprotein 1","path":"blot/P/PSG1.webp","fingerprint":"cb7d797b1e561e56f1faf4a197fd1d71","bytes":114444},
     "PSG11": {"name":"pregnancy specific beta-1-glycoprotein 11","path":"blot/P/PSG11.webp","fingerprint":"98b9e318b796f6d539ed4cb4a0100552","bytes":146934},
     "PSG2": {"name":"pregnancy specific beta-1-glycoprotein 2","path":"blot/P/PSG2.webp","fingerprint":"b0ffc458db47476c6f6eb66c8de25047","bytes":168954},
