@@ -3761,7 +3761,7 @@
     "CTNNAL1": {"name":"catenin alpha like 1","path":"blot/C/CTNNAL1.webp","fingerprint":"3953f58a25b7e1e4f84fce11c9517ec1","bytes":115200},
     "CTNNB1": {"name":"catenin beta 1","path":"blot/C/CTNNB1.webp","fingerprint":"4f70633014242b9e7f5cae23d9caa9cd","bytes":113978},
     "CTNNBIP1": {"name":"catenin beta interacting protein 1","path":"blot/C/CTNNBIP1.webp","fingerprint":"f39eb50f015410ccd13eca39147e57bb","bytes":88308},
-    "CTNNBL1": {"name":"catenin beta like 1","path":"blot/C/CTNNBL1.webp","fingerprint":"811c29aede21c06bc9ffa9109b12f508","bytes":194060},
+    "CTNNBL1": {"name":"catenin beta like 1","path":"blot/C/CTNNBL1.webp","fingerprint":"99ebd49a6aaa9e4fb97f398700ca9f5c","bytes":227048},
     "CTNND1": {"name":"catenin delta 1","path":"blot/C/CTNND1.webp","fingerprint":"dad735c622b572d9ce666c22290f5950","bytes":219972},
     "CTNND2": {"name":"catenin delta 2","path":"blot/C/CTNND2.webp","fingerprint":"d47af63357135c2d355cf8b205c5812c","bytes":160038},
     "CTNS": {"name":"cystinosin, lysosomal cystine transporter","path":"blot/C/CTNS.webp","fingerprint":"c87abbda30c3bdfa278cd487a2e96b93","bytes":248438},
