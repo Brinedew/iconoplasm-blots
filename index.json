@@ -2178,7 +2178,7 @@
     "CASP1": {"name":"caspase 1","path":"blot/C/CASP1.webp","fingerprint":"d42636c5938e7a487dbda63c2b3388bf","bytes":151906},
     "CASP10": {"name":"caspase 10","path":"blot/C/CASP10.webp","fingerprint":"71d3de432677fd8de7ac5c2df488c93a","bytes":210128},
     "CASP12": {"name":"caspase 12 (gene/pseudogene)","path":"blot/C/CASP12.webp","fingerprint":"68b8edd9cfddde879c6811f449874e7c","bytes":160206},
-    "CASP14": {"name":"caspase 14","path":"blot/C/CASP14.webp","fingerprint":"417e6278c2e292349e9f3f71be371cc7","bytes":103452},
+    "CASP14": {"name":"caspase 14","path":"blot/C/CASP14.webp","fingerprint":"ea75945ac8880be015d3281030d407b7","bytes":93572},
     "CASP2": {"name":"caspase 2","path":"blot/C/CASP2.webp","fingerprint":"fdbc87c1290b315488f1ca91158b8dd7","bytes":186074},
     "CASP3": {"name":"caspase 3","path":"blot/C/CASP3.webp","fingerprint":"5338f43cc39ed0d2ddede6a6eea518d9","bytes":115244},
     "CASP4": {"name":"caspase 4","path":"blot/C/CASP4.webp","fingerprint":"8a3857f1ecb7bd6725f589c33f23325c","bytes":125728},
