@@ -3870,7 +3870,7 @@
     "CYB5RL": {"name":"cytochrome b5 reductase like","path":"blot/C/CYB5RL.webp","fingerprint":"2642a9a59f8f431926384e708fda620a","bytes":211522},
     "CYBA": {"name":"cytochrome b-245 alpha chain","path":"blot/C/CYBA.webp","fingerprint":"56ed6b2aeb6f8b28cfffdb811bc2fd33","bytes":96234},
     "CYBB": {"name":"cytochrome b-245 beta chain","path":"blot/C/CYBB.webp","fingerprint":"1c64fd4eca35ab6629f591064605fadf","bytes":88262},
-    "CYBC1": {"name":"cytochrome b-245 chaperone 1","path":"blot/C/CYBC1.webp","fingerprint":"77681142da1a3dd4755140b5d0ae8a21","bytes":85264},
+    "CYBC1": {"name":"cytochrome b-245 chaperone 1","path":"blot/C/CYBC1.webp","fingerprint":"5764266678c7698a93c8ab488c420ea3","bytes":89192},
     "CYBRD1": {"name":"cytochrome b reductase 1","path":"blot/C/CYBRD1.webp","fingerprint":"e0e74cc31b4d4b3aa7d7ab534cbb3695","bytes":84806},
     "CYC1": {"name":"cytochrome c1","path":"blot/C/CYC1.webp","fingerprint":"3cc6095fb80e5ccf4d8dde69459b648a","bytes":148524},
     "CYCS": {"name":"cytochrome c, somatic","path":"blot/C/CYCS.webp","fingerprint":"a7c64b8c1a15fa91288e8e987a00c2c0","bytes":239384},
