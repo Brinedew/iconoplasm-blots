@@ -9578,7 +9578,7 @@
     "MGAT5B": {"name":"alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase B","path":"blot/M/MGAT5B.webp","fingerprint":"4ac06b25d758bbfc5927094801a3f46d","bytes":90348},
     "MGLL": {"name":"monoglyceride lipase","path":"blot/M/MGLL.webp","fingerprint":"71915fc38e3f7ccbc73c31ef240a82c8","bytes":146134},
     "MGME1": {"name":"mitochondrial genome maintenance exonuclease 1","path":"blot/M/MGME1.webp","fingerprint":"683add3117be5d5fba0539c27adce4a2","bytes":123700},
-    "MGMT": {"name":"O-6-methylguanine-DNA methyltransferase","path":"blot/M/MGMT.webp","fingerprint":"a011acc598cae446048afe0e15a4c483","bytes":140624},
+    "MGMT": {"name":"O-6-methylguanine-DNA methyltransferase","path":"blot/M/MGMT.webp","fingerprint":"fb4170f808237280331535fceb89d221","bytes":121968},
     "MGP": {"name":"matrix Gla protein","path":"blot/M/MGP.webp","fingerprint":"85d9bc1779efebe32738b6730892fe96","bytes":131386},
     "MGRN1": {"name":"mahogunin ring finger 1","path":"blot/M/MGRN1.webp","fingerprint":"96afe73561a1008c5768b7f9609d1d03","bytes":51818},
     "MGST1": {"name":"microsomal glutathione S-transferase 1","path":"blot/M/MGST1.webp","fingerprint":"d311d4b565860d1f8b1349bcad29a56a","bytes":79728},
