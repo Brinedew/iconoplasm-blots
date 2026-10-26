@@ -15968,7 +15968,7 @@
     "SS18": {"name":"SS18 subunit of BAF chromatin remodeling complex","path":"blot/S/SS18.webp","fingerprint":"103d3069eae3ea3c029045b94d892eef","bytes":190672},
     "SS18L1": {"name":"SS18L1 subunit of BAF chromatin remodeling complex","path":"blot/S/SS18L1.webp","fingerprint":"d2304646cd20608c5c342e049892218f","bytes":228388},
     "SS18L2": {"name":"SS18 like 2","path":"blot/S/SS18L2.webp","fingerprint":"6dd73ad8c2dd332828fc623f559dc1f9","bytes":97280},
-    "SSB": {"name":"small RNA binding exonuclease protection factor La","path":"blot/S/SSB.webp","fingerprint":"64aaf053c9353983b616dfbe2a0ebcea","bytes":139008},
+    "SSB": {"name":"small RNA binding exonuclease protection factor La","path":"blot/S/SSB.webp","fingerprint":"598abe0129c4cd53668eed1704b8c21e","bytes":169774},
     "SSBP1": {"name":"single stranded DNA binding protein 1","path":"blot/S/SSBP1.webp","fingerprint":"9927fb71c8b76c4e57e5c619ba759765","bytes":136602},
     "SSBP2": {"name":"single stranded DNA binding protein 2","path":"blot/S/SSBP2.webp","fingerprint":"47554f25d9537f854a8299b70cd8e8aa","bytes":128006},
     "SSBP3": {"name":"single stranded DNA binding protein 3","path":"blot/S/SSBP3.webp","fingerprint":"0f1c5931fe38d46a9a0e42edc2027701","bytes":163428},
