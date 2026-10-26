@@ -6524,7 +6524,7 @@
     "GPHN": {"name":"gephyrin","path":"blot/G/GPHN.webp","fingerprint":"6b7aeaeba5f3d2f3017de9f2b2bffa2c","bytes":221998},
     "GPHRA": {"name":"golgi pH regulator A","path":"blot/G/GPHRA.webp","fingerprint":"84f073a8dd13eec5577c9a885a7d71cc","bytes":225002},
     "GPHRB": {"name":"golgi pH regulator B","path":"blot/G/GPHRB.webp","fingerprint":"5bfc0a33b5354fc7b65cb83cc5788dea","bytes":60042},
-    "GPI": {"name":"glucose-6-phosphate isomerase","path":"blot/G/GPI.webp","fingerprint":"dc177e08a05541a074985ba74732b2bb","bytes":100408},
+    "GPI": {"name":"glucose-6-phosphate isomerase","path":"blot/G/GPI.webp","fingerprint":"c0f031984d3fa7ead7756986b98f610d","bytes":55338},
     "GPIHBP1": {"name":"glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1","path":"blot/G/GPIHBP1.webp","fingerprint":"279a8f3b9b5dc4323b7832f27236c6f7","bytes":98570},
     "GPKOW": {"name":"G-patch domain and KOW motifs","path":"blot/G/GPKOW.webp","fingerprint":"6621b8e28cfea7e454c7ef9d9d15e4d3","bytes":71400},
     "GPLD1": {"name":"glycosylphosphatidylinositol specific phospholipase D1","path":"blot/G/GPLD1.webp","fingerprint":"04603e14b98d8d925e613d54cc6a77b7","bytes":111204},
