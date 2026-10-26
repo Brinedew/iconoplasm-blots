@@ -7143,7 +7143,7 @@
     "HLCS": {"name":"holocarboxylase synthetase","path":"blot/H/HLCS.webp","fingerprint":"39fbe924d2f1f590becb43a98338ee0b","bytes":176326},
     "HLF": {"name":"HLF transcription factor, PAR bZIP family member","path":"blot/H/HLF.webp","fingerprint":"12788e5ebb50f5da317216afae94669b","bytes":137790},
     "HLTF": {"name":"helicase like transcription factor","path":"blot/H/HLTF.webp","fingerprint":"40b4be516d18a826161f61b73fb83489","bytes":69168},
-    "HLX": {"name":"H2.0 like homeobox","path":"blot/H/HLX.webp","fingerprint":"39d68926c7e240f6208c65d4392eb947","bytes":165832},
+    "HLX": {"name":"H2.0 like homeobox","path":"blot/H/HLX.webp","fingerprint":"3cdab85cc95e3fcb7c40b0f867be4472","bytes":248980},
     "HM13": {"name":"histocompatibility minor 13","path":"blot/H/HM13.webp","fingerprint":"d7fd094255a3e0b926fc9432b6c069cc","bytes":93392},
     "HMBOX1": {"name":"homeobox containing 1","path":"blot/H/HMBOX1.webp","fingerprint":"5c0e8d561b93f6e8b7ba3fd071f45475","bytes":169916},
     "HMBS": {"name":"hydroxymethylbilane synthase","path":"blot/H/HMBS.webp","fingerprint":"2a665cba801884aacf2e4956f2de7af5","bytes":170586},
