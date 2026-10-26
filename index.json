@@ -6626,7 +6626,7 @@
     "GPSM2": {"name":"G protein signaling modulator 2","path":"blot/G/GPSM2.webp","fingerprint":"876760da72db4e03d22cc9dc5b077440","bytes":117664},
     "GPSM3": {"name":"G protein signaling modulator 3","path":"blot/G/GPSM3.webp","fingerprint":"10fa46efe7cebcba4c449694ccf5a419","bytes":118774},
     "GPT": {"name":"glutamic--pyruvic transaminase","path":"blot/G/GPT.webp","fingerprint":"1d9550dd6afeed3317b3bdc94773c976","bytes":81588},
-    "GPT2": {"name":"glutamic--pyruvic transaminase 2","path":"blot/G/GPT2.webp","fingerprint":"7719173d68aaf992fd4735ba7dbeb0e9","bytes":138442},
+    "GPT2": {"name":"glutamic--pyruvic transaminase 2","path":"blot/G/GPT2.webp","fingerprint":"71d806dd183bfb508a1f3456214f8b67","bytes":74738},
     "GPX1": {"name":"glutathione peroxidase 1","path":"blot/G/GPX1.webp","fingerprint":"362222bb21ccefafc6a274826d1f4ec8","bytes":115100},
     "GPX2": {"name":"glutathione peroxidase 2","path":"blot/G/GPX2.webp","fingerprint":"9359ad71e88b357a5ed7b11e23a08c99","bytes":89782},
     "GPX3": {"name":"glutathione peroxidase 3","path":"blot/G/GPX3.webp","fingerprint":"1bfdee83b3fbae8c86bebbece316c37f","bytes":165238},
