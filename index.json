@@ -4968,7 +4968,7 @@
     "ENDOG": {"name":"endonuclease G","path":"blot/E/ENDOG.webp","fingerprint":"12f996a8383b024ebbdb4844e34ec2eb","bytes":88408},
     "ENDOU": {"name":"endonuclease, poly(U) specific","path":"blot/E/ENDOU.webp","fingerprint":"0798a5e95920260c1638368e2e6d081d","bytes":119874},
     "ENDOV": {"name":"endonuclease V","path":"blot/E/ENDOV.webp","fingerprint":"65856b23a012ec0666e8fa143bdb7e4f","bytes":97900},
-    "ENG": {"name":"endoglin","path":"blot/E/ENG.webp","fingerprint":"94eef8aa6e8ccab117e386835851c368","bytes":168858},
+    "ENG": {"name":"endoglin","path":"blot/E/ENG.webp","fingerprint":"e0ee7cf4e65827328e0540d0dc9e3cb7","bytes":129378},
     "ENGASE": {"name":"endo-beta-N-acetylglucosaminidase","path":"blot/E/ENGASE.webp","fingerprint":"d4e67e4d219d870f6efb8ecc9983d536","bytes":209472},
     "ENHO": {"name":"energy homeostasis associated","path":"blot/E/ENHO.webp","fingerprint":"ffde6ae063563c0e5168e0191fa2819b","bytes":97302},
     "ENKD1": {"name":"enkurin domain containing 1","path":"blot/E/ENKD1.webp","fingerprint":"5c7e0b17660fd17ef42b134cc0973ed5","bytes":200706},
