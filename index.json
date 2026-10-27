@@ -6849,7 +6849,7 @@
     "H2AJ": {"name":"H2A.J histone","path":"blot/H/H2AJ.webp","fingerprint":"fefa3ca449157f979d41af26192cd39a","bytes":137778},
     "H2AL3": {"name":"H2A.L variant histone 3","path":"blot/H/H2AL3.webp","fingerprint":"7204634954858f40d3064ab032abca7f","bytes":83276},
     "H2AP": {"name":"H2A.P histone","path":"blot/H/H2AP.webp","fingerprint":"88f30b6cc289609b2f87aa960d5176e2","bytes":162334},
-    "H2AX": {"name":"H2A.X variant histone","path":"blot/H/H2AX.webp","fingerprint":"ffa89745759226b285e31b7246a6855b","bytes":200754},
+    "H2AX": {"name":"H2A.X variant histone","path":"blot/H/H2AX.webp","fingerprint":"c4b8eb55d2c4ee008774b43847559f35","bytes":109536},
     "H2AZ1": {"name":"H2A.Z variant histone 1","path":"blot/H/H2AZ1.webp","fingerprint":"d48e39f8a12e021521b657aa51009456","bytes":115772},
     "H2AZ2": {"name":"H2A.Z variant histone 2","path":"blot/H/H2AZ2.webp","fingerprint":"11486f3dc06b8bf2c0d4e8dc2d93231d","bytes":133676},
     "H2BC1": {"name":"H2B clustered histone 1","path":"blot/H/H2BC1.webp","fingerprint":"93d7f58c442ceac637c9c8b1054ffc31","bytes":107762},
