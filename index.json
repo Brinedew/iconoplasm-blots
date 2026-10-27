@@ -7497,7 +7497,7 @@
     "IFNE": {"name":"interferon epsilon","path":"blot/I/IFNE.webp","fingerprint":"7cd05413a54fafd284de2b80c97cbf5d","bytes":85098},
     "IFNG": {"name":"interferon gamma","path":"blot/I/IFNG.webp","fingerprint":"18282d87660a691bc99610eb11588d08","bytes":86914},
     "IFNGR1": {"name":"interferon gamma receptor 1","path":"blot/I/IFNGR1.webp","fingerprint":"61ae5579419b5795b1ad19be688df6d8","bytes":160670},
-    "IFNGR2": {"name":"interferon gamma receptor 2","path":"blot/I/IFNGR2.webp","fingerprint":"4b8e6dd6e569eddd26578af7e40f38cc","bytes":83896},
+    "IFNGR2": {"name":"interferon gamma receptor 2","path":"blot/I/IFNGR2.webp","fingerprint":"c839bac0c030be3be2af7c74f0d4c07a","bytes":80564},
     "IFNK": {"name":"interferon kappa","path":"blot/I/IFNK.webp","fingerprint":"578723d5593c34a98807ee8f9df7ed5e","bytes":188780},
     "IFNL1": {"name":"interferon lambda 1","path":"blot/I/IFNL1.webp","fingerprint":"93fef8347ef3bd4e5b4883eeb8ea1fbd","bytes":121002},
     "IFNL2": {"name":"interferon lambda 2","path":"blot/I/IFNL2.webp","fingerprint":"050afb34779e0499335a92d767852ec6","bytes":169100},
