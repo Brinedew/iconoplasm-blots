@@ -2077,7 +2077,7 @@
     "CALCOCO1": {"name":"calcium binding and coiled-coil domain 1","path":"blot/C/CALCOCO1.webp","fingerprint":"140a41bcc093e7b5948fb4139ed7bc56","bytes":149562},
     "CALCOCO2": {"name":"calcium binding and coiled-coil domain 2","path":"blot/C/CALCOCO2.webp","fingerprint":"0251485f1f9d6654c61cb729fc8a08f3","bytes":56834},
     "CALCR": {"name":"calcitonin receptor","path":"blot/C/CALCR.webp","fingerprint":"28142c3c6340cdec81d049a261214a7b","bytes":280524},
-    "CALCRL": {"name":"calcitonin receptor like receptor","path":"blot/C/CALCRL.webp","fingerprint":"703144f5ca84914850e1b37190c68a89","bytes":133482},
+    "CALCRL": {"name":"calcitonin receptor like receptor","path":"blot/C/CALCRL.webp","fingerprint":"10925cbd2a57fdb4cfba034321dab5c1","bytes":117300},
     "CALD1": {"name":"caldesmon 1","path":"blot/C/CALD1.webp","fingerprint":"0acd7daff0f16d214a67a996c899d66a","bytes":119348},
     "CALHM1": {"name":"calcium homeostasis modulator 1","path":"blot/C/CALHM1.webp","fingerprint":"3ece7ec2dbc2807c66a3847099f864dd","bytes":75968},
     "CALHM2": {"name":"calcium homeostasis modulator family member 2","path":"blot/C/CALHM2.webp","fingerprint":"90bf91fac8f5b709fea6d0942daa63e0","bytes":251294},
