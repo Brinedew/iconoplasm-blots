@@ -7906,7 +7906,7 @@
     "IWS1": {"name":"interacts with SUPT6H, CTD assembly factor 1","path":"blot/I/IWS1.webp","fingerprint":"9a1afeeac863ddf5f76fc3ccb491f362","bytes":82610},
     "IYD": {"name":"iodotyrosine deiodinase","path":"blot/I/IYD.webp","fingerprint":"efe2fb518df2b9c90afeba5f3d12655a","bytes":160136},
     "IZUMO1": {"name":"izumo sperm-oocyte fusion 1","path":"blot/I/IZUMO1.webp","fingerprint":"d1cdd37c3d709400d23790c7554fc8ed","bytes":203620},
-    "IZUMO1R": {"name":"IZUMO1 receptor, JUNO","path":"blot/I/IZUMO1R.webp","fingerprint":"a7f1b1d91ecb770ccdde30893a498d7b","bytes":244944},
+    "IZUMO1R": {"name":"IZUMO1 receptor, JUNO","path":"blot/I/IZUMO1R.webp","fingerprint":"83c0e058ed37853a654d050494a015c9","bytes":260492},
     "IZUMO2": {"name":"IZUMO family member 2","path":"blot/I/IZUMO2.webp","fingerprint":"60ceda57f7816e19d6ce48f7e451e544","bytes":79424},
     "IZUMO3": {"name":"IZUMO family member 3","path":"blot/I/IZUMO3.webp","fingerprint":"c19aa5d73b801f829b6b32f6de841b77","bytes":242422},
     "IZUMO4": {"name":"IZUMO family member 4","path":"blot/I/IZUMO4.webp","fingerprint":"605ba3ccfc78faa318dffa362ee58312","bytes":171330},
