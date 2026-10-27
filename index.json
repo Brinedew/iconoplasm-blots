@@ -9353,7 +9353,7 @@
     "MBD3L3": {"name":"methyl-CpG binding domain protein 3 like 3","path":"blot/M/MBD3L3.webp","fingerprint":"b06c9dd604487e04a555da40db94b403","bytes":139430},
     "MBD3L4": {"name":"methyl-CpG binding domain protein 3 like 4","path":"blot/M/MBD3L4.webp","fingerprint":"13867937a1787b8e68ad2001a268c239","bytes":105178},
     "MBD3L5": {"name":"methyl-CpG binding domain protein 3 like 5","path":"blot/M/MBD3L5.webp","fingerprint":"cd26d75b161f0991c94dd8516cba5f1e","bytes":236980},
-    "MBD4": {"name":"methyl-CpG binding domain 4, DNA glycosylase","path":"blot/M/MBD4.webp","fingerprint":"d1e3ab0c450d2f315cf7dc3824bea03a","bytes":116706},
+    "MBD4": {"name":"methyl-CpG binding domain 4, DNA glycosylase","path":"blot/M/MBD4.webp","fingerprint":"0738eb7c85e8914af5636b618b4177d1","bytes":125670},
     "MBD5": {"name":"methyl-CpG binding domain protein 5","path":"blot/M/MBD5.webp","fingerprint":"3c416d88bc05f36477df33f082bc7025","bytes":126462},
     "MBD6": {"name":"methyl-CpG binding domain protein 6","path":"blot/M/MBD6.webp","fingerprint":"8f397f5ccaea4859cac6fc0fd1c3abb8","bytes":138762},
     "MBIP": {"name":"MAP3K12 binding inhibitory protein 1","path":"blot/M/MBIP.webp","fingerprint":"b63c4a0770e3dad65c39a5416b17af99","bytes":133118},
