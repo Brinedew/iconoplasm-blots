@@ -8131,7 +8131,7 @@
     "KDM5C": {"name":"lysine demethylase 5C","path":"blot/K/KDM5C.webp","fingerprint":"87398a6f8d68d8a008525a3dc8277b4b","bytes":116872},
     "KDM5D": {"name":"lysine demethylase 5D","path":"blot/K/KDM5D.webp","fingerprint":"aa370840bfdc8012790e088db14692d5","bytes":158090},
     "KDM6A": {"name":"lysine demethylase 6A","path":"blot/K/KDM6A.webp","fingerprint":"be031a09bcf2f3ab3535b9dc5f2e1418","bytes":131954},
-    "KDM6B": {"name":"lysine demethylase 6B","path":"blot/K/KDM6B.webp","fingerprint":"23e60dd88ad085485e591121a59f2ba3","bytes":241202},
+    "KDM6B": {"name":"lysine demethylase 6B","path":"blot/K/KDM6B.webp","fingerprint":"398ea3bbb2505a33a3434c9f7caffe0c","bytes":102584},
     "KDM7A": {"name":"lysine demethylase 7A","path":"blot/K/KDM7A.webp","fingerprint":"16c0e09635f4e6f116def98d18b3f82e","bytes":93218},
     "KDM8": {"name":"lysine demethylase 8","path":"blot/K/KDM8.webp","fingerprint":"92db5eacd1ed3fecf0d30351e242558b","bytes":200914},
     "KDR": {"name":"kinase insert domain receptor","path":"blot/K/KDR.webp","fingerprint":"3f45c476439a9597ad48697105086324","bytes":125816},
