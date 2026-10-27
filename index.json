@@ -1310,7 +1310,7 @@
     "ATP6V1G3": {"name":"ATPase H+ transporting V1 subunit G3","path":"blot/A/ATP6V1G3.webp","fingerprint":"15e2a50ad2ee897ac85c150f1e2bb409","bytes":160818},
     "ATP6V1H": {"name":"ATPase H+ transporting V1 subunit H","path":"blot/A/ATP6V1H.webp","fingerprint":"d334f17f62e37d34a2a30b157cef7d27","bytes":159224},
     "ATP7A": {"name":"ATPase copper transporting alpha","path":"blot/A/ATP7A.webp","fingerprint":"70d3ea0c5084f7bf7dad1f3311c5582e","bytes":140492},
-    "ATP7B": {"name":"ATPase copper transporting beta","path":"blot/A/ATP7B.webp","fingerprint":"5210e58fd2137ef01b8fca0f142895bb","bytes":184054},
+    "ATP7B": {"name":"ATPase copper transporting beta","path":"blot/A/ATP7B.webp","fingerprint":"37f96f0bb982587ca5dc35f7ca3019bb","bytes":171580},
     "ATP8A1": {"name":"ATPase phospholipid transporting 8A1","path":"blot/A/ATP8A1.webp","fingerprint":"f7ad457792ae99681ea1d93f3ebb129b","bytes":134520},
     "ATP8A2": {"name":"ATPase phospholipid transporting 8A2","path":"blot/A/ATP8A2.webp","fingerprint":"be697226016f396c3d6cf284540a22a7","bytes":115800},
     "ATP8B1": {"name":"ATPase phospholipid transporting 8B1","path":"blot/A/ATP8B1.webp","fingerprint":"2acd7bd38a5840ad5d5ae126e21090e2","bytes":134532},
