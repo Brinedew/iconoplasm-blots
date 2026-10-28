@@ -14505,7 +14505,7 @@
     "SCOC": {"name":"short coiled-coil protein","path":"blot/S/SCOC.webp","fingerprint":"ced64e95fa5bd27c0551b26012cad6b1","bytes":136996},
     "SCP2": {"name":"sterol carrier protein 2","path":"blot/S/SCP2.webp","fingerprint":"17f63df9b86ce8599c12961ba59318e6","bytes":72696},
     "SCP2D1": {"name":"SCP2 sterol binding domain containing 1","path":"blot/S/SCP2D1.webp","fingerprint":"bb68d76f8bf79b22310dc50bda493e53","bytes":135078},
-    "SCPEP1": {"name":"serine carboxypeptidase 1","path":"blot/S/SCPEP1.webp","fingerprint":"316553e396056186a8b16f84e1c07e9f","bytes":113796},
+    "SCPEP1": {"name":"serine carboxypeptidase 1","path":"blot/S/SCPEP1.webp","fingerprint":"cb3430598a4f6143207e3f8e308a4c0a","bytes":204358},
     "SCPPPQ1": {"name":"secretory calcium-binding phosphoprotein proline-glutamine rich 1","path":"blot/S/SCPPPQ1.webp","fingerprint":"c5f868f476e0daedb5d2856e46807f7a","bytes":87972},
     "SCRG1": {"name":"stimulator of chondrogenesis 1","path":"blot/S/SCRG1.webp","fingerprint":"1b7571519977eae2ea924ccfb97611af","bytes":171450},
     "SCRIB": {"name":"scribble planar cell polarity protein","path":"blot/S/SCRIB.webp","fingerprint":"9ff9fd1e978e0dfd0e4df0348ff43aa6","bytes":166734},
