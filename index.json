@@ -1574,7 +1574,7 @@
     "BLCAP": {"name":"BLCAP apoptosis inducing factor","path":"blot/B/BLCAP.webp","fingerprint":"23f245c96f2c76aa55da69ef56706691","bytes":188362},
     "BLID": {"name":"BH3-like motif containing, cell death inducer","path":"blot/B/BLID.webp","fingerprint":"8eef9f1b8ccf0bbd342f05d817f81ae8","bytes":87266},
     "BLK": {"name":"BLK proto-oncogene, Src family tyrosine kinase","path":"blot/B/BLK.webp","fingerprint":"189466e66c4008780e51d9b75ecdcdf1","bytes":120344},
-    "BLM": {"name":"BLM RecQ like helicase","path":"blot/B/BLM.webp","fingerprint":"cee8965782c48f80edd1b4c4d93ef309","bytes":103208},
+    "BLM": {"name":"BLM RecQ like helicase","path":"blot/B/BLM.webp","fingerprint":"7749260d47e63b974be869150a4f9476","bytes":83712},
     "BLMH": {"name":"bleomycin hydrolase","path":"blot/B/BLMH.webp","fingerprint":"ef6cb5132633227e038ccfa7f05ce4af","bytes":147868},
     "BLNK": {"name":"B cell linker","path":"blot/B/BLNK.webp","fingerprint":"322610f9599f1b47cc8b09a8ca0166b2","bytes":72372},
     "BLOC1S1": {"name":"biogenesis of lysosomal organelles complex 1 subunit 1","path":"blot/B/BLOC1S1.webp","fingerprint":"60e0a77bfaa14e904415011616181d41","bytes":158966},
