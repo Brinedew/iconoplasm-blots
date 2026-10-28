@@ -8780,7 +8780,7 @@
     "LIN7A": {"name":"lin-7 cell polarity scaffold A","path":"blot/L/LIN7A.webp","fingerprint":"ef0c5a8ded115aa2ada5a4e0048a0ecf","bytes":203228},
     "LIN7B": {"name":"lin-7 cell polarity scaffold B","path":"blot/L/LIN7B.webp","fingerprint":"b5bf1200fe073e050402a68ee13c7e20","bytes":232302},
     "LIN7C": {"name":"lin-7 cell polarity scaffold C","path":"blot/L/LIN7C.webp","fingerprint":"89bea722a14ca7a071295e1112941dd5","bytes":116858},
-    "LIN9": {"name":"lin-9 DREAM MuvB core complex component","path":"blot/L/LIN9.webp","fingerprint":"ddc08e5415b6d642e97377919985b05b","bytes":95986},
+    "LIN9": {"name":"lin-9 DREAM MuvB core complex component","path":"blot/L/LIN9.webp","fingerprint":"4cb05b353256e8e85e8044d96c01d0b5","bytes":158440},
     "LINGO1": {"name":"leucine rich repeat and Ig domain containing 1","path":"blot/L/LINGO1.webp","fingerprint":"8d99c1f73abbc934ec8860a1e59a0bb7","bytes":177612},
     "LINGO2": {"name":"leucine rich repeat and Ig domain containing 2","path":"blot/L/LINGO2.webp","fingerprint":"e45b12ca87e99c4f4da499347d9e58dc","bytes":148386},
     "LINGO3": {"name":"leucine rich repeat and Ig domain containing 3","path":"blot/L/LINGO3.webp","fingerprint":"75e58518520268de5d307d4750204df5","bytes":148994},
