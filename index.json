@@ -17238,7 +17238,7 @@
     "TNFRSF12A": {"name":"TNF receptor superfamily member 12A","path":"blot/T/TNFRSF12A.webp","fingerprint":"0313ac78ac6f8a0c3b5ae215fb2e5e0b","bytes":138578},
     "TNFRSF13B": {"name":"TNF receptor superfamily member 13B","path":"blot/T/TNFRSF13B.webp","fingerprint":"3cece1091485e7db30bbf3dfb0bbd364","bytes":183772},
     "TNFRSF13C": {"name":"TNF receptor superfamily member 13C","path":"blot/T/TNFRSF13C.webp","fingerprint":"51ca214d29a255dcea84367ada7f9963","bytes":121016},
-    "TNFRSF14": {"name":"TNF receptor superfamily member 14","path":"blot/T/TNFRSF14.webp","fingerprint":"4d6458333c83f0c41b3ccec40bc9060b","bytes":227720},
+    "TNFRSF14": {"name":"TNF receptor superfamily member 14","path":"blot/T/TNFRSF14.webp","fingerprint":"111b7866e862c26172bcfcb791d64196","bytes":63470},
     "TNFRSF17": {"name":"TNF receptor superfamily member 17","path":"blot/T/TNFRSF17.webp","fingerprint":"abdf1bd1d98f9b3734d0aea0968c71f4","bytes":130876},
     "TNFRSF18": {"name":"TNF receptor superfamily member 18","path":"blot/T/TNFRSF18.webp","fingerprint":"439fb59d9a4106b2a6a59a4888243421","bytes":153600},
     "TNFRSF19": {"name":"TNF receptor superfamily member 19","path":"blot/T/TNFRSF19.webp","fingerprint":"9917cfec9c8ccb3057c732fa914e15e3","bytes":163164},
