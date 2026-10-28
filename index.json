@@ -9434,7 +9434,7 @@
     "MDP1": {"name":"magnesium dependent phosphatase 1","path":"blot/M/MDP1.webp","fingerprint":"873f62138ba55e2a9d436e8f082148f7","bytes":176412},
     "ME1": {"name":"malic enzyme 1","path":"blot/M/ME1.webp","fingerprint":"67bb42f06d8cb2779f05ce5166c784b2","bytes":89090},
     "ME2": {"name":"malic enzyme 2","path":"blot/M/ME2.webp","fingerprint":"49c4ccce0ef4bb4661d72f4f830c417f","bytes":101134},
-    "ME3": {"name":"malic enzyme 3","path":"blot/M/ME3.webp","fingerprint":"77b554768aebe76c4bbea8882f67e8e9","bytes":201204},
+    "ME3": {"name":"malic enzyme 3","path":"blot/M/ME3.webp","fingerprint":"84bf510886c01d8e41d9701d81d79d73","bytes":148840},
     "MEA1": {"name":"male-enhanced antigen 1","path":"blot/M/MEA1.webp","fingerprint":"4f07f7d0ed586d1ec2afb1c5070b4013","bytes":85542},
     "MEAF6": {"name":"MYST/Esa1 associated factor 6","path":"blot/M/MEAF6.webp","fingerprint":"679a4552a3da704f42e40f3fe40e342c","bytes":234730},
     "MEAK7": {"name":"MTOR associated protein MEAK7","path":"blot/M/MEAK7.webp","fingerprint":"dcbc5c6b0c1f273cd498fae32d4099e3","bytes":149516},
