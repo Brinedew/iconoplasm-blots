@@ -3232,7 +3232,7 @@
     "CLTC": {"name":"clathrin heavy chain","path":"blot/C/CLTC.webp","fingerprint":"7aaa13baa51de8efa8d3abf32b921918","bytes":117346},
     "CLTCL1": {"name":"clathrin heavy chain like 1","path":"blot/C/CLTCL1.webp","fingerprint":"d288b22830553de55224b2934963c6a0","bytes":56922},
     "CLTRN": {"name":"collectrin, amino acid transport regulator","path":"blot/C/CLTRN.webp","fingerprint":"b236ddaff939e25d7b605420261c3950","bytes":147698},
-    "CLU": {"name":"clusterin","path":"blot/C/CLU.webp","fingerprint":"b4eab356ee591ef1bfc8273a59d555d6","bytes":98214},
+    "CLU": {"name":"clusterin","path":"blot/C/CLU.webp","fingerprint":"fb534986ee7838e1a37a2f89f6af3a12","bytes":45830},
     "CLUAP1": {"name":"intraflagellar transport 38","path":"blot/C/CLUAP1.webp","fingerprint":"9b7a48a9f391d504cc0a64c3ee93b4f5","bytes":175664},
     "CLUH": {"name":"CLUH binding protein of NUMT mRNA","path":"blot/C/CLUH.webp","fingerprint":"d5c30707b25f0cea90bfaa291ce7e963","bytes":91648},
     "CLUL1": {"name":"clusterin like 1","path":"blot/C/CLUL1.webp","fingerprint":"a670824895cce7c132d9d44fadfd5ba4","bytes":132826},
