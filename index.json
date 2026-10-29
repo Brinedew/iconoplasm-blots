@@ -10495,7 +10495,7 @@
     "NEURL2": {"name":"neuralized E3 ubiquitin protein ligase 2","path":"blot/N/NEURL2.webp","fingerprint":"c3f277da1ff98b3609a2a05e536fa0d9","bytes":84382},
     "NEURL3": {"name":"neuralized E3 ubiquitin protein ligase 3","path":"blot/N/NEURL3.webp","fingerprint":"370e3be1d91a8f47678e7ea1daf283fc","bytes":104476},
     "NEURL4": {"name":"neuralized E3 ubiquitin protein ligase 4","path":"blot/N/NEURL4.webp","fingerprint":"8aed789a74c95ea32d780e4cc7020fb8","bytes":96864},
-    "NEUROD1": {"name":"neuronal differentiation 1","path":"blot/N/NEUROD1.webp","fingerprint":"905e8ca94174dc5fa2b44221870f77e2","bytes":136518},
+    "NEUROD1": {"name":"neuronal differentiation 1","path":"blot/N/NEUROD1.webp","fingerprint":"ecd88d5dfb955838ea947e1951d1bc9d","bytes":78550},
     "NEUROD2": {"name":"neuronal differentiation 2","path":"blot/N/NEUROD2.webp","fingerprint":"eb5b3455bbd184d39251caf7978c3d22","bytes":122260},
     "NEUROD4": {"name":"neuronal differentiation 4","path":"blot/N/NEUROD4.webp","fingerprint":"4b14024f04daa75e90c8cb48554ebba7","bytes":130226},
     "NEUROD6": {"name":"neuronal differentiation 6","path":"blot/N/NEUROD6.webp","fingerprint":"115e8c622f6ec7a18fc3f56b51db52bc","bytes":122800},
