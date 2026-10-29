@@ -6268,7 +6268,7 @@
     "GINS2": {"name":"GINS complex subunit 2","path":"blot/G/GINS2.webp","fingerprint":"529235a48e0e859507c99afe92d5bb24","bytes":120074},
     "GINS3": {"name":"GINS complex subunit 3","path":"blot/G/GINS3.webp","fingerprint":"e49770452429bbd3a271657c6e3c5c6e","bytes":91620},
     "GINS4": {"name":"GINS complex subunit 4","path":"blot/G/GINS4.webp","fingerprint":"cb654eddd7395cedc7b2061d3a750868","bytes":173156},
-    "GIP": {"name":"gastric inhibitory polypeptide","path":"blot/G/GIP.webp","fingerprint":"51df0f2aa33de4f9cde57d414fdda82c","bytes":135936},
+    "GIP": {"name":"gastric inhibitory polypeptide","path":"blot/G/GIP.webp","fingerprint":"12c21f24c3009ef98dd9a7d0c72cadb0","bytes":120142},
     "GIPC1": {"name":"GIPC PDZ domain containing family member 1","path":"blot/G/GIPC1.webp","fingerprint":"e79bd605a835a400bc96f3d057ea09c5","bytes":261698},
     "GIPC2": {"name":"GIPC PDZ domain containing family member 2","path":"blot/G/GIPC2.webp","fingerprint":"aea6e59991e5750dc26bab6b1606d6ac","bytes":111522},
     "GIPC3": {"name":"GIPC PDZ domain containing family member 3","path":"blot/G/GIPC3.webp","fingerprint":"fb6a49f3308b8f2146e7ac499d4d0324","bytes":125982},
