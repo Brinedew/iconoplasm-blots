@@ -8906,7 +8906,7 @@
     "LRP2BP": {"name":"LRP2 binding protein","path":"blot/L/LRP2BP.webp","fingerprint":"7658a78702881220fe211198f471c967","bytes":167768},
     "LRP3": {"name":"LDL receptor related protein 3","path":"blot/L/LRP3.webp","fingerprint":"c9d107ead4129ed99f568f0572e70726","bytes":101734},
     "LRP4": {"name":"LDL receptor related protein 4","path":"blot/L/LRP4.webp","fingerprint":"bde444c4c3e57bfc54e6e28aba24964b","bytes":167376},
-    "LRP5": {"name":"LDL receptor related protein 5","path":"blot/L/LRP5.webp","fingerprint":"33b637dee69d926cb1a3a3b4c1d827e3","bytes":182784},
+    "LRP5": {"name":"LDL receptor related protein 5","path":"blot/L/LRP5.webp","fingerprint":"3632d42e2b6d638febd5922ed71418dc","bytes":54208},
     "LRP6": {"name":"LDL receptor related protein 6","path":"blot/L/LRP6.webp","fingerprint":"858a24c64f97040a65b4d533689db4ed","bytes":89946},
     "LRP8": {"name":"LDL receptor related protein 8","path":"blot/L/LRP8.webp","fingerprint":"41e3651d03be2efd64468cfafa5f6522","bytes":89488},
     "LRPAP1": {"name":"LDL receptor related protein associated protein 1","path":"blot/L/LRPAP1.webp","fingerprint":"5483229d089ccdc800c55d746779dcd9","bytes":199050},
