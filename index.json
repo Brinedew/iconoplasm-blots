@@ -9723,7 +9723,7 @@
     "MNDA": {"name":"myeloid cell nuclear differentiation antigen","path":"blot/M/MNDA.webp","fingerprint":"2e149ce8a267372b5a38ce790504c420","bytes":193220},
     "MNS1": {"name":"meiosis specific nuclear structural 1","path":"blot/M/MNS1.webp","fingerprint":"2196fae0f3dbbc98286ae73a44804b5d","bytes":153522},
     "MNT": {"name":"MAX network transcriptional repressor","path":"blot/M/MNT.webp","fingerprint":"f53649903c91e1bab76167e3b4b79561","bytes":155254},
-    "MNX1": {"name":"motor neuron and pancreas homeobox 1","path":"blot/M/MNX1.webp","fingerprint":"db7593ee679c7ff9fcaedd2fa4af5092","bytes":91366},
+    "MNX1": {"name":"motor neuron and pancreas homeobox 1","path":"blot/M/MNX1.webp","fingerprint":"a3cb70975564294d4875968159ec837e","bytes":78718},
     "MOAP1": {"name":"modulator of apoptosis 1","path":"blot/M/MOAP1.webp","fingerprint":"b298ce3fb73135d002c1d51c14295bf5","bytes":230504},
     "MOB1A": {"name":"MOB kinase activator 1A","path":"blot/M/MOB1A.webp","fingerprint":"a1a50f53d2ae8f82cc680b0ef1932a99","bytes":105716},
     "MOB1B": {"name":"MOB kinase activator 1B","path":"blot/M/MOB1B.webp","fingerprint":"aac07fbe1d5abdf100f072e0e68050ce","bytes":91562},
