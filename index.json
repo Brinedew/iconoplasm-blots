@@ -11613,7 +11613,7 @@
     "OTULIN": {"name":"OTU deubiquitinase with linear linkage specificity","path":"blot/O/OTULIN.webp","fingerprint":"aada05f1b54edf84dd4fb4b0fbef5f77","bytes":146838},
     "OTULINL": {"name":"OTU deubiquitinase with linear linkage specificity like","path":"blot/O/OTULINL.webp","fingerprint":"6404c1af3b0dc82c8c100406a89f420f","bytes":229666},
     "OTX1": {"name":"orthodenticle homeobox 1","path":"blot/O/OTX1.webp","fingerprint":"1cc023887a58876ef1ca92ca95031f51","bytes":189918},
-    "OTX2": {"name":"orthodenticle homeobox 2","path":"blot/O/OTX2.webp","fingerprint":"9d0851af9575bede3329be79324f70a5","bytes":105120},
+    "OTX2": {"name":"orthodenticle homeobox 2","path":"blot/O/OTX2.webp","fingerprint":"154e34f54137788d9fb3ca13b12e093e","bytes":137614},
     "OVCA2": {"name":"OVCA2 serine hydrolase domain containing","path":"blot/O/OVCA2.webp","fingerprint":"68f5ceddd0a273c74217c0b133e1ad86","bytes":73948},
     "OVCH1": {"name":"ovochymase 1","path":"blot/O/OVCH1.webp","fingerprint":"a6dcaa23a8ec47c73f39f03117e5fce2","bytes":111164},
     "OVCH2": {"name":"ovochymase 2","path":"blot/O/OVCH2.webp","fingerprint":"e03748df0999de7faaf8582932a642d2","bytes":147040},
