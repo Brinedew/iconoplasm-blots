@@ -5813,7 +5813,7 @@
     "FOSL1": {"name":"FOS like 1, AP-1 transcription factor subunit","path":"blot/F/FOSL1.webp","fingerprint":"3401e2e1b65144c3fd2583f2c9027634","bytes":115372},
     "FOSL2": {"name":"FOS like 2, AP-1 transcription factor subunit","path":"blot/F/FOSL2.webp","fingerprint":"0baa126e038d5685695b955ba4d94b7e","bytes":92836},
     "FOXA1": {"name":"forkhead box A1","path":"blot/F/FOXA1.webp","fingerprint":"b8d4342334f61e21073003a02952aede","bytes":151568},
-    "FOXA2": {"name":"forkhead box A2","path":"blot/F/FOXA2.webp","fingerprint":"64da086770b87147b5acab78e684d8b4","bytes":271640},
+    "FOXA2": {"name":"forkhead box A2","path":"blot/F/FOXA2.webp","fingerprint":"dbf4f9649fda43cce7d85120f25c12af","bytes":145026},
     "FOXA3": {"name":"forkhead box A3","path":"blot/F/FOXA3.webp","fingerprint":"bb3d2d444e2fe6fce3cc2022b271c79b","bytes":79644},
     "FOXB1": {"name":"forkhead box B1","path":"blot/F/FOXB1.webp","fingerprint":"98467638feaae87bea3bda9b65f00e94","bytes":120218},
     "FOXB2": {"name":"forkhead box B2","path":"blot/F/FOXB2.webp","fingerprint":"3b1b26e04ea4f208cf4464fd04eb434b","bytes":144842},
