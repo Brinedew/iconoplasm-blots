@@ -17338,7 +17338,7 @@
     "TOX2": {"name":"TOX high mobility group box family member 2","path":"blot/T/TOX2.webp","fingerprint":"566e808d7c06a47bdeba677ccc6529be","bytes":141296},
     "TOX3": {"name":"TOX high mobility group box family member 3","path":"blot/T/TOX3.webp","fingerprint":"e609cb7fc89712271568e1421a483d82","bytes":262486},
     "TOX4": {"name":"TOX high mobility group box family member 4","path":"blot/T/TOX4.webp","fingerprint":"6ecc738cd564b73f5dd673b2871ee77e","bytes":98788},
-    "TP53": {"name":"tumor protein p53","path":"blot/T/TP53.webp","fingerprint":"196eaafc772254ae306ceb63abc15c63","bytes":115828},
+    "TP53": {"name":"tumor protein p53","path":"blot/T/TP53.webp","fingerprint":"26b51a7ee1e19d6afc31d4bfe68c14f7","bytes":133182},
     "TP53AIP1": {"name":"tumor protein p53 regulated apoptosis inducing protein 1","path":"blot/T/TP53AIP1.webp","fingerprint":"cbd4bda6b077817fdaaeaeebacf78aec","bytes":167842},
     "TP53BP1": {"name":"tumor protein p53 binding protein 1","path":"blot/T/TP53BP1.webp","fingerprint":"cb354c69b007733496f012a21aca0393","bytes":104906},
     "TP53BP2": {"name":"tumor protein p53 binding protein 2","path":"blot/T/TP53BP2.webp","fingerprint":"9a0b4ef30d83d014317cea0027def9e7","bytes":118156},
