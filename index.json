@@ -16230,7 +16230,7 @@
     "SUSD4": {"name":"sushi domain containing 4","path":"blot/S/SUSD4.webp","fingerprint":"a843a4242b16c3608b6194d89c745ac7","bytes":102226},
     "SUSD5": {"name":"sushi domain containing 5","path":"blot/S/SUSD5.webp","fingerprint":"5d68e1d2069bb46745ce846506942434","bytes":84662},
     "SUSD6": {"name":"sushi domain containing 6","path":"blot/S/SUSD6.webp","fingerprint":"ed846d90e0f25a817ec56abf657be4e6","bytes":133634},
-    "SUV39H1": {"name":"SUV39H1 histone lysine methyltransferase","path":"blot/S/SUV39H1.webp","fingerprint":"99bb96c739ba4c6875cabd82648447c9","bytes":178930},
+    "SUV39H1": {"name":"SUV39H1 histone lysine methyltransferase","path":"blot/S/SUV39H1.webp","fingerprint":"62d7e1729749028ec722bd47d66fdca7","bytes":116296},
     "SUV39H2": {"name":"SUV39H2 histone lysine methyltransferase","path":"blot/S/SUV39H2.webp","fingerprint":"859de10a3aee7479ec45d3ee67ad4f04","bytes":125950},
     "SUZ12": {"name":"SUZ12 polycomb repressive complex 2 subunit","path":"blot/S/SUZ12.webp","fingerprint":"e13ad9b030e8a96969b3854d1a549f2a","bytes":115604},
     "SV2A": {"name":"synaptic vesicle glycoprotein 2A","path":"blot/S/SV2A.webp","fingerprint":"78ae4e1110724e3ef17d6dbcdde8e829","bytes":286514},
