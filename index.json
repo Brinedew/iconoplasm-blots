@@ -548,7 +548,7 @@
     "ALAD": {"name":"aminolevulinate dehydratase","path":"blot/A/ALAD.webp","fingerprint":"de2a3b2657a8b12a58e9bcaab428285f","bytes":276762},
     "ALAS1": {"name":"5'-aminolevulinate synthase 1","path":"blot/A/ALAS1.webp","fingerprint":"3937b11525d9861f1cbae6e409b6fcd4","bytes":112676},
     "ALAS2": {"name":"5'-aminolevulinate synthase 2","path":"blot/A/ALAS2.webp","fingerprint":"5740a636e500728f34ea0a0594b83264","bytes":109824},
-    "ALB": {"name":"albumin","path":"blot/A/ALB.webp","fingerprint":"afeb045b6ae63791c4fb15890217d116","bytes":104070},
+    "ALB": {"name":"albumin","path":"blot/A/ALB.webp","fingerprint":"08c00589adc66a03e587ff6b9b0d663c","bytes":113024},
     "ALCAM": {"name":"activated leukocyte cell adhesion molecule","path":"blot/A/ALCAM.webp","fingerprint":"6a345b608939d6d122d843071b4ac248","bytes":156328},
     "ALDH16A1": {"name":"aldehyde dehydrogenase 16 family member A1","path":"blot/A/ALDH16A1.webp","fingerprint":"679b475412e249f0aa24c8bc6fcc5e17","bytes":173394},
     "ALDH18A1": {"name":"aldehyde dehydrogenase 18 family member A1","path":"blot/A/ALDH18A1.webp","fingerprint":"4a543f5e913e1c4a573f5f158f57a2dd","bytes":86920},
