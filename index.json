@@ -2715,7 +2715,7 @@
     "CDT1": {"name":"chromatin licensing and DNA replication factor 1","path":"blot/C/CDT1.webp","fingerprint":"1fc32d9c310d5cabcc5b26709d647f78","bytes":137384},
     "CDV3": {"name":"CDV3 homolog","path":"blot/C/CDV3.webp","fingerprint":"d136b8049483494118db382b50edcaee","bytes":96456},
     "CDX1": {"name":"caudal type homeobox 1","path":"blot/C/CDX1.webp","fingerprint":"829c0b1d169163c7b8c89ae74cefedc4","bytes":60984},
-    "CDX2": {"name":"caudal type homeobox 2","path":"blot/C/CDX2.webp","fingerprint":"e023aea37fb0c4aa7d7d106e2a093a61","bytes":60262},
+    "CDX2": {"name":"caudal type homeobox 2","path":"blot/C/CDX2.webp","fingerprint":"00519427a493159e2b25dce0685c7591","bytes":137546},
     "CDX4": {"name":"caudal type homeobox 4","path":"blot/C/CDX4.webp","fingerprint":"eba367dd7c4772600acb0b97a3648d6b","bytes":140078},
     "CDY1": {"name":"chromodomain Y-linked 1","path":"blot/C/CDY1.webp","fingerprint":"9c9220ecf3c9ef66eeadf344d091bbeb","bytes":117534},
     "CDY1B": {"name":"chromodomain Y-linked 1B","path":"blot/C/CDY1B.webp","fingerprint":"b21119038a7ef0598e4127f9e23ac43c","bytes":163938},
