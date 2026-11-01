@@ -7152,7 +7152,7 @@
     "HMCN2": {"name":"hemicentin 2","path":"blot/H/HMCN2.webp","fingerprint":"6bd8b635cdc679a4120446de9db5306d","bytes":79958},
     "HMG20A": {"name":"high mobility group 20A","path":"blot/H/HMG20A.webp","fingerprint":"1fb96f13cd6a49e0fc52c7e8d2b7606d","bytes":123880},
     "HMG20B": {"name":"high mobility group 20B","path":"blot/H/HMG20B.webp","fingerprint":"047a595f8766e65bc0b8707494c2f0e6","bytes":93370},
-    "HMGA1": {"name":"high mobility group AT-hook 1","path":"blot/H/HMGA1.webp","fingerprint":"c542bfea517b0b6c9f5080fc6053d5bf","bytes":119176},
+    "HMGA1": {"name":"high mobility group AT-hook 1","path":"blot/H/HMGA1.webp","fingerprint":"fa9f3453aba5529c6d467fdbf106ef37","bytes":161586},
     "HMGA2": {"name":"high mobility group AT-hook 2","path":"blot/H/HMGA2.webp","fingerprint":"8601f304bd9b3f0b80f7d7b6ca4140a4","bytes":165720},
     "HMGB1": {"name":"high mobility group box 1","path":"blot/H/HMGB1.webp","fingerprint":"9b4780faa0c02474fff0e247c7e4d5f3","bytes":143086},
     "HMGB2": {"name":"high mobility group box 2","path":"blot/H/HMGB2.webp","fingerprint":"50e772e2ddd465720954d1cef3095a6d","bytes":173574},
