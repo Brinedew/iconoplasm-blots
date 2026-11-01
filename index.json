@@ -6116,7 +6116,7 @@
     "GASK1B": {"name":"golgi associated kinase 1B","path":"blot/G/GASK1B.webp","fingerprint":"7aefc1f956006287b5f01b82f225bebc","bytes":111146},
     "GAST": {"name":"gastrin","path":"blot/G/GAST.webp","fingerprint":"a0de4ed916c923811201eee46b248920","bytes":91646},
     "GATA1": {"name":"GATA binding protein 1","path":"blot/G/GATA1.webp","fingerprint":"e5310aa3cec4b9d0c8d1a0502db7fb4d","bytes":137670},
-    "GATA2": {"name":"GATA binding protein 2","path":"blot/G/GATA2.webp","fingerprint":"62faf338310a7534556dc99626c0cfed","bytes":58192},
+    "GATA2": {"name":"GATA binding protein 2","path":"blot/G/GATA2.webp","fingerprint":"e9bf35c50ea235213eb5efe6dcac97d0","bytes":61280},
     "GATA3": {"name":"GATA binding protein 3","path":"blot/G/GATA3.webp","fingerprint":"9558cceb04fb501cb77817ee0025757d","bytes":112628},
     "GATA4": {"name":"GATA binding protein 4","path":"blot/G/GATA4.webp","fingerprint":"4f7ecc7b0761d383dfaf0c232b7b1586","bytes":67570},
     "GATA5": {"name":"GATA binding protein 5","path":"blot/G/GATA5.webp","fingerprint":"fa081f96728acc54176f14bb41f04881","bytes":113194},
