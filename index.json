@@ -4229,7 +4229,7 @@
     "DGCR2": {"name":"DiGeorge syndrome critical region gene 2","path":"blot/D/DGCR2.webp","fingerprint":"c789299cf393d193edc69839c4fe5082","bytes":105924},
     "DGCR6": {"name":"DiGeorge syndrome critical region gene 6","path":"blot/D/DGCR6.webp","fingerprint":"5e8c92df32904ce6c70672c7d4fb55b3","bytes":112984},
     "DGCR6L": {"name":"DiGeorge syndrome critical region gene 6 like","path":"blot/D/DGCR6L.webp","fingerprint":"6b7a659a48d0a168a9d389cebeadefd5","bytes":112638},
-    "DGCR8": {"name":"DGCR8 microprocessor complex subunit","path":"blot/D/DGCR8.webp","fingerprint":"9a4280ddb7bc40a770179487bb159d92","bytes":123714},
+    "DGCR8": {"name":"DGCR8 microprocessor complex subunit","path":"blot/D/DGCR8.webp","fingerprint":"4aabe84162e43e5cbc0ba719ba8baf01","bytes":139932},
     "DGKA": {"name":"diacylglycerol kinase alpha","path":"blot/D/DGKA.webp","fingerprint":"caaa51ddb2fa20a0d8286a6ae97cce09","bytes":195068},
     "DGKB": {"name":"diacylglycerol kinase beta","path":"blot/D/DGKB.webp","fingerprint":"540321afee91015c9be417b0a0a875df","bytes":166618},
     "DGKD": {"name":"diacylglycerol kinase delta","path":"blot/D/DGKD.webp","fingerprint":"6435a0296a26efca6dada1c4c40f6403","bytes":165908},
