@@ -849,7 +849,7 @@
     "APCS": {"name":"amyloid P component, serum","path":"blot/A/APCS.webp","fingerprint":"e3d4083d15e4deadd2326b0244b946fe","bytes":256460},
     "APEH": {"name":"acylaminoacyl-peptide hydrolase","path":"blot/A/APEH.webp","fingerprint":"a7a243ae6cdfe34643e196e58b5edb17","bytes":259650},
     "APELA": {"name":"apelin receptor early endogenous ligand","path":"blot/A/APELA.webp","fingerprint":"488320e4b1c7667f399399356cdb901c","bytes":157916},
-    "APEX1": {"name":"apurinic/apyrimidinic endodeoxyribonuclease 1","path":"blot/A/APEX1.webp","fingerprint":"0e7c354313a355c86b02f96a4f48d26f","bytes":56588},
+    "APEX1": {"name":"apurinic/apyrimidinic endodeoxyribonuclease 1","path":"blot/A/APEX1.webp","fingerprint":"ca94994f3f71709ee9731be36c1c3961","bytes":202136},
     "APEX2": {"name":"apurinic/apyrimidinic endodeoxyribonuclease 2","path":"blot/A/APEX2.webp","fingerprint":"93932e986750ffe30befde39d25cedc4","bytes":187950},
     "APH1A": {"name":"aph-1A gamma-secretase subunit","path":"blot/A/APH1A.webp","fingerprint":"e50259f541ccbd7c36a4b2d68d866921","bytes":97256},
     "APH1B": {"name":"aph-1B gamma-secretase subunit","path":"blot/A/APH1B.webp","fingerprint":"4d9229c618470e1bb181d84e4798aeaa","bytes":75142},
