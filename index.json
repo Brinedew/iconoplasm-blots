@@ -4720,7 +4720,7 @@
     "ECM2": {"name":"extracellular matrix protein 2","path":"blot/E/ECM2.webp","fingerprint":"dcff9becd094c303d7578d0dc5a74580","bytes":165328},
     "ECPAS": {"name":"Ecm29 proteasome adaptor and scaffold","path":"blot/E/ECPAS.webp","fingerprint":"3dd34644707745611868a7517238af52","bytes":103024},
     "ECRG4": {"name":"ECRG4 augurin precursor","path":"blot/E/ECRG4.webp","fingerprint":"0c798811ad6c840f24d86946dfec3c9c","bytes":111804},
-    "ECSCR": {"name":"endothelial cell surface expressed chemotaxis and apoptosis regulator","path":"blot/E/ECSCR.webp","fingerprint":"f5235cea85b033f96ebd3ba628112d82","bytes":221198},
+    "ECSCR": {"name":"endothelial cell surface expressed chemotaxis and apoptosis regulator","path":"blot/E/ECSCR.webp","fingerprint":"adbac6a77f2cc6ac71ebaee998d59ec7","bytes":112772},
     "ECSIT": {"name":"ECSIT signaling integrator","path":"blot/E/ECSIT.webp","fingerprint":"53dd6659c688718c2e6fd9946fafed4d","bytes":113262},
     "ECT2": {"name":"epithelial cell transforming 2","path":"blot/E/ECT2.webp","fingerprint":"732022707efd66b2d72958e6bb5f2069","bytes":122590},
     "ECT2L": {"name":"epithelial cell transforming 2 like","path":"blot/E/ECT2L.webp","fingerprint":"e9e98643df043592e1d6d2d94e7ee131","bytes":164814},
