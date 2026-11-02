@@ -9541,7 +9541,7 @@
     "MEX3A": {"name":"mex-3 RNA binding family member A","path":"blot/M/MEX3A.webp","fingerprint":"138eeae94b64bf1b395ece3d27221f98","bytes":312652},
     "MEX3B": {"name":"mex-3 RNA binding family member B","path":"blot/M/MEX3B.webp","fingerprint":"5b95f0f06d56c9a0fa2a628deb357feb","bytes":109622},
     "MEX3C": {"name":"mex-3 RNA binding family member C","path":"blot/M/MEX3C.webp","fingerprint":"dc11fdf69a6b29effb1e577e33557df4","bytes":63628},
-    "MEX3D": {"name":"mex-3 RNA binding family member D","path":"blot/M/MEX3D.webp","fingerprint":"b34d3602961963f256666c66c5e2d589","bytes":81722},
+    "MEX3D": {"name":"mex-3 RNA binding family member D","path":"blot/M/MEX3D.webp","fingerprint":"b19384ec978ac0ff841f08c5f9901208","bytes":147532},
     "MFAP1": {"name":"microfibril associated protein 1","path":"blot/M/MFAP1.webp","fingerprint":"84dc334fe7636b29275829c2ca5f1344","bytes":213758},
     "MFAP2": {"name":"microfibril associated protein 2","path":"blot/M/MFAP2.webp","fingerprint":"8097b044067a69add9a47719c48e8960","bytes":95872},
     "MFAP3": {"name":"microfibril associated protein 3","path":"blot/M/MFAP3.webp","fingerprint":"ddbecd3da15b3f13f4aa1d9d4913a77e","bytes":71192},
