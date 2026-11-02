@@ -10525,7 +10525,7 @@
     "NFIL3": {"name":"nuclear factor, interleukin 3 regulated","path":"blot/N/NFIL3.webp","fingerprint":"d9ed15c01ab790aa0bbfd69cc811ccf5","bytes":103040},
     "NFILZ": {"name":"NFIL3 like basic leucine zipper","path":"blot/N/NFILZ.webp","fingerprint":"721765ffc8bc01bc2dae8f74eae31d97","bytes":117744},
     "NFIX": {"name":"nuclear factor I X","path":"blot/N/NFIX.webp","fingerprint":"d4e0235682535720657676961535266b","bytes":108858},
-    "NFKB1": {"name":"nuclear factor kappa B subunit 1","path":"blot/N/NFKB1.webp","fingerprint":"e876cf4e3c8bec4b963c78683166a79a","bytes":134366},
+    "NFKB1": {"name":"nuclear factor kappa B subunit 1","path":"blot/N/NFKB1.webp","fingerprint":"2ffb19a67345b7eb4b06aaae7e2e61a6","bytes":134102},
     "NFKB2": {"name":"nuclear factor kappa B subunit 2","path":"blot/N/NFKB2.webp","fingerprint":"1fa52368f8c806b023964dfa71e1a181","bytes":110834},
     "NFKBIA": {"name":"NFKB inhibitor alpha","path":"blot/N/NFKBIA.webp","fingerprint":"f33b0a651c151fa5fbe7e8b745888da6","bytes":114886},
     "NFKBIB": {"name":"NFKB inhibitor beta","path":"blot/N/NFKBIB.webp","fingerprint":"93e4f01712d6cacfea2869be90dfcd7a","bytes":126080},
