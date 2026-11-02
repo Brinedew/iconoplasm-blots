@@ -16402,7 +16402,7 @@
     "TAOK2": {"name":"TAO kinase 2","path":"blot/T/TAOK2.webp","fingerprint":"e7691864aab474122fbe367383d86f07","bytes":247994},
     "TAOK3": {"name":"TAO kinase 3","path":"blot/T/TAOK3.webp","fingerprint":"3e91f56dad676aaed8b227b28e8fd003","bytes":199762},
     "TAP1": {"name":"transporter 1, ATP binding cassette subfamily B member","path":"blot/T/TAP1.webp","fingerprint":"2fe007d128ca842ab7f87e1687469c15","bytes":213784},
-    "TAP2": {"name":"transporter 2, ATP binding cassette subfamily B member","path":"blot/T/TAP2.webp","fingerprint":"d365f9136765efa8c8354ae835e5034b","bytes":95322},
+    "TAP2": {"name":"transporter 2, ATP binding cassette subfamily B member","path":"blot/T/TAP2.webp","fingerprint":"c0fc449efb35a2881069f696a2ab2997","bytes":118740},
     "TAPBP": {"name":"TAP binding protein","path":"blot/T/TAPBP.webp","fingerprint":"b082a65f977e794876848c5cf5b604df","bytes":123556},
     "TAPBPL": {"name":"TAP binding protein like","path":"blot/T/TAPBPL.webp","fingerprint":"cbf32d957df15bd7837dc8eb5830f360","bytes":146002},
     "TAPT1": {"name":"transmembrane anterior posterior transformation 1","path":"blot/T/TAPT1.webp","fingerprint":"99d2e0b76203c44025987724de97aef7","bytes":126166},
