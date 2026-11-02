@@ -8897,7 +8897,7 @@
     "LRIT2": {"name":"leucine rich repeat, Ig-like and transmembrane domains 2","path":"blot/L/LRIT2.webp","fingerprint":"44b505a745a9e965ab249aefe08d7a9c","bytes":81858},
     "LRIT3": {"name":"leucine rich repeat, Ig-like and transmembrane domains 3","path":"blot/L/LRIT3.webp","fingerprint":"03068ab70038a3953a5b2ae64bbbf630","bytes":181912},
     "LRMDA": {"name":"leucine rich melanocyte differentiation associated","path":"blot/L/LRMDA.webp","fingerprint":"49d43fa9e6ce6066f8a773c4512bdb07","bytes":117702},
-    "LRP1": {"name":"LDL receptor related protein 1","path":"blot/L/LRP1.webp","fingerprint":"dc1e572c5a739c4c0051afa6347d4bdf","bytes":145574},
+    "LRP1": {"name":"LDL receptor related protein 1","path":"blot/L/LRP1.webp","fingerprint":"5a9a57e3ddef83fa175dc235027a49c9","bytes":151512},
     "LRP10": {"name":"LDL receptor related protein 10","path":"blot/L/LRP10.webp","fingerprint":"56148c2a8618f5db9121cf543dd6dd6c","bytes":173630},
     "LRP11": {"name":"LDL receptor related protein 11","path":"blot/L/LRP11.webp","fingerprint":"edbfa99d6c991eae20329b117bf60499","bytes":113600},
     "LRP12": {"name":"LDL receptor related protein 12","path":"blot/L/LRP12.webp","fingerprint":"c4e274cff23c2838cbcf1a5c3d3b67ab","bytes":119704},
