@@ -8775,7 +8775,7 @@
     "LIN28A": {"name":"lin-28 RNA binding posttranscriptional regulator A","path":"blot/L/LIN28A.webp","fingerprint":"51f1468dc3b91a65b4c6c055fabeace2","bytes":84056},
     "LIN28B": {"name":"lin-28 RNA binding posttranscriptional regulator B","path":"blot/L/LIN28B.webp","fingerprint":"36ca49500c84048de521dc8552594eca","bytes":118316},
     "LIN37": {"name":"lin-37 DREAM MuvB core complex component","path":"blot/L/LIN37.webp","fingerprint":"70cbe5df78a1dde66799d258a381bddf","bytes":73050},
-    "LIN52": {"name":"lin-52 DREAM MuvB core complex component","path":"blot/L/LIN52.webp","fingerprint":"80a5f55d3cf485e3ce2e91cb1fcf25e2","bytes":129206},
+    "LIN52": {"name":"lin-52 DREAM MuvB core complex component","path":"blot/L/LIN52.webp","fingerprint":"72b723c0f9ee83b5267250ddd10eb8ec","bytes":81294},
     "LIN54": {"name":"lin-54 DREAM MuvB core complex component","path":"blot/L/LIN54.webp","fingerprint":"da6a3b9f0e49d143f1ee2df174451542","bytes":129192},
     "LIN7A": {"name":"lin-7 cell polarity scaffold A","path":"blot/L/LIN7A.webp","fingerprint":"ef0c5a8ded115aa2ada5a4e0048a0ecf","bytes":203228},
     "LIN7B": {"name":"lin-7 cell polarity scaffold B","path":"blot/L/LIN7B.webp","fingerprint":"b5bf1200fe073e050402a68ee13c7e20","bytes":232302},
