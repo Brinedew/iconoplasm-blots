@@ -9031,7 +9031,7 @@
     "LTB": {"name":"lymphotoxin beta","path":"blot/L/LTB.webp","fingerprint":"44ea778ec5690ee835166ae961a8b311","bytes":100348},
     "LTB4R": {"name":"leukotriene B4 receptor","path":"blot/L/LTB4R.webp","fingerprint":"01fd0214ede0f8f6b9e255103ca7bd51","bytes":240414},
     "LTB4R2": {"name":"leukotriene B4 receptor 2","path":"blot/L/LTB4R2.webp","fingerprint":"11f432955d1cae26a080d2140af73e6f","bytes":134274},
-    "LTBP1": {"name":"latent transforming growth factor beta binding protein 1","path":"blot/L/LTBP1.webp","fingerprint":"5152e771cdaf86304cb99bbb96b755c1","bytes":91858},
+    "LTBP1": {"name":"latent transforming growth factor beta binding protein 1","path":"blot/L/LTBP1.webp","fingerprint":"ad1d91728917c33d23273e8736de57a4","bytes":124664},
     "LTBP2": {"name":"latent transforming growth factor beta binding protein 2","path":"blot/L/LTBP2.webp","fingerprint":"1296f661844ba0376f756e85e97ba80a","bytes":222294},
     "LTBP3": {"name":"latent transforming growth factor beta binding protein 3","path":"blot/L/LTBP3.webp","fingerprint":"29b5018f52fbb33903f24bdfaf8a16c4","bytes":182344},
     "LTBP4": {"name":"latent transforming growth factor beta binding protein 4","path":"blot/L/LTBP4.webp","fingerprint":"81dc6e727d89ae7b1f1b37f38726b6a6","bytes":247852},
