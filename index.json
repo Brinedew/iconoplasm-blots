@@ -1515,7 +1515,7 @@
     "BDH2": {"name":"3-hydroxybutyrate dehydrogenase 2","path":"blot/B/BDH2.webp","fingerprint":"a6055740098089e4c5b81d7afc7dcae1","bytes":127926},
     "BDKRB1": {"name":"bradykinin receptor B1","path":"blot/B/BDKRB1.webp","fingerprint":"3dd1b0fc62c3ca353fecddf6a04c290a","bytes":113902},
     "BDKRB2": {"name":"bradykinin receptor B2","path":"blot/B/BDKRB2.webp","fingerprint":"a939e7d11cbc7f5c1b28153899e14893","bytes":97232},
-    "BDNF": {"name":"brain derived neurotrophic factor","path":"blot/B/BDNF.webp","fingerprint":"8937464275bfc1768206d7a9195f6e73","bytes":112206},
+    "BDNF": {"name":"brain derived neurotrophic factor","path":"blot/B/BDNF.webp","fingerprint":"30e138755f1977d23269e4ecc1d8f9db","bytes":201902},
     "BDP1": {"name":"BDP1 general transcription factor IIIB subunit","path":"blot/B/BDP1.webp","fingerprint":"8a1a03987ad136bfed1c7cb22361c244","bytes":117448},
     "BEAN1": {"name":"brain expressed associated with NEDD4 1","path":"blot/B/BEAN1.webp","fingerprint":"126b569ffdfee9cf6c930574a292c738","bytes":81688},
     "BECN1": {"name":"beclin 1","path":"blot/B/BECN1.webp","fingerprint":"7776e7d8f957257cee13970f4f128255","bytes":126810},
