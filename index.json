@@ -4611,7 +4611,7 @@
     "DUS2": {"name":"dihydrouridine synthase 2","path":"blot/D/DUS2.webp","fingerprint":"c72506ad245a2c4ed502d927db355df3","bytes":180504},
     "DUS3L": {"name":"dihydrouridine synthase 3 like","path":"blot/D/DUS3L.webp","fingerprint":"14264d5262e05296b3ad2c7da6d20813","bytes":65186},
     "DUS4L": {"name":"dihydrouridine synthase 4 like","path":"blot/D/DUS4L.webp","fingerprint":"a1ca1caa70774cb7a28e1cf0ac15fa56","bytes":121180},
-    "DUSP1": {"name":"dual specificity phosphatase 1","path":"blot/D/DUSP1.webp","fingerprint":"ca8f89b98cee4467dd3d4c077997cc02","bytes":189354},
+    "DUSP1": {"name":"dual specificity phosphatase 1","path":"blot/D/DUSP1.webp","fingerprint":"7049441ef7ccd09126cca87dc989b854","bytes":61998},
     "DUSP10": {"name":"dual specificity phosphatase 10","path":"blot/D/DUSP10.webp","fingerprint":"a2424813c35a4193a7d7dc9612897c02","bytes":85926},
     "DUSP11": {"name":"dual specificity phosphatase 11","path":"blot/D/DUSP11.webp","fingerprint":"720d4881bdca1d3e18e703f0b5bf668b","bytes":46476},
     "DUSP12": {"name":"dual specificity phosphatase 12","path":"blot/D/DUSP12.webp","fingerprint":"7099dbd81bbf54bff6d3e7d0446279ca","bytes":125478},
