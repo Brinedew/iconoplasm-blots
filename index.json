@@ -11909,7 +11909,7 @@
     "PCMTD2": {"name":"protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 2","path":"blot/P/PCMTD2.webp","fingerprint":"320dc2cf811a03097e824abeb1807af2","bytes":71768},
     "PCNA": {"name":"proliferating cell nuclear antigen","path":"blot/P/PCNA.webp","fingerprint":"72d287eb393bfdf94ab80602494b6536","bytes":155730},
     "PCNP": {"name":"PEST proteolytic signal containing nuclear protein","path":"blot/P/PCNP.webp","fingerprint":"c62876b63c6095f96fb1d3c85f24886a","bytes":77980},
-    "PCNT": {"name":"pericentrin","path":"blot/P/PCNT.webp","fingerprint":"5b75b4e990f9971e75200ed03b2598e3","bytes":147820},
+    "PCNT": {"name":"pericentrin","path":"blot/P/PCNT.webp","fingerprint":"f1b3bccdec9723911a08441685013c90","bytes":184406},
     "PCNX1": {"name":"pecanex 1","path":"blot/P/PCNX1.webp","fingerprint":"7a4a9a9e768fa55284700138c4d51d29","bytes":144842},
     "PCNX2": {"name":"pecanex 2","path":"blot/P/PCNX2.webp","fingerprint":"3171063bcbc6fec0394b4b57cf0632f3","bytes":206094},
     "PCNX3": {"name":"pecanex 3","path":"blot/P/PCNX3.webp","fingerprint":"56794456d416a3c0f824c8deeb06dc6f","bytes":67520},
