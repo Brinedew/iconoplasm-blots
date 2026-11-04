@@ -12307,7 +12307,7 @@
     "PJA1": {"name":"praja ring finger ubiquitin ligase 1","path":"blot/P/PJA1.webp","fingerprint":"4cb95fdce5a15eeff676f892a6f0bff0","bytes":108974},
     "PJA2": {"name":"praja ring finger ubiquitin ligase 2","path":"blot/P/PJA2.webp","fingerprint":"a63e7ec42abb9fe7a9deb08e8d22ffa8","bytes":241986},
     "PJVK": {"name":"pejvakin","path":"blot/P/PJVK.webp","fingerprint":"3551664748326824a8406cdb8fab5a27","bytes":77012},
-    "PKD1": {"name":"polycystin 1, transient receptor potential channel interacting","path":"blot/P/PKD1.webp","fingerprint":"1727f8586ae525a7524bd36613ea4d90","bytes":144384},
+    "PKD1": {"name":"polycystin 1, transient receptor potential channel interacting","path":"blot/P/PKD1.webp","fingerprint":"b57bbad33dfae35f5d29c5982359774c","bytes":111250},
     "PKD1L1": {"name":"polycystin 1 like 1, transient receptor potential channel interacting","path":"blot/P/PKD1L1.webp","fingerprint":"6f2fab0a91087776acec6d4b216cbc8f","bytes":191634},
     "PKD1L2": {"name":"polycystin 1 like 2 (gene/pseudogene)","path":"blot/P/PKD1L2.webp","fingerprint":"c6374f9563331e2e37ea2b9b9e019277","bytes":130088},
     "PKD1L3": {"name":"polycystin 1 like 3, transient receptor potential channel interacting","path":"blot/P/PKD1L3.webp","fingerprint":"c4379394745ed2a81638dd69273571f5","bytes":100332},
