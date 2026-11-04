@@ -6646,7 +6646,7 @@
     "GRAPL": {"name":"GRB2 related adaptor protein like","path":"blot/G/GRAPL.webp","fingerprint":"71373afc0d4de8b6173b1ee2d4e3a16d","bytes":83236},
     "GRB10": {"name":"growth factor receptor bound protein 10","path":"blot/G/GRB10.webp","fingerprint":"ea1763ccea13b07413c7029e86923d2b","bytes":86734},
     "GRB14": {"name":"growth factor receptor bound protein 14","path":"blot/G/GRB14.webp","fingerprint":"904d9a2345ecdcfcbedfca51c26b53ff","bytes":132924},
-    "GRB2": {"name":"growth factor receptor bound protein 2","path":"blot/G/GRB2.webp","fingerprint":"401b0e08cb80f65f36ee2e595c98aa10","bytes":168126},
+    "GRB2": {"name":"growth factor receptor bound protein 2","path":"blot/G/GRB2.webp","fingerprint":"cac6c493fa18dd03a4ee72d91f30f4c0","bytes":64998},
     "GRB7": {"name":"growth factor receptor bound protein 7","path":"blot/G/GRB7.webp","fingerprint":"1d5b852fbfd58c254de95abc6c92fb0e","bytes":105682},
     "GREB1": {"name":"growth regulating estrogen receptor binding 1","path":"blot/G/GREB1.webp","fingerprint":"98558ec1936d2258eeeb2d9d5536b993","bytes":103024},
     "GREB1L": {"name":"GREB1 like retinoic acid receptor coactivator","path":"blot/G/GREB1L.webp","fingerprint":"143a3acf477ab8664f27990e722e474f","bytes":99656},
