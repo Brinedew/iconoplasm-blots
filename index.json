@@ -17608,7 +17608,7 @@
     "TSC2": {"name":"TSC complex subunit 2","path":"blot/T/TSC2.webp","fingerprint":"e78fe14b2c2695f1e2c89e4cb5e4f35c","bytes":146008},
     "TSC22D1": {"name":"TSC22 domain family member 1","path":"blot/T/TSC22D1.webp","fingerprint":"119fbd2495e1713f5b740cd2989ab9fe","bytes":90636},
     "TSC22D2": {"name":"TSC22 domain family member 2","path":"blot/T/TSC22D2.webp","fingerprint":"345f550f16c98211b2f842688f9cf504","bytes":172646},
-    "TSC22D3": {"name":"TSC22 domain family member 3","path":"blot/T/TSC22D3.webp","fingerprint":"568c3ac9b71f529b0964d4139b61119a","bytes":172268},
+    "TSC22D3": {"name":"TSC22 domain family member 3","path":"blot/T/TSC22D3.webp","fingerprint":"641dc6504a5143a7aed392a5773679da","bytes":62580},
     "TSC22D4": {"name":"TSC22 domain family member 4","path":"blot/T/TSC22D4.webp","fingerprint":"baf45cd7613c081ee2979810357235ef","bytes":132194},
     "TSEN15": {"name":"tRNA splicing endonuclease subunit 15","path":"blot/T/TSEN15.webp","fingerprint":"c5d8a2b532dd24830d6c76d9665437e2","bytes":136742},
     "TSEN2": {"name":"tRNA splicing endonuclease subunit 2","path":"blot/T/TSEN2.webp","fingerprint":"89ad5a583a8681f7ae476b9d7cac9f72","bytes":169782},
