@@ -3757,7 +3757,7 @@
     "CTLA4": {"name":"cytotoxic T-lymphocyte associated protein 4","path":"blot/C/CTLA4.webp","fingerprint":"050e31678ea1d01831b55e8b9d303407","bytes":172728},
     "CTNNA1": {"name":"catenin alpha 1","path":"blot/C/CTNNA1.webp","fingerprint":"11d4cf8056849ea65188d19a2d9089f3","bytes":142842},
     "CTNNA2": {"name":"catenin alpha 2","path":"blot/C/CTNNA2.webp","fingerprint":"4c94509bc2bbb1a6528f56bdb5b0b34f","bytes":125874},
-    "CTNNA3": {"name":"catenin alpha 3","path":"blot/C/CTNNA3.webp","fingerprint":"60177a5676742a15cc409e7d1675c038","bytes":105692},
+    "CTNNA3": {"name":"catenin alpha 3","path":"blot/C/CTNNA3.webp","fingerprint":"147ca3ed44962a5efee79174fbe5584b","bytes":85788},
     "CTNNAL1": {"name":"catenin alpha like 1","path":"blot/C/CTNNAL1.webp","fingerprint":"3953f58a25b7e1e4f84fce11c9517ec1","bytes":115200},
     "CTNNB1": {"name":"catenin beta 1","path":"blot/C/CTNNB1.webp","fingerprint":"4f70633014242b9e7f5cae23d9caa9cd","bytes":113978},
     "CTNNBIP1": {"name":"catenin beta interacting protein 1","path":"blot/C/CTNNBIP1.webp","fingerprint":"f39eb50f015410ccd13eca39147e57bb","bytes":88308},
