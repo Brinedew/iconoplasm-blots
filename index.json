@@ -14120,7 +14120,7 @@
     "RPL3L": {"name":"ribosomal protein L3 like","path":"blot/R/RPL3L.webp","fingerprint":"d85b06fe09e324569cd5dcf5ece77495","bytes":137374},
     "RPL4": {"name":"ribosomal protein L4","path":"blot/R/RPL4.webp","fingerprint":"976505507d0da3257f1d8e1202e5382e","bytes":88088},
     "RPL41": {"name":"ribosomal protein L41","path":"blot/R/RPL41.webp","fingerprint":"14068e728966455ff038fee36956b004","bytes":161016},
-    "RPL5": {"name":"ribosomal protein L5","path":"blot/R/RPL5.webp","fingerprint":"ca87d37ebd6dcfb4eae8ee3b434a1f77","bytes":67854},
+    "RPL5": {"name":"ribosomal protein L5","path":"blot/R/RPL5.webp","fingerprint":"89528da7d6b2b8ece5f74cf7c8bc2877","bytes":137692},
     "RPL6": {"name":"ribosomal protein L6","path":"blot/R/RPL6.webp","fingerprint":"5025738f7e4c0f4762ffa3840c502860","bytes":103016},
     "RPL7": {"name":"ribosomal protein L7","path":"blot/R/RPL7.webp","fingerprint":"9d1662f05af4ba99a7e5ea357f656502","bytes":179672},
     "RPL7A": {"name":"ribosomal protein L7a","path":"blot/R/RPL7A.webp","fingerprint":"f0a88e6b8fd0dccc8c978f5e34262f1b","bytes":209236},
