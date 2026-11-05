@@ -12903,7 +12903,7 @@
     "PRICKLE4": {"name":"prickle planar cell polarity protein 4","path":"blot/P/PRICKLE4.webp","fingerprint":"c32d29422619fa0512fb25e0953a6402","bytes":88296},
     "PRIM1": {"name":"DNA primase subunit 1","path":"blot/P/PRIM1.webp","fingerprint":"9d8cdc4b9d859b438a3a16f9e4e9c05c","bytes":104528},
     "PRIM2": {"name":"DNA primase subunit 2","path":"blot/P/PRIM2.webp","fingerprint":"f95dc6f8c1724e260de0d65afb5ada39","bytes":252454},
-    "PRIMA1": {"name":"proline rich membrane anchor 1","path":"blot/P/PRIMA1.webp","fingerprint":"482112e0a8fe0705f3dc2a609fd39ede","bytes":219728},
+    "PRIMA1": {"name":"proline rich membrane anchor 1","path":"blot/P/PRIMA1.webp","fingerprint":"7bf85fb808a03ddc1e578117fba1562b","bytes":88964},
     "PRIMPOL": {"name":"primase and DNA directed polymerase","path":"blot/P/PRIMPOL.webp","fingerprint":"987f92f2b7c7dd33e6186b5b071d1b34","bytes":115090},
     "PRKAA1": {"name":"protein kinase AMP-activated catalytic subunit alpha 1","path":"blot/P/PRKAA1.webp","fingerprint":"a868690e43b072e8d1d1bdba6cd9c2e7","bytes":143880},
     "PRKAA2": {"name":"protein kinase AMP-activated catalytic subunit alpha 2","path":"blot/P/PRKAA2.webp","fingerprint":"14580f992845b90729cc8cc4e5547994","bytes":93566},
