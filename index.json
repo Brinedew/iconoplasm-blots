@@ -6993,7 +6993,7 @@
     "HDAC11": {"name":"histone deacetylase 11","path":"blot/H/HDAC11.webp","fingerprint":"128eadb0a63eacd6903faa941512ccf9","bytes":96672},
     "HDAC2": {"name":"histone deacetylase 2","path":"blot/H/HDAC2.webp","fingerprint":"a1abee6fad00a82f84aca1d4d3fbb1c0","bytes":122260},
     "HDAC3": {"name":"histone deacetylase 3","path":"blot/H/HDAC3.webp","fingerprint":"b30ae200268633168696df30ec4ee609","bytes":61328},
-    "HDAC4": {"name":"histone deacetylase 4","path":"blot/H/HDAC4.webp","fingerprint":"83dea0e421bab7e15ccd5e2149afca66","bytes":61194},
+    "HDAC4": {"name":"histone deacetylase 4","path":"blot/H/HDAC4.webp","fingerprint":"9db1f156822ebdf2cfcc7ca0553d0eb5","bytes":101614},
     "HDAC5": {"name":"histone deacetylase 5","path":"blot/H/HDAC5.webp","fingerprint":"feddf50f33f05ac47d54887675fb725b","bytes":82530},
     "HDAC6": {"name":"histone deacetylase 6","path":"blot/H/HDAC6.webp","fingerprint":"92eac6f0cd7c4ab2a6e21468eec5a69d","bytes":65512},
     "HDAC7": {"name":"histone deacetylase 7","path":"blot/H/HDAC7.webp","fingerprint":"d4109bc8de51e71e82906347f8eaa21d","bytes":83952},
