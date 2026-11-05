@@ -12934,7 +12934,7 @@
     "PRKD3": {"name":"protein kinase D3","path":"blot/P/PRKD3.webp","fingerprint":"74b9d4a483505b5db7366e860109441e","bytes":143096},
     "PRKDC": {"name":"protein kinase, DNA-activated, catalytic subunit","path":"blot/P/PRKDC.webp","fingerprint":"883c1afb66c9c5f631104fbcd5e28aef","bytes":140008},
     "PRKG1": {"name":"protein kinase cGMP-dependent 1","path":"blot/P/PRKG1.webp","fingerprint":"efc03666d5f499dfdc3b9c0f3bbdab3c","bytes":160422},
-    "PRKG2": {"name":"protein kinase cGMP-dependent 2","path":"blot/P/PRKG2.webp","fingerprint":"c12f4c400999bc7da733ecd88ad6cfd2","bytes":150836},
+    "PRKG2": {"name":"protein kinase cGMP-dependent 2","path":"blot/P/PRKG2.webp","fingerprint":"b98660f649433f2bd4a103b3690cc9f8","bytes":60354},
     "PRKN": {"name":"parkin RBR E3 ubiquitin protein ligase","path":"blot/P/PRKN.webp","fingerprint":"2fd4862502c4a664dd54ad34f4d4325f","bytes":75886},
     "PRKRA": {"name":"protein activator of interferon induced protein kinase EIF2AK2","path":"blot/P/PRKRA.webp","fingerprint":"da81c633950fa1b2217cd24d475a61f3","bytes":52960},
     "PRKRIP1": {"name":"PRKR interacting protein 1","path":"blot/P/PRKRIP1.webp","fingerprint":"26d6f7268e77104e80c87dfba78b5ba3","bytes":116604},
