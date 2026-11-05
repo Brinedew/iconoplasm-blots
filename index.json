@@ -842,7 +842,7 @@
     "APBB1IP": {"name":"amyloid beta precursor protein binding family B member 1 interacting protein","path":"blot/A/APBB1IP.webp","fingerprint":"95a595d9cb32973b0e4d6697e91c42ea","bytes":159064},
     "APBB2": {"name":"amyloid beta precursor protein binding family B member 2","path":"blot/A/APBB2.webp","fingerprint":"c6130234b53735c0cb4b89011a8be1cd","bytes":49938},
     "APBB3": {"name":"amyloid beta precursor protein binding family B member 3","path":"blot/A/APBB3.webp","fingerprint":"b67dfb7fdc938841cdb74e0a6d20d368","bytes":61570},
-    "APC": {"name":"APC regulator of Wnt signaling pathway","path":"blot/A/APC.webp","fingerprint":"2dc8df58cae48211ba73f8d18ffd4884","bytes":74724},
+    "APC": {"name":"APC regulator of Wnt signaling pathway","path":"blot/A/APC.webp","fingerprint":"1946f8c360067aab26aae62375436dba","bytes":95972},
     "APC2": {"name":"APC regulator of Wnt signaling pathway 2","path":"blot/A/APC2.webp","fingerprint":"c6727ab398a918d4d6d7b53ad7f4545f","bytes":175724},
     "APCDD1": {"name":"APC down-regulated 1","path":"blot/A/APCDD1.webp","fingerprint":"419e73ee70cf11a8ce07dd3d721ce0c7","bytes":191542},
     "APCDD1L": {"name":"APC down-regulated 1 like","path":"blot/A/APCDD1L.webp","fingerprint":"ef0b4f5b85a4e63258e5ec75889a63dd","bytes":154674},
