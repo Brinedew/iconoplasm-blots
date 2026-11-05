@@ -3738,7 +3738,7 @@
     "CTAGE6": {"name":"CTAGE family member 6","path":"blot/C/CTAGE6.webp","fingerprint":"b0f79d612c68158754e172141629ab02","bytes":160422},
     "CTAGE8": {"name":"CTAGE family member 8","path":"blot/C/CTAGE8.webp","fingerprint":"7ee07274830d8f0787340056f6a0236e","bytes":140628},
     "CTAGE9": {"name":"CTAGE family member 9","path":"blot/C/CTAGE9.webp","fingerprint":"7b625015ad3762cad04d1c0313190a7f","bytes":111324},
-    "CTBP1": {"name":"C-terminal binding protein 1","path":"blot/C/CTBP1.webp","fingerprint":"5fc131188700a47b72c932f492d4330e","bytes":106598},
+    "CTBP1": {"name":"C-terminal binding protein 1","path":"blot/C/CTBP1.webp","fingerprint":"1299253d4004aa55be6837d82dac9504","bytes":71498},
     "CTBP2": {"name":"C-terminal binding protein 2","path":"blot/C/CTBP2.webp","fingerprint":"b211a1e9346bd2007fd2ede3a9bbcf25","bytes":123752},
     "CTBS": {"name":"chitobiase","path":"blot/C/CTBS.webp","fingerprint":"7149a12f70f09d9d31082a986c626b6a","bytes":147226},
     "CTC1": {"name":"CST telomere replication complex component 1","path":"blot/C/CTC1.webp","fingerprint":"dbc706edf2fbe96abfd265982f935f49","bytes":140370},
