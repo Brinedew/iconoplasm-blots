@@ -10232,7 +10232,7 @@
     "NAA16": {"name":"N-alpha-acetyltransferase 16, NatA auxiliary subunit","path":"blot/N/NAA16.webp","fingerprint":"d2a2c965b0ba5c756660241c31611854","bytes":132522},
     "NAA20": {"name":"N-alpha-acetyltransferase 20, NatB catalytic subunit","path":"blot/N/NAA20.webp","fingerprint":"f5fc38ccb88687501b94f8af998675d9","bytes":84280},
     "NAA25": {"name":"N-alpha-acetyltransferase 25, NatB auxiliary subunit","path":"blot/N/NAA25.webp","fingerprint":"dd1c5cd78910ec197770936cb1dd940c","bytes":178644},
-    "NAA30": {"name":"N-alpha-acetyltransferase 30, NatC catalytic subunit","path":"blot/N/NAA30.webp","fingerprint":"910dba132a7e25e2388b4fa67e10d88b","bytes":86640},
+    "NAA30": {"name":"N-alpha-acetyltransferase 30, NatC catalytic subunit","path":"blot/N/NAA30.webp","fingerprint":"da7c4c446fee00432a9d7582a959be8a","bytes":151290},
     "NAA35": {"name":"N-alpha-acetyltransferase 35, NatC auxiliary subunit","path":"blot/N/NAA35.webp","fingerprint":"94a7913133a2bc4178f32dec4cf4aa30","bytes":198618},
     "NAA38": {"name":"N-alpha-acetyltransferase 38, NatC auxiliary subunit","path":"blot/N/NAA38.webp","fingerprint":"8fd3018a51f099af37e776af906b60e2","bytes":184946},
     "NAA40": {"name":"N-alpha-acetyltransferase 40, NatD catalytic subunit","path":"blot/N/NAA40.webp","fingerprint":"5d50ea51e4afc93d910e6ceb83100310","bytes":224806},
