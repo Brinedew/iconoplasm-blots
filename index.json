@@ -19211,7 +19211,7 @@
     "ZNF709": {"name":"zinc finger protein 709","path":"blot/Z/ZNF709.webp","fingerprint":"a3065ede8ea04df955efa3a007de7e9c","bytes":66960},
     "ZNF71": {"name":"zinc finger protein 71","path":"blot/Z/ZNF71.webp","fingerprint":"4385ef75b1e38d1d6eca3e49579b3098","bytes":135434},
     "ZNF710": {"name":"zinc finger protein 710","path":"blot/Z/ZNF710.webp","fingerprint":"12a37ec5fd85c78b1a1e2d4bdf02c7b2","bytes":130606},
-    "ZNF711": {"name":"zinc finger protein 711","path":"blot/Z/ZNF711.webp","fingerprint":"b751cb36a63e2c062716848c08a29ffb","bytes":83118},
+    "ZNF711": {"name":"ZFX family zinc finger ZNF711","path":"blot/Z/ZNF711.webp","fingerprint":"fd0975504ca22a6f266a493fdaba2982","bytes":84698},
     "ZNF713": {"name":"zinc finger protein 713","path":"blot/Z/ZNF713.webp","fingerprint":"f0e7177f3d1e7210e37960be1441761d","bytes":156648},
     "ZNF714": {"name":"zinc finger protein 714","path":"blot/Z/ZNF714.webp","fingerprint":"dc6289479bac455d42071c059f02d3b8","bytes":94120},
     "ZNF716": {"name":"zinc finger protein 716","path":"blot/Z/ZNF716.webp","fingerprint":"ac66f7fbed003deeaf9a1b4ff890831f","bytes":92628},
