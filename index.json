@@ -5170,7 +5170,7 @@
     "ETDA": {"name":"embryonic testis differentiation homolog A","path":"blot/E/ETDA.webp","fingerprint":"24e49a71e68760f353c8346a9e39720c","bytes":146328},
     "ETDB": {"name":"embryonic testis differentiation homolog B","path":"blot/E/ETDB.webp","fingerprint":"ca36193a27a5d783edc378660c48c8ac","bytes":107062},
     "ETDC": {"name":"embryonic testis differentiation homolog C","path":"blot/E/ETDC.webp","fingerprint":"746f33cd7a5dfc1be5d3a0916d3a1f74","bytes":92272},
-    "ETF1": {"name":"eukaryotic translation termination factor 1","path":"blot/E/ETF1.webp","fingerprint":"09166179f1f811b82710a83136af8f39","bytes":45112},
+    "ETF1": {"name":"eukaryotic translation termination factor 1","path":"blot/E/ETF1.webp","fingerprint":"e4199b1e263e43a7e3bf78593dda73c2","bytes":150686},
     "ETFA": {"name":"electron transfer flavoprotein subunit alpha","path":"blot/E/ETFA.webp","fingerprint":"12fcdf4e9813e33e6da3db63f4f1a8c5","bytes":98724},
     "ETFB": {"name":"electron transfer flavoprotein subunit beta","path":"blot/E/ETFB.webp","fingerprint":"3691f7ca0e3e1d4fa9eb04761305bf22","bytes":132500},
     "ETFBKMT": {"name":"electron transfer flavoprotein subunit beta lysine methyltransferase","path":"blot/E/ETFBKMT.webp","fingerprint":"9213518e27da3afd34ae78ef79c596b4","bytes":124194},
