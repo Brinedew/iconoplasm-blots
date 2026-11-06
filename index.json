@@ -6103,7 +6103,7 @@
     "GARIN6": {"name":"golgi associated RAB2 interactor family member 6","path":"blot/G/GARIN6.webp","fingerprint":"f9cc04c4a4fe6aca19fb792db6febf3d","bytes":105722},
     "GARNL3": {"name":"GTPase activating Rap/RanGAP domain like 3","path":"blot/G/GARNL3.webp","fingerprint":"0ad018cdbb0c2c61c5d47fca1a8d9fe2","bytes":131744},
     "GARRE1": {"name":"granule associated Rac and RHOG effector 1","path":"blot/G/GARRE1.webp","fingerprint":"e90ff87961394fe827846f9fc1c80ecb","bytes":154382},
-    "GARS1": {"name":"glycyl-tRNA synthetase 1","path":"blot/G/GARS1.webp","fingerprint":"3241b82155d3cd8b08b22950b0651bde","bytes":138878},
+    "GARS1": {"name":"glycyl-tRNA synthetase 1","path":"blot/G/GARS1.webp","fingerprint":"ea33a618759df5293fc2da12a34570d8","bytes":86738},
     "GART": {"name":"phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase","path":"blot/G/GART.webp","fingerprint":"6b69fcd3e8fb5e14ffd5f3843c323167","bytes":128512},
     "GAS1": {"name":"growth arrest specific 1","path":"blot/G/GAS1.webp","fingerprint":"a7efd2f23d1be59db0da1633db697d76","bytes":111940},
     "GAS2": {"name":"growth arrest specific 2","path":"blot/G/GAS2.webp","fingerprint":"c0e927ce72b5c1ef2251c51f4b496f08","bytes":71150},
