@@ -1431,7 +1431,7 @@
     "BAIAP3": {"name":"BAI1 associated protein 3","path":"blot/B/BAIAP3.webp","fingerprint":"4e6fbe55b529cad36949ea0572b8ee0e","bytes":281704},
     "BAK1": {"name":"BCL2 antagonist/killer 1","path":"blot/B/BAK1.webp","fingerprint":"df1d66c3c6176cdcf7365d824f557797","bytes":91872},
     "BAMBI": {"name":"BMP and activin membrane bound inhibitor","path":"blot/B/BAMBI.webp","fingerprint":"8f26054696b647ae5f07ef26b90b939b","bytes":121398},
-    "BANF1": {"name":"barrier to autointegration nuclear assembly factor 1","path":"blot/B/BANF1.webp","fingerprint":"d98060cf5f1fd4e9079ea6da4a3cfe70","bytes":223670},
+    "BANF1": {"name":"barrier to autointegration nuclear assembly factor 1","path":"blot/B/BANF1.webp","fingerprint":"bbea3452e9dd404dd7a0733f9e1e32e8","bytes":193678},
     "BANF2": {"name":"BANF family member 2","path":"blot/B/BANF2.webp","fingerprint":"9eb7c7e24acd765c181bd5a4a31d7f65","bytes":136252},
     "BANK1": {"name":"B cell scaffold protein with ankyrin repeats 1","path":"blot/B/BANK1.webp","fingerprint":"df5b197e3a6085baa56efdd48d608153","bytes":125352},
     "BANP": {"name":"BTG3 associated nuclear protein","path":"blot/B/BANP.webp","fingerprint":"0c02700f950da56e62df557bf67ed68f","bytes":64438},
