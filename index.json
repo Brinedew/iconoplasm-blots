@@ -6940,7 +6940,7 @@
     "HAPSTR1": {"name":"HUWE1 associated protein modifying stress responses","path":"blot/H/HAPSTR1.webp","fingerprint":"174d2fae3804d478991438bae60e888f","bytes":120856},
     "HAPSTR2": {"name":"HUWE1 associated protein modifying stress responses 2","path":"blot/H/HAPSTR2.webp","fingerprint":"b847a5ef0038ee04020d701939116d63","bytes":92090},
     "HARBI1": {"name":"harbinger transposase derived 1","path":"blot/H/HARBI1.webp","fingerprint":"1347843206ec935e785d38eeb7f4569b","bytes":99622},
-    "HARS1": {"name":"histidyl-tRNA synthetase 1","path":"blot/H/HARS1.webp","fingerprint":"b3c1abcaaebb5ad2b7bda073872d2c9f","bytes":90526},
+    "HARS1": {"name":"histidyl-tRNA synthetase 1","path":"blot/H/HARS1.webp","fingerprint":"96b6384a227097408f0165df94f70f09","bytes":144652},
     "HARS2": {"name":"histidyl-tRNA synthetase 2, mitochondrial","path":"blot/H/HARS2.webp","fingerprint":"a6592e64fb9be376fec53f9ea61eee9d","bytes":236022},
     "HAS1": {"name":"hyaluronan synthase 1","path":"blot/H/HAS1.webp","fingerprint":"cab3c5e3340107c7b1011f3d15374d7e","bytes":143038},
     "HAS2": {"name":"hyaluronan synthase 2","path":"blot/H/HAS2.webp","fingerprint":"add5e062185eb6399938a8f800f83cb0","bytes":82406},
