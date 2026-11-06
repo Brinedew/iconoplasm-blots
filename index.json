@@ -5840,7 +5840,7 @@
     "FOXJ1": {"name":"forkhead box J1","path":"blot/F/FOXJ1.webp","fingerprint":"11f2c3b9590476a9e7d732d7712dcaa6","bytes":156984},
     "FOXJ2": {"name":"forkhead box J2","path":"blot/F/FOXJ2.webp","fingerprint":"52236c5f38ab844c8c891708fb60ced3","bytes":135826},
     "FOXJ3": {"name":"forkhead box J3","path":"blot/F/FOXJ3.webp","fingerprint":"fe3b08d71aac208f6195d5afa8735e88","bytes":88162},
-    "FOXK1": {"name":"forkhead box K1","path":"blot/F/FOXK1.webp","fingerprint":"43dee2024c32d0348ea7e7b8c56d2c23","bytes":161112},
+    "FOXK1": {"name":"forkhead box K1","path":"blot/F/FOXK1.webp","fingerprint":"bc92bcc13dde48da29112f3acf335f99","bytes":203000},
     "FOXK2": {"name":"forkhead box K2","path":"blot/F/FOXK2.webp","fingerprint":"a87435a18ba638e02e54fc3a8cde291b","bytes":92340},
     "FOXL1": {"name":"forkhead box L1","path":"blot/F/FOXL1.webp","fingerprint":"882691a00feb35d8cb1cf0011d7ae8e3","bytes":210662},
     "FOXL2": {"name":"forkhead box L2","path":"blot/F/FOXL2.webp","fingerprint":"e68cbd84b257f76334c1e281d72917fc","bytes":157078},
