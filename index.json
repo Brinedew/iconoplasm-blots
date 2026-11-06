@@ -13245,7 +13245,7 @@
     "PTPN9": {"name":"protein tyrosine phosphatase non-receptor type 9","path":"blot/P/PTPN9.webp","fingerprint":"c2735c6656793aadb2f654bdf84b09f8","bytes":109552},
     "PTPRA": {"name":"protein tyrosine phosphatase receptor type A","path":"blot/P/PTPRA.webp","fingerprint":"ab98a505be8b82ae8db697b13f693bf7","bytes":161788},
     "PTPRB": {"name":"protein tyrosine phosphatase receptor type B","path":"blot/P/PTPRB.webp","fingerprint":"9ecf02fcffed4811c0fe4c41a5309cbc","bytes":78888},
-    "PTPRC": {"name":"protein tyrosine phosphatase receptor type C","path":"blot/P/PTPRC.webp","fingerprint":"734473e103b9ccd7937ad923b1a9ed6e","bytes":215876},
+    "PTPRC": {"name":"protein tyrosine phosphatase receptor type C","path":"blot/P/PTPRC.webp","fingerprint":"d417cdbb90c4e7583a611861af1f4fb5","bytes":136446},
     "PTPRCAP": {"name":"protein tyrosine phosphatase receptor type C associated protein","path":"blot/P/PTPRCAP.webp","fingerprint":"eba93fc608953e27cb3645c055277db0","bytes":105456},
     "PTPRD": {"name":"protein tyrosine phosphatase receptor type D","path":"blot/P/PTPRD.webp","fingerprint":"12c8b6187c62fc89ef2c0e5bcf9a81c4","bytes":142062},
     "PTPRE": {"name":"protein tyrosine phosphatase receptor type E","path":"blot/P/PTPRE.webp","fingerprint":"493ff6cfd67951b2e4f74c6f29e6a79f","bytes":57120},
