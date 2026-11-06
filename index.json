@@ -4560,7 +4560,7 @@
     "DRC8": {"name":"dynein regulatory complex subunit 8","path":"blot/D/DRC8.webp","fingerprint":"422108c588972d038ff634bd7a35d922","bytes":150050},
     "DRC9": {"name":"dynein regulatory complex subunit 9","path":"blot/D/DRC9.webp","fingerprint":"610ff30e4dad961ceadb1d91e004ed05","bytes":106574},
     "DRD1": {"name":"dopamine receptor D1","path":"blot/D/DRD1.webp","fingerprint":"193990b000cdcf5e105b0a8e8673f33d","bytes":126882},
-    "DRD2": {"name":"dopamine receptor D2","path":"blot/D/DRD2.webp","fingerprint":"b3652659222ef4700678c77aa1c64b37","bytes":92454},
+    "DRD2": {"name":"dopamine receptor D2","path":"blot/D/DRD2.webp","fingerprint":"f7251aba72cf764b90d1382788b356ec","bytes":114814},
     "DRD3": {"name":"dopamine receptor D3","path":"blot/D/DRD3.webp","fingerprint":"bf85e35799d2e149ba870bc39b1fea0a","bytes":130424},
     "DRD4": {"name":"dopamine receptor D4","path":"blot/D/DRD4.webp","fingerprint":"d64af84a7ffa1f2b27222f33ab0b9de8","bytes":151914},
     "DRD5": {"name":"dopamine receptor D5","path":"blot/D/DRD5.webp","fingerprint":"bd278cd8a4fe19c265cfb3aff1569f71","bytes":120890},
