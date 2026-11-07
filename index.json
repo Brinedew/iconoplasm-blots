@@ -16216,7 +16216,7 @@
     "SUPT20HL2": {"name":"SUPT20H like 2","path":"blot/S/SUPT20HL2.webp","fingerprint":"de41419f1e34ea55450a69ade0609e1c","bytes":102840},
     "SUPT3H": {"name":"SPT3 homolog, SAGA and STAGA complex component","path":"blot/S/SUPT3H.webp","fingerprint":"414bbe4a4b458387cf8ad422c0614070","bytes":114244},
     "SUPT4H1": {"name":"SPT4 homolog, DSIF elongation factor subunit","path":"blot/S/SUPT4H1.webp","fingerprint":"160af24a3ea30357b53f2c39468c885e","bytes":89284},
-    "SUPT5H": {"name":"SPT5 homolog, DSIF elongation factor subunit","path":"blot/S/SUPT5H.webp","fingerprint":"52d47bf2eac1796be9b68941ed1c4f84","bytes":127268},
+    "SUPT5H": {"name":"SPT5 homolog, DSIF elongation factor subunit","path":"blot/S/SUPT5H.webp","fingerprint":"2882ba9f662df5de1e9b7175c8c6a661","bytes":97894},
     "SUPT6H": {"name":"SPT6 homolog, histone chaperone and transcription elongation factor","path":"blot/S/SUPT6H.webp","fingerprint":"f72f0e78c6ff537f71f669ee5bb1762a","bytes":186128},
     "SUPT7L": {"name":"SPT7 like, STAGA complex subunit gamma","path":"blot/S/SUPT7L.webp","fingerprint":"43541317969e899e19f0df3896bad319","bytes":85802},
     "SUPV3L1": {"name":"Suv3 like RNA helicase","path":"blot/S/SUPV3L1.webp","fingerprint":"dadec5245de890515d73da6d5ce226f4","bytes":89308},
