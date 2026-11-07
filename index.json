@@ -10723,7 +10723,7 @@
     "NOTCH2NLA": {"name":"notch 2 N-terminal like A","path":"blot/N/NOTCH2NLA.webp","fingerprint":"8cd86cc63bbbc3f9c477615e5d06c796","bytes":225250},
     "NOTCH2NLB": {"name":"notch 2 N-terminal like B","path":"blot/N/NOTCH2NLB.webp","fingerprint":"c8a2ea8d2ef2b9f870b48402018dd453","bytes":147092},
     "NOTCH2NLC": {"name":"notch 2 N-terminal like C","path":"blot/N/NOTCH2NLC.webp","fingerprint":"5972dee5625f15dafe0ce8ee697c9e05","bytes":253784},
-    "NOTCH2NLR": {"name":"notch 2 N-terminal like R","path":"blot/N/NOTCH2NLR.webp","fingerprint":"3bdb6960b9fcea54c25ee758890e7e0b","bytes":135344},
+    "NOTCH2NLR": {"name":"notch 2 N-terminal like R","path":"blot/N/NOTCH2NLR.webp","fingerprint":"ca742dadb539daa2f6bf23db22ea6ecd","bytes":138518},
     "NOTCH3": {"name":"notch receptor 3","path":"blot/N/NOTCH3.webp","fingerprint":"cb1af2ad80af6ab7ab2587c97da01610","bytes":152942},
     "NOTCH4": {"name":"notch receptor 4","path":"blot/N/NOTCH4.webp","fingerprint":"617041f0d7d92c0ab799e47655bd7241","bytes":167372},
     "NOTO": {"name":"notochord homeobox","path":"blot/N/NOTO.webp","fingerprint":"dd4346d81e70c0585ff10fce461141a3","bytes":105612},
