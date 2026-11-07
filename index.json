@@ -9441,7 +9441,7 @@
     "MECOM": {"name":"MDS1 and EVI1 complex locus","path":"blot/M/MECOM.webp","fingerprint":"b02c02e29dcfef53d970ffa7b7740418","bytes":76222},
     "MECP2": {"name":"methyl-CpG binding protein 2","path":"blot/M/MECP2.webp","fingerprint":"b971e07c9cbd0911f44243f017cd24c4","bytes":123134},
     "MECR": {"name":"mitochondrial trans-2-enoyl-CoA reductase","path":"blot/M/MECR.webp","fingerprint":"0d4acee2f863dc2efb5aae4696951443","bytes":175936},
-    "MED1": {"name":"mediator complex subunit 1","path":"blot/M/MED1.webp","fingerprint":"6ffd1f8c4e1527e9a0eaa7a5c286e1b2","bytes":121106},
+    "MED1": {"name":"mediator complex subunit 1","path":"blot/M/MED1.webp","fingerprint":"2863f0e7ddbc33cad33457dc6a923fb9","bytes":69130},
     "MED10": {"name":"mediator complex subunit 10","path":"blot/M/MED10.webp","fingerprint":"083b7f81b65ea7e852f94b944d90a563","bytes":118420},
     "MED11": {"name":"mediator complex subunit 11","path":"blot/M/MED11.webp","fingerprint":"5887546a9be8a52e7077e3b0f7c1129d","bytes":114884},
     "MED12": {"name":"mediator complex subunit 12","path":"blot/M/MED12.webp","fingerprint":"69ef4ea010101491930a196c5ba34122","bytes":155766},
