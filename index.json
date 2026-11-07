@@ -18201,7 +18201,7 @@
     "VCAM1": {"name":"vascular cell adhesion molecule 1","path":"blot/V/VCAM1.webp","fingerprint":"8fd9f4afe52e671ee9c4032363765bdd","bytes":138852},
     "VCAN": {"name":"versican","path":"blot/V/VCAN.webp","fingerprint":"de1367685512f21f3a5718d6d1ec8f1c","bytes":98814},
     "VCF1": {"name":"VCP nuclear cofactor family member 1","path":"blot/V/VCF1.webp","fingerprint":"455797a095c639d9e98b5f4e480e4f8a","bytes":177638},
-    "VCF2": {"name":"VCP nuclear cofactor family member 2","path":"blot/V/VCF2.webp","fingerprint":"2505488f9be6c2f8db65ef318deeee4f","bytes":105014},
+    "VCF2": {"name":"VCP nuclear cofactor family member 2","path":"blot/V/VCF2.webp","fingerprint":"632afb3da29589d2895b3dc4269ebef9","bytes":121222},
     "VCL": {"name":"vinculin","path":"blot/V/VCL.webp","fingerprint":"33468964cab7bdbbed8961ec37fc7a26","bytes":112966},
     "VCP": {"name":"valosin containing protein","path":"blot/V/VCP.webp","fingerprint":"0415dc705f94886e68e3852d953b410f","bytes":115188},
     "VCPIP1": {"name":"valosin containing protein interacting protein 1","path":"blot/V/VCPIP1.webp","fingerprint":"2453b97eb0643269ccf760e744b73c2e","bytes":67476},
