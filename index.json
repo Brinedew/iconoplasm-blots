@@ -12592,7 +12592,7 @@
     "POLR1F": {"name":"RNA polymerase I subunit F","path":"blot/P/POLR1F.webp","fingerprint":"96b074713842ce6e55af7e3de5552d15","bytes":93800},
     "POLR1G": {"name":"RNA polymerase I subunit G","path":"blot/P/POLR1G.webp","fingerprint":"97f5dc3b2215d22f3cae9e82e736b818","bytes":176078},
     "POLR1H": {"name":"RNA polymerase I subunit H","path":"blot/P/POLR1H.webp","fingerprint":"92c1d9fef3e7e539c751dfa6ee9f72a6","bytes":96166},
-    "POLR2A": {"name":"RNA polymerase II subunit A","path":"blot/P/POLR2A.webp","fingerprint":"198d92845b4fa66b6259f4bb45130f9e","bytes":220768},
+    "POLR2A": {"name":"RNA polymerase II subunit A","path":"blot/P/POLR2A.webp","fingerprint":"c67de8ba9ebc24279dc59038409dc41a","bytes":135514},
     "POLR2B": {"name":"RNA polymerase II subunit B","path":"blot/P/POLR2B.webp","fingerprint":"c53e7a6060c9e195aab2f10ee8956278","bytes":130258},
     "POLR2C": {"name":"RNA polymerase II subunit C","path":"blot/P/POLR2C.webp","fingerprint":"6621d046059311f5b4c14a9ffb233804","bytes":108330},
     "POLR2D": {"name":"RNA polymerase II subunit D","path":"blot/P/POLR2D.webp","fingerprint":"0740f8f37dd2d5516a88117dcfaf5db4","bytes":131308},
