@@ -182,7 +182,7 @@
     "ACOX2": {"name":"acyl-CoA oxidase 2","path":"blot/A/ACOX2.webp","fingerprint":"88dcc3d9ac84216a9aeb7e7b1929b517","bytes":169672},
     "ACOX3": {"name":"acyl-CoA oxidase 3, pristanoyl","path":"blot/A/ACOX3.webp","fingerprint":"2e155b339746829ac9cd6f4bc99d0cab","bytes":154542},
     "ACOXL": {"name":"acyl-CoA oxidase like","path":"blot/A/ACOXL.webp","fingerprint":"c6cb668d7db29ebf19b3a3a7f9bda760","bytes":144198},
-    "ACP1": {"name":"acid phosphatase 1","path":"blot/A/ACP1.webp","fingerprint":"7975c4f827ac4e6538848baa82cb04ae","bytes":179506},
+    "ACP1": {"name":"acid phosphatase 1","path":"blot/A/ACP1.webp","fingerprint":"5741385cba222e4025cc977fa30758f3","bytes":91830},
     "ACP2": {"name":"acid phosphatase 2, lysosomal","path":"blot/A/ACP2.webp","fingerprint":"e90d13c67052510a5d6f998c811a8e2b","bytes":143834},
     "ACP3": {"name":"acid phosphatase 3","path":"blot/A/ACP3.webp","fingerprint":"06493220ef1610e50a27e3bbdd90fca6","bytes":85158},
     "ACP4": {"name":"acid phosphatase 4","path":"blot/A/ACP4.webp","fingerprint":"47aeb77e8aa443201c9c7e00a78b4247","bytes":93976},
