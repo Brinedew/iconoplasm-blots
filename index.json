@@ -6812,7 +6812,7 @@
     "GYS2": {"name":"glycogen synthase 2","path":"blot/G/GYS2.webp","fingerprint":"bf6adea697ba74964f79e5e6c060a56f","bytes":157544},
     "GZF1": {"name":"GDNF inducible zinc finger protein 1","path":"blot/G/GZF1.webp","fingerprint":"c094d99a5e04a5e54ad33e2a4305ca4e","bytes":351682},
     "GZMA": {"name":"granzyme A","path":"blot/G/GZMA.webp","fingerprint":"c5e6c9305a8ab78f4606590f5fa9b64c","bytes":34354},
-    "GZMB": {"name":"granzyme B","path":"blot/G/GZMB.webp","fingerprint":"dc4974b4c705b24ab1fd5ead3ba054d1","bytes":42596},
+    "GZMB": {"name":"granzyme B","path":"blot/G/GZMB.webp","fingerprint":"0b4e984d5395d83e8503d5fba02ab7a1","bytes":89948},
     "GZMH": {"name":"granzyme H","path":"blot/G/GZMH.webp","fingerprint":"74b3b2233a98eb531d1c7c6715c3e57c","bytes":83970},
     "GZMK": {"name":"granzyme K","path":"blot/G/GZMK.webp","fingerprint":"adfab2cd3a98b8998492f1c3480b6082","bytes":96538},
     "GZMM": {"name":"granzyme M","path":"blot/G/GZMM.webp","fingerprint":"9419c8df25d7d2de1874ced431110d19","bytes":70766},
