@@ -7172,7 +7172,7 @@
     "HMGXB4": {"name":"HMG-box containing 4","path":"blot/H/HMGXB4.webp","fingerprint":"b4c49d7d0db1404a5a7c4a51a7a1f1f9","bytes":160586},
     "HMHB1": {"name":"histocompatibility minor HB-1","path":"blot/H/HMHB1.webp","fingerprint":"e5a7f932650029b127cad600afdfb38e","bytes":194428},
     "HMMR": {"name":"hyaluronan mediated motility receptor","path":"blot/H/HMMR.webp","fingerprint":"d22b16140645b1c27a7cea8cfb0584af","bytes":254450},
-    "HMOX1": {"name":"heme oxygenase 1","path":"blot/H/HMOX1.webp","fingerprint":"f3f326d5abfb4cf4e6eca7401e73e981","bytes":98300},
+    "HMOX1": {"name":"heme oxygenase 1","path":"blot/H/HMOX1.webp","fingerprint":"3ec197d21eaabb1f761cb52d84037c06","bytes":148060},
     "HMOX2": {"name":"heme oxygenase 2","path":"blot/H/HMOX2.webp","fingerprint":"a6d697f0db8ec140421d32934aa140d9","bytes":145014},
     "HMSD": {"name":"histocompatibility minor serpin domain containing","path":"blot/H/HMSD.webp","fingerprint":"4097e8f95a24336dbdf7efea8856e11c","bytes":212014},
     "HMX1": {"name":"H6 family homeobox 1","path":"blot/H/HMX1.webp","fingerprint":"5a5595f0feb41390f13209f9272feb73","bytes":125368},
