@@ -15149,7 +15149,7 @@
     "SLC2A4RG": {"name":"SLC2A4 regulator","path":"blot/S/SLC2A4RG.webp","fingerprint":"90b5f72d8b1efd266a011d96b034e77d","bytes":108938},
     "SLC2A5": {"name":"solute carrier family 2 member 5","path":"blot/S/SLC2A5.webp","fingerprint":"c5490bd75923a12569a88da852b9b3f6","bytes":217092},
     "SLC2A6": {"name":"solute carrier family 2 member 6","path":"blot/S/SLC2A6.webp","fingerprint":"31952f69e28ee508482438a96ba900cf","bytes":145668},
-    "SLC2A7": {"name":"solute carrier family 2 member 7","path":"blot/S/SLC2A7.webp","fingerprint":"603445aa202df657810c4b72e8e64bc4","bytes":158958},
+    "SLC2A7": {"name":"solute carrier family 2 member 7","path":"blot/S/SLC2A7.webp","fingerprint":"9c05396e76bc3eff08230e595d0cff34","bytes":126964},
     "SLC2A8": {"name":"solute carrier family 2 member 8","path":"blot/S/SLC2A8.webp","fingerprint":"936d0ab1b2b2819624609d9c06c6aef9","bytes":122702},
     "SLC2A9": {"name":"solute carrier family 2 member 9","path":"blot/S/SLC2A9.webp","fingerprint":"fa49fb242bc6d7621dc7992b7ecde159","bytes":132374},
     "SLC30A1": {"name":"solute carrier family 30 member 1","path":"blot/S/SLC30A1.webp","fingerprint":"95219b39ff3aca54d59abe38a907a463","bytes":147914},
