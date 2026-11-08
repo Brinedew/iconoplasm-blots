@@ -11031,7 +11031,7 @@
     "OARD1": {"name":"O-acyl-ADP-ribose deacylase 1","path":"blot/O/OARD1.webp","fingerprint":"35fc578e78fe89050e5baf2f7f4548f2","bytes":161342},
     "OAS1": {"name":"2'-5'-oligoadenylate synthetase 1","path":"blot/O/OAS1.webp","fingerprint":"ce586761555ba5c5fea19113941ab114","bytes":103864},
     "OAS2": {"name":"2'-5'-oligoadenylate synthetase 2","path":"blot/O/OAS2.webp","fingerprint":"730d285bfe8b89154cdef30a068a9b5c","bytes":297912},
-    "OAS3": {"name":"2'-5'-oligoadenylate synthetase 3","path":"blot/O/OAS3.webp","fingerprint":"cab42579a49bcc69918ad72eddb6ae48","bytes":188188},
+    "OAS3": {"name":"2'-5'-oligoadenylate synthetase 3","path":"blot/O/OAS3.webp","fingerprint":"2f08efb6adc6790a921f8b757a6c6d7f","bytes":177064},
     "OASL": {"name":"2'-5'-oligoadenylate synthetase like","path":"blot/O/OASL.webp","fingerprint":"b44c628a72c4aa03684bdccef9d43d7c","bytes":83142},
     "OAT": {"name":"ornithine aminotransferase","path":"blot/O/OAT.webp","fingerprint":"2ac2ce38b77fcd3333249cc7d78a66a6","bytes":144718},
     "OAZ1": {"name":"ornithine decarboxylase antizyme 1","path":"blot/O/OAZ1.webp","fingerprint":"5cde023fe443c26dc43c18a28001e256","bytes":131940},
