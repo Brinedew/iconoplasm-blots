@@ -18537,7 +18537,7 @@
     "XRCC5": {"name":"X-ray repair cross complementing 5","path":"blot/X/XRCC5.webp","fingerprint":"368f1797b35936b92c0aecee7602dc1c","bytes":123890},
     "XRCC6": {"name":"X-ray repair cross complementing 6","path":"blot/X/XRCC6.webp","fingerprint":"271c5e35fe523c098dbd87a4d74189a8","bytes":224168},
     "XRN1": {"name":"5'-3' exoribonuclease 1","path":"blot/X/XRN1.webp","fingerprint":"4392687d789b07026a59b2adc256bc2b","bytes":56712},
-    "XRN2": {"name":"5'-3' exoribonuclease 2","path":"blot/X/XRN2.webp","fingerprint":"7a15cd8f1d40e3f52f6a7c06bad8caf8","bytes":162794},
+    "XRN2": {"name":"5'-3' exoribonuclease 2","path":"blot/X/XRN2.webp","fingerprint":"57ca01c8262eab61f11f303d12a76b2c","bytes":158738},
     "XRRA1": {"name":"X-ray radiation resistance associated 1","path":"blot/X/XRRA1.webp","fingerprint":"e93c2c2883719c146cbf523b46c939db","bytes":157018},
     "XTBD1": {"name":"XRN2 binding domain containing 1","path":"blot/X/XTBD1.webp","fingerprint":"80ff4ffcb7f1c643a8b4ddad5086627a","bytes":93234},
     "XXYLT1": {"name":"xyloside xylosyltransferase 1","path":"blot/X/XXYLT1.webp","fingerprint":"049d8f5459bda32a1e29cf4422a260b3","bytes":160964},
