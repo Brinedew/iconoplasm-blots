@@ -1153,7 +1153,7 @@
     "ASH1L": {"name":"ASH1 like histone lysine methyltransferase","path":"blot/A/ASH1L.webp","fingerprint":"00f45337615916228160f1f05e97c46b","bytes":136862},
     "ASH2L": {"name":"ASH2 like, histone lysine methyltransferase complex subunit","path":"blot/A/ASH2L.webp","fingerprint":"87b5f0c0180810915a9c195d45dbd0ca","bytes":258038},
     "ASIC1": {"name":"acid sensing ion channel subunit 1","path":"blot/A/ASIC1.webp","fingerprint":"b13ada9a93e2f088c48d34cede644e25","bytes":81396},
-    "ASIC2": {"name":"acid sensing ion channel subunit 2","path":"blot/A/ASIC2.webp","fingerprint":"16b65ff8902c3c6f6b7d079b94316f3e","bytes":161850},
+    "ASIC2": {"name":"acid sensing ion channel subunit 2","path":"blot/A/ASIC2.webp","fingerprint":"183ff6c9e1424fa781f1b58601384df2","bytes":184566},
     "ASIC3": {"name":"acid sensing ion channel subunit 3","path":"blot/A/ASIC3.webp","fingerprint":"11b18d08ae0f6b95b3ebad5aa44da73c","bytes":169740},
     "ASIC4": {"name":"acid sensing ion channel subunit family member 4","path":"blot/A/ASIC4.webp","fingerprint":"f7f6e7f528e80e6ecdb61823b0a5c113","bytes":131532},
     "ASIC5": {"name":"acid sensing ion channel subunit family member 5","path":"blot/A/ASIC5.webp","fingerprint":"98316308f5af883eba55b07d21338b47","bytes":167042},
