@@ -18450,7 +18450,7 @@
     "WIPI1": {"name":"WD repeat domain, phosphoinositide interacting 1","path":"blot/W/WIPI1.webp","fingerprint":"64148877f278af7b69e5b4a46743a6d6","bytes":140194},
     "WIPI2": {"name":"WD repeat domain, phosphoinositide interacting 2","path":"blot/W/WIPI2.webp","fingerprint":"2e83d9b8ed2a5c07583e50530300ff52","bytes":109250},
     "WIZ": {"name":"WIZ zinc finger","path":"blot/W/WIZ.webp","fingerprint":"9a1c9de65640fdd700e404ddd4f094b8","bytes":121690},
-    "WLS": {"name":"Wnt ligand secretion mediator","path":"blot/W/WLS.webp","fingerprint":"43adb4b11ea686e0f6948943a1e53723","bytes":166034},
+    "WLS": {"name":"Wnt ligand secretion mediator","path":"blot/W/WLS.webp","fingerprint":"e08218570710566b496a4f5f295c2a9c","bytes":114980},
     "WNK1": {"name":"WNK lysine deficient protein kinase 1","path":"blot/W/WNK1.webp","fingerprint":"0f6ac0e7588166d7b58729a62b2c6be6","bytes":164878},
     "WNK2": {"name":"WNK lysine deficient protein kinase 2","path":"blot/W/WNK2.webp","fingerprint":"e47a68e4a6c23cea7f5e9842d9186b07","bytes":115570},
     "WNK3": {"name":"WNK lysine deficient protein kinase 3","path":"blot/W/WNK3.webp","fingerprint":"0cdcd861357ab4d020b1121bd4716e3d","bytes":171774},
