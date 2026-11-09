@@ -9326,7 +9326,7 @@
     "MAST2": {"name":"microtubule associated serine/threonine kinase 2","path":"blot/M/MAST2.webp","fingerprint":"379864ab6583dc57329d74ae9a3e6b3a","bytes":137614},
     "MAST3": {"name":"microtubule associated serine/threonine kinase 3","path":"blot/M/MAST3.webp","fingerprint":"5e22407cb7b1ad0e0d1dd6cc3293fdff","bytes":154510},
     "MAST4": {"name":"microtubule associated serine/threonine kinase family member 4","path":"blot/M/MAST4.webp","fingerprint":"5b5bfd2ad3b9a3bc8bab643d1390da61","bytes":130408},
-    "MASTL": {"name":"microtubule associated serine/threonine kinase like","path":"blot/M/MASTL.webp","fingerprint":"0d9ff7ee53ec46ee4a599e08b3285fc1","bytes":86672},
+    "MASTL": {"name":"microtubule associated serine/threonine kinase like","path":"blot/M/MASTL.webp","fingerprint":"5a1d448df9b9e72e65f5fc62a5ec3295","bytes":115714},
     "MAT1A": {"name":"methionine adenosyltransferase 1A","path":"blot/M/MAT1A.webp","fingerprint":"99c31fe382d426016b3e2a57290db546","bytes":219124},
     "MAT2A": {"name":"methionine adenosyltransferase 2A","path":"blot/M/MAT2A.webp","fingerprint":"db79da7e30aff83dc1843b57c3f1e52e","bytes":111168},
     "MAT2B": {"name":"methionine adenosyltransferase 2 non-catalytic beta subunit","path":"blot/M/MAT2B.webp","fingerprint":"0e192e45d035003feeae0de4de3de7ec","bytes":114310},
