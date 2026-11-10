@@ -2184,7 +2184,7 @@
     "CASP4": {"name":"caspase 4","path":"blot/C/CASP4.webp","fingerprint":"a80314d5cd6de8fe7ee6ebe0fdfcef65","bytes":87822},
     "CASP5": {"name":"caspase 5","path":"blot/C/CASP5.webp","fingerprint":"df6a5097702697bf04a5bf164f69af4c","bytes":131492},
     "CASP6": {"name":"caspase 6","path":"blot/C/CASP6.webp","fingerprint":"441b143907921fda7034012ca1c68fb9","bytes":141026},
-    "CASP7": {"name":"caspase 7","path":"blot/C/CASP7.webp","fingerprint":"f1a1e8b05d719174fbd61b2851ef73ef","bytes":60636},
+    "CASP7": {"name":"caspase 7","path":"blot/C/CASP7.webp","fingerprint":"670990a08eba4cfbbe9d4bc819ca691c","bytes":116716},
     "CASP8": {"name":"caspase 8","path":"blot/C/CASP8.webp","fingerprint":"75c569b14b170b848bb562128b001897","bytes":105008},
     "CASP8AP2": {"name":"caspase 8 associated protein 2","path":"blot/C/CASP8AP2.webp","fingerprint":"67eb31b8804b4cc26b654acb6263b6f1","bytes":332660},
     "CASP9": {"name":"caspase 9","path":"blot/C/CASP9.webp","fingerprint":"e20e6ecddb12438467a5d7eb920e3a83","bytes":63842},
