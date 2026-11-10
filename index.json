@@ -5982,7 +5982,7 @@
     "G6PC1": {"name":"glucose-6-phosphatase catalytic subunit 1","path":"blot/G/G6PC1.webp","fingerprint":"16dc70df144ec1f91ae72d6aec3b1c56","bytes":156994},
     "G6PC2": {"name":"glucose-6-phosphatase catalytic subunit 2","path":"blot/G/G6PC2.webp","fingerprint":"1d841ed85b00bb8fd203b6702cc3611c","bytes":100116},
     "G6PC3": {"name":"glucose-6-phosphatase catalytic subunit 3","path":"blot/G/G6PC3.webp","fingerprint":"2285c83a4f4089f4725dddd772e6651f","bytes":156660},
-    "G6PD": {"name":"glucose-6-phosphate dehydrogenase","path":"blot/G/G6PD.webp","fingerprint":"5b4b957a5dcd695dcc420e5621c7a1e8","bytes":113202},
+    "G6PD": {"name":"glucose-6-phosphate dehydrogenase","path":"blot/G/G6PD.webp","fingerprint":"43d1a6ca29949102423b476abd92997b","bytes":103538},
     "GAA": {"name":"alpha glucosidase","path":"blot/G/GAA.webp","fingerprint":"2a10fd70de385b5f80f4dbeafde09aa4","bytes":175580},
     "GAB1": {"name":"GRB2 associated binding protein 1","path":"blot/G/GAB1.webp","fingerprint":"45753579388e71b594f97e89bc35c328","bytes":105034},
     "GAB2": {"name":"GRB2 associated binding protein 2","path":"blot/G/GAB2.webp","fingerprint":"c70023d7c44d99207e488ea075263855","bytes":160766},
