@@ -12321,7 +12321,7 @@
     "PKIA": {"name":"cAMP-dependent protein kinase inhibitor alpha","path":"blot/P/PKIA.webp","fingerprint":"7d738c5b6be8cf1dd32202029bc71f7c","bytes":205738},
     "PKIB": {"name":"cAMP-dependent protein kinase inhibitor beta","path":"blot/P/PKIB.webp","fingerprint":"f40bd36770c1b4f0cdadb3346b750bfb","bytes":99672},
     "PKIG": {"name":"cAMP-dependent protein kinase inhibitor gamma","path":"blot/P/PKIG.webp","fingerprint":"584aac1db40d9886943d649b468e499b","bytes":115014},
-    "PKLR": {"name":"pyruvate kinase L/R","path":"blot/P/PKLR.webp","fingerprint":"fad0ecfe122eaa580e4ca015e0e25afd","bytes":86276},
+    "PKLR": {"name":"pyruvate kinase L/R","path":"blot/P/PKLR.webp","fingerprint":"729db53633d7f546d6fc85924eb6a0f3","bytes":95518},
     "PKM": {"name":"pyruvate kinase M1/2","path":"blot/P/PKM.webp","fingerprint":"82ca8670f3cecdf289a51050c9a349a7","bytes":84386},
     "PKMYT1": {"name":"protein kinase, membrane associated tyrosine/threonine 1","path":"blot/P/PKMYT1.webp","fingerprint":"07e77a7cab8b71d2208eebb7e7dd71d9","bytes":141002},
     "PKN1": {"name":"protein kinase N1","path":"blot/P/PKN1.webp","fingerprint":"8c4b33b8e046e1087f2d1893c63e2611","bytes":63778},
