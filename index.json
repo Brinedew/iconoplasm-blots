@@ -4449,7 +4449,7 @@
     "DNALI1": {"name":"dynein axonemal light intermediate chain 1","path":"blot/D/DNALI1.webp","fingerprint":"0ed82e8c5464d283f41c3e4c38f73c64","bytes":150364},
     "DNASE1": {"name":"deoxyribonuclease 1","path":"blot/D/DNASE1.webp","fingerprint":"2386e0befe7788d11b96e0b0357e14b4","bytes":252894},
     "DNASE1L1": {"name":"deoxyribonuclease 1 like 1","path":"blot/D/DNASE1L1.webp","fingerprint":"82eccdd0b853e7c9777e2ca7d51f3eee","bytes":239264},
-    "DNASE1L2": {"name":"deoxyribonuclease 1 like 2","path":"blot/D/DNASE1L2.webp","fingerprint":"7ab7d1e6a7c92f7e609750fe5c08562d","bytes":53560},
+    "DNASE1L2": {"name":"deoxyribonuclease 1 like 2","path":"blot/D/DNASE1L2.webp","fingerprint":"d990c0ccaf4cce169f6ffc6a832f9b1d","bytes":144320},
     "DNASE1L3": {"name":"deoxyribonuclease 1L3","path":"blot/D/DNASE1L3.webp","fingerprint":"1172196d43ade9950f5025389fbce7fc","bytes":113808},
     "DNASE2": {"name":"deoxyribonuclease 2, lysosomal","path":"blot/D/DNASE2.webp","fingerprint":"a5cf305f5e525fc44def48d75c8360ff","bytes":78460},
     "DNASE2B": {"name":"deoxyribonuclease 2 beta","path":"blot/D/DNASE2B.webp","fingerprint":"afc7d5d584a8d4dd05a7924e130f65e4","bytes":130648},
