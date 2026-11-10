@@ -14725,7 +14725,7 @@
     "SETBP1": {"name":"SET binding protein 1","path":"blot/S/SETBP1.webp","fingerprint":"c09a1af79f2398148d6dcb57a7cbf371","bytes":137620},
     "SETD1A": {"name":"SET domain containing 1A, histone lysine methyltransferase","path":"blot/S/SETD1A.webp","fingerprint":"13ba6b5e6beff7d4ea6ea76ccaba085b","bytes":135740},
     "SETD1B": {"name":"SET domain containing 1B, histone lysine methyltransferase","path":"blot/S/SETD1B.webp","fingerprint":"0363bbf8d8d43e4026bbcfa633a554c3","bytes":98316},
-    "SETD2": {"name":"SET domain containing 2, histone lysine methyltransferase","path":"blot/S/SETD2.webp","fingerprint":"3bd0259a5ffa6513e10365f14bf5a0dc","bytes":138516},
+    "SETD2": {"name":"SET domain containing 2, histone lysine methyltransferase","path":"blot/S/SETD2.webp","fingerprint":"d8c91898719c7740a390d32d53853223","bytes":114580},
     "SETD3": {"name":"SET domain containing 3, actin N3(tau)-histidine methyltransferase","path":"blot/S/SETD3.webp","fingerprint":"73b80b38e6b8a462d181c3735be45ce3","bytes":67160},
     "SETD4": {"name":"SET domain containing 4","path":"blot/S/SETD4.webp","fingerprint":"d6dc521ecbd548811cff020ee65bc842","bytes":160506},
     "SETD5": {"name":"SET domain containing 5","path":"blot/S/SETD5.webp","fingerprint":"15977bdeab5f45abf7b68c2e91504670","bytes":128768},
