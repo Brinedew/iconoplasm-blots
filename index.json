@@ -15693,7 +15693,7 @@
     "SPAG8": {"name":"sperm associated antigen 8","path":"blot/S/SPAG8.webp","fingerprint":"26db3ea79752d72b46109358c8d326da","bytes":217180},
     "SPAG9": {"name":"sperm associated antigen 9","path":"blot/S/SPAG9.webp","fingerprint":"9d5298ba6c4acebceef1ae3d6812c1f5","bytes":110918},
     "SPAM1": {"name":"sperm adhesion molecule 1","path":"blot/S/SPAM1.webp","fingerprint":"28a6435c7c1cd5a17d70eb900b27185e","bytes":320200},
-    "SPANXA1": {"name":"sperm protein associated with the nucleus, X-linked, family member A1","path":"blot/S/SPANXA1.webp","fingerprint":"c84012ab764f825649fda42acf4cdf51","bytes":139874},
+    "SPANXA1": {"name":"sperm protein associated with the nucleus, X-linked, family member A1","path":"blot/S/SPANXA1.webp","fingerprint":"63268b25906032f605b95fd2b89c2be1","bytes":121558},
     "SPANXA2": {"name":"SPANX family member A2","path":"blot/S/SPANXA2.webp","fingerprint":"bdc7ad199520bbfb92ae8da25795eb7a","bytes":162548},
     "SPANXB1": {"name":"SPANX family member B1","path":"blot/S/SPANXB1.webp","fingerprint":"cf2d08ffcef5f473f60c98e51a02176a","bytes":155566},
     "SPANXC": {"name":"SPANX family member C","path":"blot/S/SPANXC.webp","fingerprint":"6c673a0bc1ada34df26709c90c94504c","bytes":199388},
