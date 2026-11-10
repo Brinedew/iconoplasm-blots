@@ -7208,7 +7208,7 @@
     "HNRNPR": {"name":"heterogeneous nuclear ribonucleoprotein R","path":"blot/H/HNRNPR.webp","fingerprint":"976af2ed143d7ccc1e0901cc8e91f4bd","bytes":245914},
     "HNRNPU": {"name":"heterogeneous nuclear ribonucleoprotein U","path":"blot/H/HNRNPU.webp","fingerprint":"eb9279c79e8df7ec77427e42a0edc4f9","bytes":133104},
     "HNRNPUL1": {"name":"heterogeneous nuclear ribonucleoprotein U like 1","path":"blot/H/HNRNPUL1.webp","fingerprint":"b7626820619dc83285fd12063aa19341","bytes":103948},
-    "HNRNPUL2": {"name":"heterogeneous nuclear ribonucleoprotein U like 2","path":"blot/H/HNRNPUL2.webp","fingerprint":"a7c3738e115cffa605071adc6dbb60a5","bytes":112196},
+    "HNRNPUL2": {"name":"heterogeneous nuclear ribonucleoprotein U like 2","path":"blot/H/HNRNPUL2.webp","fingerprint":"343602fb7405fd3cc10b6d5b3b6350a3","bytes":118188},
     "HOATZ": {"name":"HOATZ cilia and flagella associated protein","path":"blot/H/HOATZ.webp","fingerprint":"e1e9606e48d0fa26a185166df0aae771","bytes":129060},
     "HOGA1": {"name":"4-hydroxy-2-oxoglutarate aldolase 1","path":"blot/H/HOGA1.webp","fingerprint":"7d809e0e83e7990e2ed31cc94d85a0b1","bytes":159576},
     "HOMER1": {"name":"homer scaffold protein 1","path":"blot/H/HOMER1.webp","fingerprint":"5e4e56cd18ef77f12e9e9eb54da8de06","bytes":140022},
