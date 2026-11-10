@@ -10303,7 +10303,7 @@
     "NATD1": {"name":"N-acetyltransferase domain containing 1","path":"blot/N/NATD1.webp","fingerprint":"67193681d0c14332d28fc54edf593081","bytes":99798},
     "NAV1": {"name":"neuron navigator 1","path":"blot/N/NAV1.webp","fingerprint":"f4d703c216579102aa4f80844af19415","bytes":174298},
     "NAV2": {"name":"neuron navigator 2","path":"blot/N/NAV2.webp","fingerprint":"c82c302ec6e19c321ac718e7fda695a9","bytes":140684},
-    "NAV3": {"name":"neuron navigator 3","path":"blot/N/NAV3.webp","fingerprint":"e7f61049d5e7a63ccc383c0bad1a96cf","bytes":190498},
+    "NAV3": {"name":"neuron navigator 3","path":"blot/N/NAV3.webp","fingerprint":"fe862157a14abaf00699074c9514ec77","bytes":130412},
     "NAXD": {"name":"NAD(P)HX dehydratase","path":"blot/N/NAXD.webp","fingerprint":"fac871879ec2605e792983a9101523b1","bytes":127208},
     "NAXE": {"name":"NAD(P)HX epimerase","path":"blot/N/NAXE.webp","fingerprint":"a52915887d331e084bc160de78fbe1b3","bytes":68206},
     "NBAS": {"name":"NBAS subunit of NRZ tethering complex","path":"blot/N/NBAS.webp","fingerprint":"a526ebe9744d1549f2ec36e395eca464","bytes":115230},
