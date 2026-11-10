@@ -16738,7 +16738,7 @@
     "TGIF2": {"name":"TGFB induced factor homeobox 2","path":"blot/T/TGIF2.webp","fingerprint":"ca5e31e1f50dd36aecd7ab31f4e78d43","bytes":154678},
     "TGIF2LX": {"name":"TGFB induced factor homeobox 2 like X-linked","path":"blot/T/TGIF2LX.webp","fingerprint":"b8e853e387b1642c90f4c9026b7dead9","bytes":107516},
     "TGIF2LY": {"name":"TGFB induced factor homeobox 2 like Y-linked","path":"blot/T/TGIF2LY.webp","fingerprint":"0661140d633e003c49cc44c562e64fe1","bytes":204724},
-    "TGM1": {"name":"transglutaminase 1","path":"blot/T/TGM1.webp","fingerprint":"a89298c498f0d25fc3c43916559d9db4","bytes":140246},
+    "TGM1": {"name":"transglutaminase 1","path":"blot/T/TGM1.webp","fingerprint":"994287e4618d7efc53727a17180a11a7","bytes":190828},
     "TGM2": {"name":"transglutaminase 2","path":"blot/T/TGM2.webp","fingerprint":"ddb7a86e08d425d2a779dcbe74669425","bytes":54592},
     "TGM3": {"name":"transglutaminase 3","path":"blot/T/TGM3.webp","fingerprint":"1a0d262be9ebc4b1ebf40ea72cf3b29a","bytes":109758},
     "TGM4": {"name":"transglutaminase 4","path":"blot/T/TGM4.webp","fingerprint":"15569f56e7410d37a0f982cd4daad700","bytes":158928},
