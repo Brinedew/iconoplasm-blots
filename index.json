@@ -15656,7 +15656,7 @@
     "SOX7": {"name":"SRY-box transcription factor 7","path":"blot/S/SOX7.webp","fingerprint":"22eecb57cbd671d6732a8580a36e16dd","bytes":177148},
     "SOX8": {"name":"SRY-box transcription factor 8","path":"blot/S/SOX8.webp","fingerprint":"457f883fc71c3b028e30983e2864a42d","bytes":74302},
     "SOX9": {"name":"SRY-box transcription factor 9","path":"blot/S/SOX9.webp","fingerprint":"641ff10b9e9e2444dc3cdf54e3d34e9f","bytes":63824},
-    "SP1": {"name":"Sp1 transcription factor","path":"blot/S/SP1.webp","fingerprint":"9335e035a2f0cce7da6ecb56ca5d258e","bytes":53426},
+    "SP1": {"name":"Sp1 transcription factor","path":"blot/S/SP1.webp","fingerprint":"9ad458aab70cc997716c735acba7ceaa","bytes":114824},
     "SP100": {"name":"SP100 nuclear antigen","path":"blot/S/SP100.webp","fingerprint":"1b18b052863ea4afc0c5a6a3a3bc348c","bytes":205122},
     "SP110": {"name":"SP110 nuclear body protein","path":"blot/S/SP110.webp","fingerprint":"b2556c7e9e157c57194ab8b7c7ef3172","bytes":127560},
     "SP140": {"name":"SP140 nuclear body protein","path":"blot/S/SP140.webp","fingerprint":"6ca44cc815dc4444db85ba3f4b6a7885","bytes":56060},
