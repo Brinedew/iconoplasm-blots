@@ -13472,7 +13472,7 @@
     "RAET1G": {"name":"retinoic acid early transcript 1G","path":"blot/R/RAET1G.webp","fingerprint":"9e0840710f88cb0aeb9d0e91a0c1f5e7","bytes":116070},
     "RAET1L": {"name":"retinoic acid early transcript 1L","path":"blot/R/RAET1L.webp","fingerprint":"39a0a8088816dddbb94aed52701eda4e","bytes":85656},
     "RAF1": {"name":"Raf-1 proto-oncogene, serine/threonine kinase","path":"blot/R/RAF1.webp","fingerprint":"207682ef20e4681d3da75b8356ab7824","bytes":108148},
-    "RAG1": {"name":"recombination activating 1","path":"blot/R/RAG1.webp","fingerprint":"d8c9105a0503fbbf84fa28e18dc6e224","bytes":175226},
+    "RAG1": {"name":"recombination activating 1","path":"blot/R/RAG1.webp","fingerprint":"ced2eada4bbe20f00f4f3581a2fa1363","bytes":127606},
     "RAG2": {"name":"recombination activating 2","path":"blot/R/RAG2.webp","fingerprint":"b8c26a8e3ba815c9d67dfb5432c0b0ea","bytes":81632},
     "RAI1": {"name":"retinoic acid induced 1","path":"blot/R/RAI1.webp","fingerprint":"3803259614c9b57a8832bb234f4ed59b","bytes":90888},
     "RAI14": {"name":"retinoic acid induced 14","path":"blot/R/RAI14.webp","fingerprint":"d17381303003030ca6ad4ab16790d6d5","bytes":143644},
