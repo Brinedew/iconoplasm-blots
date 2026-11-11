@@ -9226,7 +9226,7 @@
     "MAP1LC3B2": {"name":"microtubule associated protein 1 light chain 3 beta 2","path":"blot/M/MAP1LC3B2.webp","fingerprint":"c3f989d3ab7635aca8ee53e8640fa78b","bytes":170856},
     "MAP1LC3C": {"name":"microtubule associated protein 1 light chain 3 gamma","path":"blot/M/MAP1LC3C.webp","fingerprint":"a714d05d45bf2440ce40814e82f0ddc3","bytes":131490},
     "MAP1S": {"name":"microtubule associated protein 1S","path":"blot/M/MAP1S.webp","fingerprint":"bec60cab9d26a82f6f8ef11c4adc6ccc","bytes":116102},
-    "MAP2": {"name":"microtubule associated protein 2","path":"blot/M/MAP2.webp","fingerprint":"0512458a0411743f90bde648b81e09dc","bytes":214198},
+    "MAP2": {"name":"microtubule associated protein 2","path":"blot/M/MAP2.webp","fingerprint":"06579a96617c0c8ec56aa8670ca93521","bytes":174160},
     "MAP2K1": {"name":"mitogen-activated protein kinase kinase 1","path":"blot/M/MAP2K1.webp","fingerprint":"61cbf2e33491709e2f247cb121e95ceb","bytes":103302},
     "MAP2K2": {"name":"mitogen-activated protein kinase kinase 2","path":"blot/M/MAP2K2.webp","fingerprint":"79c06671e562d57b0ac533b1b32040ba","bytes":153464},
     "MAP2K3": {"name":"mitogen-activated protein kinase kinase 3","path":"blot/M/MAP2K3.webp","fingerprint":"2e7452a9a221091390f056fe9ed3592a","bytes":79690},
