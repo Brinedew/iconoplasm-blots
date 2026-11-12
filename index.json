@@ -6188,7 +6188,7 @@
     "GDF9": {"name":"growth differentiation factor 9","path":"blot/G/GDF9.webp","fingerprint":"c6ae7a1d8ac4dd2728bdd21640bdb646","bytes":100466},
     "GDI1": {"name":"GDP dissociation inhibitor 1","path":"blot/G/GDI1.webp","fingerprint":"c346fe3ba64ec65292caf41174e28a35","bytes":80334},
     "GDI2": {"name":"GDP dissociation inhibitor 2","path":"blot/G/GDI2.webp","fingerprint":"c1b733543d243e684173f85d227c3e33","bytes":60934},
-    "GDNF": {"name":"glial cell derived neurotrophic factor","path":"blot/G/GDNF.webp","fingerprint":"720253ad7b2d7f988e7ab339eaee9ef3","bytes":127694},
+    "GDNF": {"name":"glial cell derived neurotrophic factor","path":"blot/G/GDNF.webp","fingerprint":"91f09f5f6a0b86ef845514a303432818","bytes":166486},
     "GDPD1": {"name":"glycerophosphodiester phosphodiesterase domain containing 1","path":"blot/G/GDPD1.webp","fingerprint":"bb46c124c5fe4bffcf65109afd3524f4","bytes":133056},
     "GDPD2": {"name":"glycerophosphodiester phosphodiesterase domain containing 2","path":"blot/G/GDPD2.webp","fingerprint":"85964629fcfef36ba39d28ab75ede1f0","bytes":117446},
     "GDPD3": {"name":"glycerophosphodiester phosphodiesterase domain containing 3","path":"blot/G/GDPD3.webp","fingerprint":"fabe177ac033cc60a0b8213eee5ee8e3","bytes":173614},
