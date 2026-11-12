@@ -5940,7 +5940,7 @@
     "FURIN": {"name":"furin, paired basic amino acid cleaving enzyme","path":"blot/F/FURIN.webp","fingerprint":"92e3c1fcba252d9720c642fbfbde81d6","bytes":89826},
     "FUS": {"name":"FUS RNA binding protein","path":"blot/F/FUS.webp","fingerprint":"62d9eeef01154d1e35bfd80ae4ec5549","bytes":82520},
     "FUT1": {"name":"fucosyltransferase 1 (H blood group)","path":"blot/F/FUT1.webp","fingerprint":"c9cd9803f9c3edd4207cc36ed990742f","bytes":139056},
-    "FUT2": {"name":"fucosyltransferase 2 (H blood group)","path":"blot/F/FUT2.webp","fingerprint":"ea96a85b8da4821597d48f0f7dfe4eaa","bytes":121182},
+    "FUT2": {"name":"fucosyltransferase 2 (H blood group)","path":"blot/F/FUT2.webp","fingerprint":"9e91c860d11a3afc80c051f2a434198b","bytes":103622},
     "FUT3": {"name":"fucosyltransferase 3 (Lewis blood group)","path":"blot/F/FUT3.webp","fingerprint":"e66f2e26182d45918a86e4b1da7a9fde","bytes":98012},
     "FUT4": {"name":"fucosyltransferase 4","path":"blot/F/FUT4.webp","fingerprint":"2171e13c13639db75c17308b5e4b7fdc","bytes":85750},
     "FUT5": {"name":"fucosyltransferase 5","path":"blot/F/FUT5.webp","fingerprint":"975f198fb69f0fd09ef130ab3f28fcab","bytes":137344},
