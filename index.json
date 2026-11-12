@@ -15,7 +15,7 @@
     "A3GALT2": {"name":"alpha 1,3-galactosyltransferase 2","path":"blot/A/A3GALT2.webp","fingerprint":"03953894cce902afb3ea2858c4dadfa0","bytes":99222},
     "A4GALT": {"name":"alpha 1,4-galactosyltransferase (P1PK blood group)","path":"blot/A/A4GALT.webp","fingerprint":"46567c67c1898abba5c0d5b3e1835cb8","bytes":133034},
     "A4GNT": {"name":"alpha-1,4-N-acetylglucosaminyltransferase","path":"blot/A/A4GNT.webp","fingerprint":"68c3b785a6b9239500ea793e0a31e806","bytes":161138},
-    "AAAS": {"name":"aladin WD repeat nucleoporin","path":"blot/A/AAAS.webp","fingerprint":"e0ea92c8ad84544c60f3f61108559aab","bytes":91306},
+    "AAAS": {"name":"aladin WD repeat nucleoporin","path":"blot/A/AAAS.webp","fingerprint":"ed1e4dcc7b88c30421efcbb52905792f","bytes":157890},
     "AACS": {"name":"acetoacetyl-CoA synthetase","path":"blot/A/AACS.webp","fingerprint":"229ef0f6f01bf3a89ce231733667af4f","bytes":117520},
     "AADAC": {"name":"arylacetamide deacetylase","path":"blot/A/AADAC.webp","fingerprint":"2abf2cb97217857ceb32f9fa98ed04a7","bytes":68944},
     "AADACL2": {"name":"arylacetamide deacetylase like 2","path":"blot/A/AADACL2.webp","fingerprint":"9b72be4918feb0027764653952afcec7","bytes":253934},
