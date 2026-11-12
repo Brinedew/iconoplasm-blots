@@ -3638,7 +3638,7 @@
     "CRYZL1": {"name":"crystallin zeta like 1","path":"blot/C/CRYZL1.webp","fingerprint":"37e22325ce307cd864e674bacb69099f","bytes":64300},
     "CS": {"name":"citrate synthase","path":"blot/C/CS.webp","fingerprint":"a62fcce2c7b53c9911645e4c8d3693ce","bytes":143856},
     "CSAD": {"name":"cysteine sulfinic acid decarboxylase","path":"blot/C/CSAD.webp","fingerprint":"7529a7f391ff35e1e36cf216a09f1e9e","bytes":128970},
-    "CSAG1": {"name":"chondrosarcoma associated gene 1","path":"blot/C/CSAG1.webp","fingerprint":"9e9c2877ea317651b0759daaeec32c8c","bytes":83692},
+    "CSAG1": {"name":"chondrosarcoma associated gene 1","path":"blot/C/CSAG1.webp","fingerprint":"172261dc382bdf4ebe81777c3e5c2077","bytes":262418},
     "CSAG2": {"name":"CSAG family member 2","path":"blot/C/CSAG2.webp","fingerprint":"07f21ffaebfaa141386d2d59d194b5f4","bytes":240836},
     "CSAG3": {"name":"CSAG family member 3","path":"blot/C/CSAG3.webp","fingerprint":"a53bab00d903eb81af0e541075f8c92c","bytes":103608},
     "CSDC2": {"name":"cold shock domain containing C2","path":"blot/C/CSDC2.webp","fingerprint":"f75d54f0f500ea3fe9fe4be09f95c410","bytes":139842},
