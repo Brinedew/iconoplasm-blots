@@ -4636,7 +4636,7 @@
     "DUSP7": {"name":"dual specificity phosphatase 7","path":"blot/D/DUSP7.webp","fingerprint":"59f95ee1e11e20fc9c8ebacd448365a5","bytes":127040},
     "DUSP8": {"name":"dual specificity phosphatase 8","path":"blot/D/DUSP8.webp","fingerprint":"d22e0013bfe2c2babe1a9bc2e7e68087","bytes":139304},
     "DUSP9": {"name":"dual specificity phosphatase 9","path":"blot/D/DUSP9.webp","fingerprint":"38114e9773c94214d2127a7e806a6061","bytes":148998},
-    "DUT": {"name":"deoxyuridine triphosphatase","path":"blot/D/DUT.webp","fingerprint":"a75d572a24840dd60d385af4465a4445","bytes":110076},
+    "DUT": {"name":"deoxyuridine triphosphatase","path":"blot/D/DUT.webp","fingerprint":"34997f287cafa5e6e8f5c7b6e4ff0801","bytes":100038},
     "DUX1": {"name":"double homeobox 1","path":"blot/D/DUX1.webp","fingerprint":"7ac7be6ebdd113c36462427174e78b86","bytes":141324},
     "DUX3": {"name":"double homeobox 3","path":"blot/D/DUX3.webp","fingerprint":"fbdbf37b0d73253c11c83a5c3942724d","bytes":110572},
     "DUX4": {"name":"double homeobox 4","path":"blot/D/DUX4.webp","fingerprint":"147f6eeb171b5559a4ee19b71472de40","bytes":123840},
