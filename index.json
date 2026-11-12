@@ -2914,7 +2914,7 @@
     "CFP": {"name":"complement factor properdin","path":"blot/C/CFP.webp","fingerprint":"1e58630647a471047bf2b1245411f18b","bytes":90188},
     "CFTR": {"name":"CF transmembrane conductance regulator","path":"blot/C/CFTR.webp","fingerprint":"79c813b2871fb8f975db246538f02436","bytes":148916},
     "CGA": {"name":"glycoprotein hormones, alpha polypeptide","path":"blot/C/CGA.webp","fingerprint":"4e1de7f7497b13e5a6d0ab413e119864","bytes":145516},
-    "CGAS": {"name":"cyclic GMP-AMP synthase","path":"blot/C/CGAS.webp","fingerprint":"a8f54c34f3627cc0fbc8033a62796a6d","bytes":153812},
+    "CGAS": {"name":"cyclic GMP-AMP synthase","path":"blot/C/CGAS.webp","fingerprint":"913d91fb4468b003266ed380b29a5a26","bytes":138276},
     "CGB1": {"name":"chorionic gonadotropin subunit beta 1","path":"blot/C/CGB1.webp","fingerprint":"1d4d7aa64fc86a8a493e4cd41358393f","bytes":96252},
     "CGB2": {"name":"chorionic gonadotropin subunit beta 2","path":"blot/C/CGB2.webp","fingerprint":"02a6409c893bf4730f51050e68235682","bytes":206306},
     "CGB3": {"name":"chorionic gonadotropin subunit beta 3","path":"blot/C/CGB3.webp","fingerprint":"d1f2dc51253e5e240cc4efa36a028599","bytes":76754},
