@@ -4681,7 +4681,7 @@
     "DZIP1": {"name":"DAZ interacting zinc finger protein 1","path":"blot/D/DZIP1.webp","fingerprint":"200b29fa277da3b158a4499654577136","bytes":119416},
     "DZIP1L": {"name":"DAZ interacting zinc finger protein 1 like","path":"blot/D/DZIP1L.webp","fingerprint":"9a675bccb1bcbc2b36a13404b69ebf44","bytes":140570},
     "DZIP3": {"name":"DAZ interacting zinc finger protein 3","path":"blot/D/DZIP3.webp","fingerprint":"b6bef434a6440df7a3a5e3d022b3853c","bytes":127432},
-    "E2F1": {"name":"E2F transcription factor 1","path":"blot/E/E2F1.webp","fingerprint":"0f914019860c5158ff74e7a41c63db9b","bytes":105644},
+    "E2F1": {"name":"E2F transcription factor 1","path":"blot/E/E2F1.webp","fingerprint":"b3f90ca90f49bfc75ce3e601d46fe0f0","bytes":140768},
     "E2F2": {"name":"E2F transcription factor 2","path":"blot/E/E2F2.webp","fingerprint":"39f97d558011739cda30ae2bc034e47f","bytes":132134},
     "E2F3": {"name":"E2F transcription factor 3","path":"blot/E/E2F3.webp","fingerprint":"40766cf3f7d5d5e9e9b2d8ea466018f2","bytes":62902},
     "E2F4": {"name":"E2F transcription factor 4","path":"blot/E/E2F4.webp","fingerprint":"d3700d38bfdfa1993ceb8c4d8aab86f6","bytes":130714},
