@@ -16083,7 +16083,7 @@
     "STIM1": {"name":"stromal interaction molecule 1","path":"blot/S/STIM1.webp","fingerprint":"c7acc70898ab108162e664f67e9df204","bytes":154614},
     "STIM2": {"name":"stromal interaction molecule 2","path":"blot/S/STIM2.webp","fingerprint":"65f654c577acd8b69ddef3cadca35547","bytes":134268},
     "STIMATE": {"name":"STIM activating enhancer","path":"blot/S/STIMATE.webp","fingerprint":"e1465fab1c157bf8ac70b94e784ed649","bytes":119936},
-    "STING1": {"name":"stimulator of interferon response cGAMP interactor 1","path":"blot/S/STING1.webp","fingerprint":"1e0442de52831760f1ea1e3ef52b294b","bytes":154128},
+    "STING1": {"name":"stimulator of interferon response cGAMP interactor 1","path":"blot/S/STING1.webp","fingerprint":"405ab6acfe6badc337f87841e9b0a900","bytes":112360},
     "STIP1": {"name":"stress induced phosphoprotein 1","path":"blot/S/STIP1.webp","fingerprint":"72bda4f5b3abc4a2ea91148f430abba5","bytes":159576},
     "STK10": {"name":"serine/threonine kinase 10","path":"blot/S/STK10.webp","fingerprint":"85b73451903239dca23d245816ab05b1","bytes":152546},
     "STK11": {"name":"serine/threonine kinase 11","path":"blot/S/STK11.webp","fingerprint":"ec24e6607c746d82ad7b2f0e6993379b","bytes":166194},
