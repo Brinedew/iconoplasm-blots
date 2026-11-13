@@ -14411,7 +14411,7 @@
     "SATB1": {"name":"SATB homeobox 1","path":"blot/S/SATB1.webp","fingerprint":"a8fc2f4061d8341485417fedf3104daf","bytes":130058},
     "SATB2": {"name":"SATB homeobox 2","path":"blot/S/SATB2.webp","fingerprint":"f2bb3e6344bd738541c0e3889ca52ede","bytes":159434},
     "SATL1": {"name":"spermidine/spermine N1-acetyl transferase like 1","path":"blot/S/SATL1.webp","fingerprint":"42f1a86170eeb509df40b02d229568bc","bytes":246812},
-    "SAV1": {"name":"salvador family WW domain containing protein 1","path":"blot/S/SAV1.webp","fingerprint":"9bda5ee01c2f6ac364ec9c4e4efa0270","bytes":96234},
+    "SAV1": {"name":"salvador family WW domain containing protein 1","path":"blot/S/SAV1.webp","fingerprint":"9cae88a6c9218e59e8157891016ed502","bytes":121248},
     "SAXO1": {"name":"stabilizer of axonemal microtubules 1","path":"blot/S/SAXO1.webp","fingerprint":"8491b592c396e69278e3a3d3ebaef9c9","bytes":165166},
     "SAXO2": {"name":"stabilizer of axonemal microtubules 2","path":"blot/S/SAXO2.webp","fingerprint":"1b44de7982238a82cb1786cc7fec6e19","bytes":116854},
     "SAXO3": {"name":"stabilizer of axonemal microtubules 3","path":"blot/S/SAXO3.webp","fingerprint":"c9af14b01ce161e6fb281a37238d6b31","bytes":169190},
