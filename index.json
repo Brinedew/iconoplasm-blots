@@ -6207,7 +6207,7 @@
     "GET3": {"name":"guided entry of tail-anchored proteins factor 3, ATPase","path":"blot/G/GET3.webp","fingerprint":"6a437f064e3db9562e467abafed9ad6f","bytes":105528},
     "GET4": {"name":"guided entry of tail-anchored proteins factor 4","path":"blot/G/GET4.webp","fingerprint":"7241faf75365765aa7e5c09dcc39a3f3","bytes":142756},
     "GFAP": {"name":"glial fibrillary acidic protein","path":"blot/G/GFAP.webp","fingerprint":"16f846361d6a4b292344225393c7eb88","bytes":78200},
-    "GFER": {"name":"growth factor, augmenter of liver regeneration","path":"blot/G/GFER.webp","fingerprint":"ce208b756008c5d21a673684aafa09e5","bytes":100808},
+    "GFER": {"name":"growth factor, augmenter of liver regeneration","path":"blot/G/GFER.webp","fingerprint":"ac20267216c676a454509510d27d7acb","bytes":104830},
     "GFI1": {"name":"growth factor independent 1 transcriptional repressor","path":"blot/G/GFI1.webp","fingerprint":"8b094baf6cac122e47ec7b46a2ca3f93","bytes":113204},
     "GFI1B": {"name":"growth factor independent 1B transcriptional repressor","path":"blot/G/GFI1B.webp","fingerprint":"d2cd96e45e471a7791d8b29fafd2d3f6","bytes":175594},
     "GFM1": {"name":"G elongation factor mitochondrial 1","path":"blot/G/GFM1.webp","fingerprint":"08d68398053cf81eafcb9dcae1be5c43","bytes":133446},
