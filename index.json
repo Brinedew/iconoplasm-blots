@@ -10505,7 +10505,7 @@
     "NEXMIF": {"name":"neurite extension and migration factor","path":"blot/N/NEXMIF.webp","fingerprint":"4963c48ffb0e3100931282e68ebea187","bytes":96698},
     "NEXN": {"name":"nexilin F-actin binding protein","path":"blot/N/NEXN.webp","fingerprint":"36bdb2337843519edbe06100ef48476b","bytes":210088},
     "NF1": {"name":"neurofibromin 1","path":"blot/N/NF1.webp","fingerprint":"8c33fe6a715cefc072f1406e455f29a7","bytes":54050},
-    "NF2": {"name":"NF2, moesin-ezrin-radixin like (MERLIN) tumor suppressor","path":"blot/N/NF2.webp","fingerprint":"fa7d4bca223562a2a4d3ddcb5b889faf","bytes":87434},
+    "NF2": {"name":"NF2, moesin-ezrin-radixin like (MERLIN) tumor suppressor","path":"blot/N/NF2.webp","fingerprint":"9c212e2720aab6754cee16b84b483b50","bytes":197176},
     "NFAM1": {"name":"NFAT activating protein with ITAM motif 1","path":"blot/N/NFAM1.webp","fingerprint":"03ee4c6c6bcd714da72a92bde07912b6","bytes":133582},
     "NFASC": {"name":"neurofascin","path":"blot/N/NFASC.webp","fingerprint":"331bb82e6855897cd095c520774a45b3","bytes":107464},
     "NFAT5": {"name":"nuclear factor of activated T cells 5","path":"blot/N/NFAT5.webp","fingerprint":"3e255767e06151296dd38591b740fe4a","bytes":117928},
