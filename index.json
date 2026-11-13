@@ -6814,7 +6814,7 @@
     "GZMA": {"name":"granzyme A","path":"blot/G/GZMA.webp","fingerprint":"c5e6c9305a8ab78f4606590f5fa9b64c","bytes":34354},
     "GZMB": {"name":"granzyme B","path":"blot/G/GZMB.webp","fingerprint":"0b4e984d5395d83e8503d5fba02ab7a1","bytes":89948},
     "GZMH": {"name":"granzyme H","path":"blot/G/GZMH.webp","fingerprint":"74b3b2233a98eb531d1c7c6715c3e57c","bytes":83970},
-    "GZMK": {"name":"granzyme K","path":"blot/G/GZMK.webp","fingerprint":"adfab2cd3a98b8998492f1c3480b6082","bytes":96538},
+    "GZMK": {"name":"granzyme K","path":"blot/G/GZMK.webp","fingerprint":"edfcbc2b93929c61ed1acaf6b264c712","bytes":121650},
     "GZMM": {"name":"granzyme M","path":"blot/G/GZMM.webp","fingerprint":"9419c8df25d7d2de1874ced431110d19","bytes":70766},
     "H1-0": {"name":"H1.0 linker histone","path":"blot/H/H1-0.webp","fingerprint":"decca00e558319578a1878e9d13ef22a","bytes":157922},
     "H1-1": {"name":"H1.1 linker histone, cluster member","path":"blot/H/H1-1.webp","fingerprint":"e0700dfbf9ec56531b34811d62099582","bytes":164764},
