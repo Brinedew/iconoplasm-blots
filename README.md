@@ -2,7 +2,7 @@
 
 Every [Iconoplasm](https://iconoplasm.brinedew.bio) blot, one WebP per human protein-coding gene (about 19,400). A blot is the gene's character portrait with its full name and symbol painted into the image. All files are CC0: use them anywhere, no attribution required.
 
-These ready-made gene illustrations are visual assets for scientific figures, pathway diagrams, and other biological diagrams. Use gene portraits as nodes in Wnt, Notch, MAPK, and other signaling pathway diagrams, or replace generic shapes and blobs in an SVG with a gene-specific illustration. This repository contains the image assets, rather than prebuilt pathway diagrams.
+These ready-made gene illustrations are visual assets for scientific figures, pathway diagrams, and other biological diagrams. Use gene portraits as nodes in Wnt, Notch, MAPK, and other signaling pathway diagrams, or replace generic shapes and blobs in an SVG with a gene-specific illustration. This repository contains the image assets, rather than prebuilt pathway diagrams. An agent-oriented resource guide is available in [llms.txt](llms.txt).
 
 This copy exists for code that can reach GitHub but not `iconoplasm.brinedew.bio`, such as Claude.ai's code sandbox. If your code can reach the site, its [developer page](https://iconoplasm.brinedew.bio/developers) has the full API.
 
