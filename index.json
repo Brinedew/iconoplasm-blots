@@ -5010,7 +5010,7 @@
     "EOMES": {"name":"eomesodermin","path":"blot/E/EOMES.webp","fingerprint":"bcf455cd13ead6ca75bf11d0283a0c3b","bytes":88228},
     "EP300": {"name":"EP300 lysine acetyltransferase","path":"blot/E/EP300.webp","fingerprint":"eb0969a50e5998c8b4a211213f1b3d2d","bytes":80124},
     "EP400": {"name":"E1A binding protein p400","path":"blot/E/EP400.webp","fingerprint":"1be327cd67f8e2dab30f3912728fba17","bytes":225298},
-    "EPAS1": {"name":"endothelial PAS domain protein 1","path":"blot/E/EPAS1.webp","fingerprint":"db0302e14eccf12f0874f33f5ed72256","bytes":204574},
+    "EPAS1": {"name":"endothelial PAS domain protein 1","path":"blot/E/EPAS1.webp","fingerprint":"8f7904ef111701b73ff0d2304450f3ee","bytes":172634},
     "EPB41": {"name":"erythrocyte membrane protein band 4.1","path":"blot/E/EPB41.webp","fingerprint":"927e5013d73722ae81fdfde9832db979","bytes":130714},
     "EPB41L1": {"name":"erythrocyte membrane protein band 4.1 like 1","path":"blot/E/EPB41L1.webp","fingerprint":"a25d207dc9a54796cfb1614e183254b3","bytes":110468},
     "EPB41L2": {"name":"erythrocyte membrane protein band 4.1 like 2","path":"blot/E/EPB41L2.webp","fingerprint":"a0a64c03987239392b5e192e615b0754","bytes":175436},
