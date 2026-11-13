@@ -11696,7 +11696,7 @@
     "PAFAH2": {"name":"platelet activating factor acetylhydrolase 2","path":"blot/P/PAFAH2.webp","fingerprint":"87390a163b8be60e5acc5a457c7c5f8d","bytes":100142},
     "PAG1": {"name":"phosphoprotein membrane anchor with glycosphingolipid microdomains 1","path":"blot/P/PAG1.webp","fingerprint":"61ad693e973b042e1d983a76e0319109","bytes":153428},
     "PAGE1": {"name":"PAGE family member 1","path":"blot/P/PAGE1.webp","fingerprint":"eb0d7a2e81e409223cca0054b8399253","bytes":97954},
-    "PAGE2": {"name":"PAGE family member 2","path":"blot/P/PAGE2.webp","fingerprint":"ee16dbff3bfe0d98da849e3e4d6127e5","bytes":105332},
+    "PAGE2": {"name":"PAGE family member 2","path":"blot/P/PAGE2.webp","fingerprint":"9618bc2ada7c3de0f9326cb812b3d09d","bytes":105482},
     "PAGE2B": {"name":"PAGE family member 2B","path":"blot/P/PAGE2B.webp","fingerprint":"fb9cf960155dd609c5c06f7d3227cbcc","bytes":71004},
     "PAGE3": {"name":"PAGE family member 3","path":"blot/P/PAGE3.webp","fingerprint":"f6101d0258c84d8b83f961048ed5d5be","bytes":63076},
     "PAGE4": {"name":"PAGE family member 4","path":"blot/P/PAGE4.webp","fingerprint":"ca8c17cceda393b288262ff944d8926b","bytes":96206},
