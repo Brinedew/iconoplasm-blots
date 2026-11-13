@@ -1362,7 +1362,7 @@
     "AXDND1": {"name":"axonemal dynein light chain domain containing 1","path":"blot/A/AXDND1.webp","fingerprint":"64a7c92b84bdf1545668211a6b847bd1","bytes":128052},
     "AXIN1": {"name":"axin 1","path":"blot/A/AXIN1.webp","fingerprint":"701976c6c0c747a6073cccfb4e65e6c7","bytes":91448},
     "AXIN2": {"name":"axin 2","path":"blot/A/AXIN2.webp","fingerprint":"ee6cde36b778e29e15f76cd0117ffe57","bytes":108228},
-    "AXL": {"name":"AXL receptor tyrosine kinase","path":"blot/A/AXL.webp","fingerprint":"d011241f579ceeb56efe22fbccfb7114","bytes":117316},
+    "AXL": {"name":"AXL receptor tyrosine kinase","path":"blot/A/AXL.webp","fingerprint":"25d99cf5edb033c48267a8d9dc6361e9","bytes":167746},
     "AZGP1": {"name":"alpha-2-glycoprotein 1, zinc-binding","path":"blot/A/AZGP1.webp","fingerprint":"911f20d2deed576aa93ab4ca7a32261b","bytes":163076},
     "AZI2": {"name":"5-azacytidine induced 2","path":"blot/A/AZI2.webp","fingerprint":"746fa1b9302470a252631262bb893cf3","bytes":155460},
     "AZIN1": {"name":"antizyme inhibitor 1","path":"blot/A/AZIN1.webp","fingerprint":"4604f887c7285ae38c750301511cea6a","bytes":215286},
