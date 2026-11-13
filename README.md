@@ -2,6 +2,8 @@
 
 Every [Iconoplasm](https://iconoplasm.brinedew.bio) blot, one WebP per human protein-coding gene (about 19,400). A blot is the gene's character portrait with its full name and symbol painted into the image. All files are CC0: use them anywhere, no attribution required.
 
+These ready-made gene illustrations are visual assets for scientific figures, pathway diagrams, and other biological diagrams. Use gene portraits as nodes in Wnt, Notch, MAPK, and other signaling pathway diagrams, or replace generic shapes and blobs in an SVG with a gene-specific illustration. This repository contains the image assets, rather than prebuilt pathway diagrams.
+
 This copy exists for code that can reach GitHub but not `iconoplasm.brinedew.bio`, such as Claude.ai's code sandbox. If your code can reach the site, its [developer page](https://iconoplasm.brinedew.bio/developers) has the full API.
 
 ## File addresses
@@ -37,6 +39,7 @@ image = f'<image href="data:image/webp;base64,{data}" width="192" height="256"/>
 ```
 
 **If your code can't download files at all** (a sandbox with network access off), link the `raw.githubusercontent.com` address instead of embedding. GitHub serves it, and the figure shows it wherever it is opened online. Claude.ai's file preview shows only embedded images, so a linked figure looks empty there until it is opened in a browser.
+
 ## Aliases
 
 Paths use official HGNC symbols. For a name like p53, IL-1β or a UniProt accession, map it to its HGNC symbol first (p53 is TP53). From code that can reach the site, the resolver does that: `POST https://iconoplasm.brinedew.bio/api/public/v1/images/resolve`.
