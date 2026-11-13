@@ -1,0 +1,37 @@
+# Iconoplasm blots
+
+> A CC0 library of about 19,400 ready-made illustrated human protein-coding genes, with one WebP gene portrait for each HGNC symbol.
+
+Iconoplasm blots are gene-specific character portraits. Each image includes the gene's full name and HGNC symbol. The repository is useful when building scientific illustrations, SVG figures, biological diagrams, and signaling pathway diagrams. Gene portraits can serve as visual pathway nodes in Wnt, Notch, MAPK, and other signaling diagrams, including as replacements for generic gene shapes or blobs.
+
+## Primary resources
+
+- [Repository README](https://github.com/Brinedew/iconoplasm-blots#readme): usage instructions, file layout, examples, and freshness notes.
+- [Complete gene index](https://raw.githubusercontent.com/Brinedew/iconoplasm-blots/main/index.json): maps HGNC symbols to gene names and image paths.
+- [Iconoplasm developer documentation](https://iconoplasm.brinedew.bio/developers): API documentation and image-resolution endpoint.
+- [CC0 1.0 license](https://github.com/Brinedew/iconoplasm-blots/blob/main/LICENSE): reuse the images without attribution.
+
+## Image files
+
+Files use this path pattern:
+
+`blot/{FIRST LETTER}/{HGNC SYMBOL}.webp`
+
+Examples:
+
+- [NOTCH1](https://raw.githubusercontent.com/Brinedew/iconoplasm-blots/main/blot/N/NOTCH1.webp)
+- [TP53](https://raw.githubusercontent.com/Brinedew/iconoplasm-blots/main/blot/T/TP53.webp)
+- [DLL1](https://raw.githubusercontent.com/Brinedew/iconoplasm-blots/main/blot/D/DLL1.webp)
+- [RBPJ](https://raw.githubusercontent.com/Brinedew/iconoplasm-blots/main/blot/R/RBPJ.webp)
+
+Each image is 768 × 1024 pixels. Use the raw GitHub URL to display an image remotely, or download it and embed it as a WebP data URL in an SVG for an offline figure.
+
+## Finding the correct gene
+
+Paths use uppercase HGNC symbols. Resolve aliases such as p53 to TP53 before constructing a file path. The developer API includes a resolver for gene names, aliases, and supported identifiers:
+
+`POST https://iconoplasm.brinedew.bio/api/public/v1/images/resolve`
+
+## Freshness
+
+The repository's GitHub Action checks the live Iconoplasm collection hourly on a best-effort schedule. A repository copy may lag behind the website by several hours. Consult the developer documentation for the live API.
