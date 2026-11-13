@@ -13645,7 +13645,7 @@
     "RBP4": {"name":"retinol binding protein 4","path":"blot/R/RBP4.webp","fingerprint":"7f8d061dcb778ab1e5a29031731ffcd0","bytes":73766},
     "RBP5": {"name":"retinol binding protein 5","path":"blot/R/RBP5.webp","fingerprint":"af9e79240749252959cb4059cde104a8","bytes":125894},
     "RBP7": {"name":"retinol binding protein 7","path":"blot/R/RBP7.webp","fingerprint":"8d82f643edb355c90ca231a4f8a18a04","bytes":133664},
-    "RBPJ": {"name":"recombination signal binding protein for immunoglobulin kappa J region","path":"blot/R/RBPJ.webp","fingerprint":"bdc6cf6808db6dbda48599846325d92e","bytes":206432},
+    "RBPJ": {"name":"recombination signal binding protein for immunoglobulin kappa J region","path":"blot/R/RBPJ.webp","fingerprint":"9815554b80b13dbdf24fcb778b9b90d2","bytes":203456},
     "RBPJL": {"name":"recombination signal binding protein for immunoglobulin kappa J region like","path":"blot/R/RBPJL.webp","fingerprint":"b92f549cb6da503d5e16092e3f5b18de","bytes":118596},
     "RBPMS": {"name":"RNA binding protein, mRNA processing factor","path":"blot/R/RBPMS.webp","fingerprint":"9eb5cc8112f94d6fc184791ecff35bf8","bytes":197328},
     "RBPMS2": {"name":"RNA binding protein, mRNA processing factor 2","path":"blot/R/RBPMS2.webp","fingerprint":"2d5be0a7073bcc709570fee5d69342c5","bytes":181896},
