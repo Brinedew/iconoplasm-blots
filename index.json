@@ -7861,7 +7861,7 @@
     "ITGAM": {"name":"integrin subunit alpha M","path":"blot/I/ITGAM.webp","fingerprint":"bd0e5f5ca6a1fee06f48d1061eb84ef5","bytes":169020},
     "ITGAV": {"name":"integrin subunit alpha V","path":"blot/I/ITGAV.webp","fingerprint":"4b27efca97544751835c2e8485d5b9cc","bytes":240742},
     "ITGAX": {"name":"integrin subunit alpha X","path":"blot/I/ITGAX.webp","fingerprint":"95461511c129ce8211487fc100ca9a2b","bytes":107436},
-    "ITGB1": {"name":"integrin subunit beta 1","path":"blot/I/ITGB1.webp","fingerprint":"2d246488cc9e5d230aaba11fdd530b50","bytes":95954},
+    "ITGB1": {"name":"integrin subunit beta 1","path":"blot/I/ITGB1.webp","fingerprint":"51204410744cd093f4b49c4100644270","bytes":78700},
     "ITGB1BP1": {"name":"integrin subunit beta 1 binding protein 1","path":"blot/I/ITGB1BP1.webp","fingerprint":"9b0834a9f0d4e3cd73ac4756cfaa1eb4","bytes":110658},
     "ITGB1BP2": {"name":"integrin subunit beta 1 binding protein 2","path":"blot/I/ITGB1BP2.webp","fingerprint":"95baec2e077b30739003208308ac6ba2","bytes":158110},
     "ITGB2": {"name":"integrin subunit beta 2","path":"blot/I/ITGB2.webp","fingerprint":"05191fc193a45cea6951d28d651fbb41","bytes":233948},
