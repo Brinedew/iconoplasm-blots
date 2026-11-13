@@ -7088,7 +7088,7 @@
     "HIC1": {"name":"HIC ZBTB transcriptional repressor 1","path":"blot/H/HIC1.webp","fingerprint":"e6368807bf717f523c7d68b542ebeda1","bytes":104214},
     "HIC2": {"name":"HIC ZBTB transcriptional repressor 2","path":"blot/H/HIC2.webp","fingerprint":"970aaa79874903edf69ae3bdad715abe","bytes":106154},
     "HID1": {"name":"HID1 domain containing","path":"blot/H/HID1.webp","fingerprint":"29cd69cc97be1d43296dd9676286d660","bytes":113676},
-    "HIF1A": {"name":"hypoxia inducible factor 1 subunit alpha","path":"blot/H/HIF1A.webp","fingerprint":"df1a2aa2995a4f0708b5f2790278407e","bytes":125380},
+    "HIF1A": {"name":"hypoxia inducible factor 1 subunit alpha","path":"blot/H/HIF1A.webp","fingerprint":"44ec6af67f6f4d5a6c7dfeda1ae61d4f","bytes":81458},
     "HIF1AN": {"name":"hypoxia inducible factor 1 subunit alpha inhibitor","path":"blot/H/HIF1AN.webp","fingerprint":"3bb2506334ca9366f207baed43b02911","bytes":96070},
     "HIF3A": {"name":"hypoxia inducible factor 3 subunit alpha","path":"blot/H/HIF3A.webp","fingerprint":"0988613887aed308e1061317d5366d11","bytes":221074},
     "HIGD1A": {"name":"HIG1 hypoxia inducible domain family member 1A","path":"blot/H/HIGD1A.webp","fingerprint":"2accd9d609ff120efb26849cb3d307c9","bytes":112748},
