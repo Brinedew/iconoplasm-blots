@@ -9124,7 +9124,7 @@
     "MACROD2": {"name":"mono-ADP ribosylhydrolase 2","path":"blot/M/MACROD2.webp","fingerprint":"aa3df89755cfa0c1071bda305d49206e","bytes":92434},
     "MACROH2A1": {"name":"macroH2A.1 histone","path":"blot/M/MACROH2A1.webp","fingerprint":"b194e063d9ab628f55a38e0871a0b562","bytes":119886},
     "MACROH2A2": {"name":"macroH2A.2 histone","path":"blot/M/MACROH2A2.webp","fingerprint":"99665380bc748d5c5d048422a6149fa1","bytes":127096},
-    "MAD1L1": {"name":"mitotic arrest deficient 1 like 1","path":"blot/M/MAD1L1.webp","fingerprint":"f960e6625608ea400e08f9bbb504c809","bytes":130570},
+    "MAD1L1": {"name":"mitotic arrest deficient 1 like 1","path":"blot/M/MAD1L1.webp","fingerprint":"2d2812818ab421e23a4eeb96286e151f","bytes":165498},
     "MAD2L1": {"name":"mitotic arrest deficient 2 like 1","path":"blot/M/MAD2L1.webp","fingerprint":"3f46e6a14259e01945b42ff3fb3bb3f0","bytes":103556},
     "MAD2L1BP": {"name":"MAD2L1 binding protein","path":"blot/M/MAD2L1BP.webp","fingerprint":"17bb39afe897767a830f5503046e19c9","bytes":103654},
     "MAD2L2": {"name":"mitotic arrest deficient 2 like 2","path":"blot/M/MAD2L2.webp","fingerprint":"4ccc38ae72129c6d58f1263e175d9afc","bytes":198154},
