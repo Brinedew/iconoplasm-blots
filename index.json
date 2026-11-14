@@ -1738,7 +1738,7 @@
     "BTNL9": {"name":"butyrophilin like 9","path":"blot/B/BTNL9.webp","fingerprint":"1fecf7b9137e18f7e5fdbf8db657a3ac","bytes":108862},
     "BTRC": {"name":"beta-transducin repeat containing E3 ubiquitin protein ligase","path":"blot/B/BTRC.webp","fingerprint":"fbb3975175bae59a7b2b50dadf19c4e7","bytes":129116},
     "BUB1": {"name":"BUB1 mitotic checkpoint serine/threonine kinase","path":"blot/B/BUB1.webp","fingerprint":"788f9cf1c39334669e5bb50a9dfaaf3b","bytes":106504},
-    "BUB1B": {"name":"BUB1 mitotic checkpoint serine/threonine kinase B","path":"blot/B/BUB1B.webp","fingerprint":"c8b5499617a39adbbd6ef0a67ca503f8","bytes":114208},
+    "BUB1B": {"name":"BUB1 mitotic checkpoint serine/threonine kinase B","path":"blot/B/BUB1B.webp","fingerprint":"18acc4945ebf1749d3cc3fbfd821ca6e","bytes":119142},
     "BUB3": {"name":"BUB3 mitotic checkpoint protein","path":"blot/B/BUB3.webp","fingerprint":"e418af13e14219e2574716d83833ee2f","bytes":195352},
     "BUD13": {"name":"BUD13 spliceosome associated protein","path":"blot/B/BUD13.webp","fingerprint":"8cd42fc3dbed7f09844e46d9561030a0","bytes":155984},
     "BUD23": {"name":"BUD23 rRNA methyltransferase and ribosome maturation factor","path":"blot/B/BUD23.webp","fingerprint":"0ff7187286c7f0732ecc6ab5b1623c30","bytes":136208},
