@@ -657,7 +657,7 @@
     "AMY2B": {"name":"amylase alpha 2B","path":"blot/A/AMY2B.webp","fingerprint":"0ab7ba2b291830f95f28b9e00fa530e4","bytes":85896},
     "AMZ1": {"name":"archaelysin family metallopeptidase 1","path":"blot/A/AMZ1.webp","fingerprint":"92ddc2874627c78457e66c7074828f31","bytes":96484},
     "AMZ2": {"name":"archaelysin family metallopeptidase 2","path":"blot/A/AMZ2.webp","fingerprint":"fc2979bd60efba55ee67aace74ada170","bytes":154912},
-    "ANAPC1": {"name":"anaphase promoting complex subunit 1","path":"blot/A/ANAPC1.webp","fingerprint":"ef82640d1b9b2900dd59b011cf8ddf3f","bytes":155380},
+    "ANAPC1": {"name":"anaphase promoting complex subunit 1","path":"blot/A/ANAPC1.webp","fingerprint":"ea3b46bebf1d4e990926ede7e01c5c06","bytes":72848},
     "ANAPC10": {"name":"anaphase promoting complex subunit 10","path":"blot/A/ANAPC10.webp","fingerprint":"3e65891235e12ae3ff49b115ce32ff68","bytes":107666},
     "ANAPC11": {"name":"anaphase promoting complex subunit 11","path":"blot/A/ANAPC11.webp","fingerprint":"eb223999b04e55f2333e8c31009634c9","bytes":155504},
     "ANAPC13": {"name":"anaphase promoting complex subunit 13","path":"blot/A/ANAPC13.webp","fingerprint":"7f736acec09fc5d7497c1a6256f067e0","bytes":174178},
