@@ -12643,7 +12643,7 @@
     "POR": {"name":"cytochrome p450 oxidoreductase","path":"blot/P/POR.webp","fingerprint":"bb783297203fab7bfe878061f01fa86e","bytes":174504},
     "PORCN": {"name":"porcupine O-acyltransferase","path":"blot/P/PORCN.webp","fingerprint":"6599ecbf85cbbdda431eb65960b6d411","bytes":73270},
     "POSTN": {"name":"periostin","path":"blot/P/POSTN.webp","fingerprint":"3ed90bb8c9e94fea624292fd5bbe03ed","bytes":170414},
-    "POT1": {"name":"protection of telomeres 1","path":"blot/P/POT1.webp","fingerprint":"ccfb72193a0ea4b119e316b010a9e158","bytes":142478},
+    "POT1": {"name":"protection of telomeres 1","path":"blot/P/POT1.webp","fingerprint":"aaee8b47eecbfed0c3a1205c1942c019","bytes":140912},
     "POTEA": {"name":"POTE ankyrin domain family member A (gene/pseudogene)","path":"blot/P/POTEA.webp","fingerprint":"274b6f1eeafcbd13128169540d88a990","bytes":214706},
     "POTEB": {"name":"POTE ankyrin domain family member B","path":"blot/P/POTEB.webp","fingerprint":"8b38ca37bff75224d8c0d665f5e66d53","bytes":74078},
     "POTEB2": {"name":"POTE ankyrin domain family member B2","path":"blot/P/POTEB2.webp","fingerprint":"7480823e6fe75845bef1419470d45692","bytes":106546},
