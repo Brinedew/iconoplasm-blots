@@ -8596,7 +8596,7 @@
     "LARP1B": {"name":"La ribonucleoprotein 1B","path":"blot/L/LARP1B.webp","fingerprint":"b57589fd58df26fe0e4db5991b58f9df","bytes":183214},
     "LARP4": {"name":"La ribonucleoprotein 4","path":"blot/L/LARP4.webp","fingerprint":"0e8f8c05b3bbc2126c67b9e51330b1eb","bytes":123100},
     "LARP4B": {"name":"La ribonucleoprotein 4B","path":"blot/L/LARP4B.webp","fingerprint":"96261faa5cec6c385a039f7d20575951","bytes":159988},
-    "LARP6": {"name":"La ribonucleoprotein 6, translational regulator","path":"blot/L/LARP6.webp","fingerprint":"f235d00c04d3715caefd7505a21ae357","bytes":177858},
+    "LARP6": {"name":"La ribonucleoprotein 6, translational regulator","path":"blot/L/LARP6.webp","fingerprint":"db429ded54b7a03669bc8ae8c37ec711","bytes":168620},
     "LARP7": {"name":"La ribonucleoprotein 7, transcriptional regulator","path":"blot/L/LARP7.webp","fingerprint":"40eecda619e2f6372eab680746d99c08","bytes":117578},
     "LARS1": {"name":"leucyl-tRNA synthetase 1","path":"blot/L/LARS1.webp","fingerprint":"11fbdcfee5368f7fd9bc11dcd6fa10fa","bytes":117656},
     "LARS2": {"name":"leucyl-tRNA synthetase 2, mitochondrial","path":"blot/L/LARS2.webp","fingerprint":"7ca6c8bef4cc97edc630c8414ed915ba","bytes":146942},
