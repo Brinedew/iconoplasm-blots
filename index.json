@@ -9023,7 +9023,7 @@
     "LSMEM2": {"name":"leucine rich single-pass membrane protein 2","path":"blot/L/LSMEM2.webp","fingerprint":"c216e3b9a3827396749b4afdef7b82df","bytes":104398},
     "LSP1": {"name":"lymphocyte specific protein 1","path":"blot/L/LSP1.webp","fingerprint":"7d961e419c9d1740796d8b4edb025265","bytes":162938},
     "LSR": {"name":"lipolysis stimulated lipoprotein receptor","path":"blot/L/LSR.webp","fingerprint":"60c577f65b730fa25e86f0e397fd6db1","bytes":102690},
-    "LSS": {"name":"lanosterol synthase","path":"blot/L/LSS.webp","fingerprint":"19a65014f94626c1cb6be12c8d11c432","bytes":246410},
+    "LSS": {"name":"lanosterol synthase","path":"blot/L/LSS.webp","fingerprint":"dbc4902a59882abde7d19341b11ce8da","bytes":357818},
     "LST1": {"name":"leukocyte specific transcript 1","path":"blot/L/LST1.webp","fingerprint":"a468f2869110223b2058014731074b3a","bytes":141598},
     "LTA": {"name":"lymphotoxin alpha","path":"blot/L/LTA.webp","fingerprint":"48806b70f054aae07b1cf117c8fb78eb","bytes":148420},
     "LTA4H": {"name":"leukotriene A4 hydrolase","path":"blot/L/LTA4H.webp","fingerprint":"27ac91531a7f2a9c23dd2314a97fa545","bytes":170348},
