@@ -11935,7 +11935,7 @@
     "PCYT2": {"name":"phosphate cytidylyltransferase 2, ethanolamine","path":"blot/P/PCYT2.webp","fingerprint":"64fba5f47bc5ad02c871e45d1308d2eb","bytes":124506},
     "PDAP1": {"name":"PDGFA associated protein 1","path":"blot/P/PDAP1.webp","fingerprint":"e2ecb5c1f127566e3bae8e4ac12299d7","bytes":108444},
     "PDC": {"name":"phosducin","path":"blot/P/PDC.webp","fingerprint":"e2a078b69fd574b970536fe0eebb69b6","bytes":141710},
-    "PDCD1": {"name":"programmed cell death 1","path":"blot/P/PDCD1.webp","fingerprint":"6460a0200309ef4b23d33d68a6f883fc","bytes":179830},
+    "PDCD1": {"name":"programmed cell death 1","path":"blot/P/PDCD1.webp","fingerprint":"c4e6d7ddeba652da666afa53791586a9","bytes":152544},
     "PDCD10": {"name":"programmed cell death 10","path":"blot/P/PDCD10.webp","fingerprint":"2a6a5b04d958ce88983abfe42c1586ff","bytes":86810},
     "PDCD11": {"name":"programmed cell death 11","path":"blot/P/PDCD11.webp","fingerprint":"0fa9c9b8d9850d1b39e39f3486cb7ff8","bytes":122256},
     "PDCD1LG2": {"name":"programmed cell death 1 ligand 2","path":"blot/P/PDCD1LG2.webp","fingerprint":"8223ce8fc1bc941ec886c07d06968329","bytes":151054},
