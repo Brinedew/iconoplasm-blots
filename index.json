@@ -10048,7 +10048,7 @@
     "MTNR1A": {"name":"melatonin receptor 1A","path":"blot/M/MTNR1A.webp","fingerprint":"9ee71badc70e989f2c98ca3d4bccca72","bytes":105100},
     "MTNR1B": {"name":"melatonin receptor 1B","path":"blot/M/MTNR1B.webp","fingerprint":"14a04743efb8b37b70247070b9227fda","bytes":125952},
     "MTO1": {"name":"mitochondrial tRNA translation optimization 1","path":"blot/M/MTO1.webp","fingerprint":"d01a921c6241dbaaf0f546aea41b76e7","bytes":73930},
-    "MTOR": {"name":"mechanistic target of rapamycin kinase","path":"blot/M/MTOR.webp","fingerprint":"a54c2e3b0e646aea15af77c61b3348a1","bytes":120650},
+    "MTOR": {"name":"mechanistic target of rapamycin kinase","path":"blot/M/MTOR.webp","fingerprint":"f5f720f59cd62d604295556c6878709f","bytes":164156},
     "MTPAP": {"name":"mitochondrial poly(A) polymerase","path":"blot/M/MTPAP.webp","fingerprint":"714c7590382372ade5b8fa4018510284","bytes":112830},
     "MTPN": {"name":"myotrophin","path":"blot/M/MTPN.webp","fingerprint":"096748d79a6bb9be0909fb1728f7b22d","bytes":119464},
     "MTR": {"name":"5-methyltetrahydrofolate-homocysteine methyltransferase","path":"blot/M/MTR.webp","fingerprint":"19182f9cb03d4950593e9b129258a29f","bytes":80026},
