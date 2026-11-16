@@ -12932,7 +12932,7 @@
     "PRKD1": {"name":"protein kinase D1","path":"blot/P/PRKD1.webp","fingerprint":"25866e758c88609dfb7b4d5866309a3a","bytes":149456},
     "PRKD2": {"name":"protein kinase D2","path":"blot/P/PRKD2.webp","fingerprint":"05f3baabcf394bb49bbf1e78a7494f03","bytes":114352},
     "PRKD3": {"name":"protein kinase D3","path":"blot/P/PRKD3.webp","fingerprint":"74b9d4a483505b5db7366e860109441e","bytes":143096},
-    "PRKDC": {"name":"protein kinase, DNA-activated, catalytic subunit","path":"blot/P/PRKDC.webp","fingerprint":"883c1afb66c9c5f631104fbcd5e28aef","bytes":140008},
+    "PRKDC": {"name":"protein kinase, DNA-activated, catalytic subunit","path":"blot/P/PRKDC.webp","fingerprint":"1d35c2bd472c1407f8ec6380ebe53c96","bytes":99194},
     "PRKG1": {"name":"protein kinase cGMP-dependent 1","path":"blot/P/PRKG1.webp","fingerprint":"efc03666d5f499dfdc3b9c0f3bbdab3c","bytes":160422},
     "PRKG2": {"name":"protein kinase cGMP-dependent 2","path":"blot/P/PRKG2.webp","fingerprint":"b98660f649433f2bd4a103b3690cc9f8","bytes":60354},
     "PRKN": {"name":"parkin RBR E3 ubiquitin protein ligase","path":"blot/P/PRKN.webp","fingerprint":"2fd4862502c4a664dd54ad34f4d4325f","bytes":75886},
