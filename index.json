@@ -10268,7 +10268,7 @@
     "NALF1": {"name":"NALCN channel auxiliary factor 1","path":"blot/N/NALF1.webp","fingerprint":"43f63cd7f7e4ca03845e1166b9103cb2","bytes":104330},
     "NALF2": {"name":"NALCN channel auxiliary factor 2","path":"blot/N/NALF2.webp","fingerprint":"5d8fb4aae5eb61271d4417143947df0e","bytes":107280},
     "NAMPT": {"name":"nicotinamide phosphoribosyltransferase","path":"blot/N/NAMPT.webp","fingerprint":"ed6d9205ca076ba6b521fb2fcdcce7eb","bytes":124774},
-    "NANOG": {"name":"Nanog homeobox","path":"blot/N/NANOG.webp","fingerprint":"5d2b3ba4eade6089f3c053abc22e521c","bytes":172562},
+    "NANOG": {"name":"Nanog homeobox","path":"blot/N/NANOG.webp","fingerprint":"76491ea7579799d90a900ecc1c8cae60","bytes":120752},
     "NANOGNB": {"name":"NANOG neighbor homeobox","path":"blot/N/NANOGNB.webp","fingerprint":"7eed4ed8b2e3f0ced0c0eab94787e66d","bytes":165450},
     "NANOGP8": {"name":"Nanog homeobox retrogene P8","path":"blot/N/NANOGP8.webp","fingerprint":"6500f231f36b902217ec64aeb93bd461","bytes":173804},
     "NANOS1": {"name":"nanos C2HC-type zinc finger 1","path":"blot/N/NANOS1.webp","fingerprint":"222ac44e63124a158fd7078a003b3ef8","bytes":108176},
