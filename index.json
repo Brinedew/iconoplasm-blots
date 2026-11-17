@@ -7900,7 +7900,7 @@
     "ITPRIPL2": {"name":"ITPRIP like 2","path":"blot/I/ITPRIPL2.webp","fingerprint":"4a152a8efb3ce96d6908655d1bceb05c","bytes":184716},
     "ITSN1": {"name":"intersectin 1","path":"blot/I/ITSN1.webp","fingerprint":"0fc5b1e285cbfb118020d7f84bd2f582","bytes":145930},
     "ITSN2": {"name":"intersectin 2","path":"blot/I/ITSN2.webp","fingerprint":"64c0d52342d720396f59bf1fc41b0792","bytes":118636},
-    "IVD": {"name":"isovaleryl-CoA dehydrogenase","path":"blot/I/IVD.webp","fingerprint":"db0c05aac219ef64e7d6b21f6d79d5f1","bytes":218436},
+    "IVD": {"name":"isovaleryl-CoA dehydrogenase","path":"blot/I/IVD.webp","fingerprint":"ac3b9bd935d096d8e34b709380ef443d","bytes":96158},
     "IVL": {"name":"involucrin","path":"blot/I/IVL.webp","fingerprint":"2a0357d686e4f01bed071114420a1972","bytes":145244},
     "IVNS1ABP": {"name":"influenza virus NS1A binding protein","path":"blot/I/IVNS1ABP.webp","fingerprint":"d65ec9ab5c341adba1bdbdaceb1ff86c","bytes":168514},
     "IWS1": {"name":"interacts with SUPT6H, CTD assembly factor 1","path":"blot/I/IWS1.webp","fingerprint":"9a1afeeac863ddf5f76fc3ccb491f362","bytes":82610},
