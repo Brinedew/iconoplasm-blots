@@ -1608,7 +1608,7 @@
     "BMP8A": {"name":"bone morphogenetic protein 8a","path":"blot/B/BMP8A.webp","fingerprint":"52e095ded2b5952aa0fbd345ce482fb5","bytes":168982},
     "BMP8B": {"name":"bone morphogenetic protein 8b","path":"blot/B/BMP8B.webp","fingerprint":"be65cd45a0d4252f67243f3521ee9b50","bytes":180788},
     "BMPER": {"name":"BMP binding endothelial regulator","path":"blot/B/BMPER.webp","fingerprint":"c3ff12847b8c2f15ee93dbc9523df36a","bytes":161768},
-    "BMPR1A": {"name":"bone morphogenetic protein receptor type 1A","path":"blot/B/BMPR1A.webp","fingerprint":"1fe9d2be6067f669d252157452783aa4","bytes":122122},
+    "BMPR1A": {"name":"bone morphogenetic protein receptor type 1A","path":"blot/B/BMPR1A.webp","fingerprint":"37977bb815f4ad0e2c18773e70e75a7f","bytes":121974},
     "BMPR1B": {"name":"bone morphogenetic protein receptor type 1B","path":"blot/B/BMPR1B.webp","fingerprint":"cc10ed33e2bc81c45c65854058172cb5","bytes":133992},
     "BMPR2": {"name":"bone morphogenetic protein receptor type 2","path":"blot/B/BMPR2.webp","fingerprint":"75c26a955af88efc402fe437f8ee3731","bytes":157294},
     "BMS1": {"name":"BMS1 ribosome biogenesis factor","path":"blot/B/BMS1.webp","fingerprint":"b8078297984cbe6e8b21ca89a36a2457","bytes":149772},
