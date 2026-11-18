@@ -9342,7 +9342,7 @@
     "MAVS": {"name":"mitochondrial antiviral signaling protein","path":"blot/M/MAVS.webp","fingerprint":"45e7ed70323979ac535d9c8649922d35","bytes":185860},
     "MAX": {"name":"MYC associated transcriptional regulator X","path":"blot/M/MAX.webp","fingerprint":"41d790a57cc14f7633dd4c524a3de53b","bytes":99766},
     "MAZ": {"name":"MYC associated zinc finger protein","path":"blot/M/MAZ.webp","fingerprint":"e85e84d9f3b1d433e9dd65ed45b5e8a6","bytes":93642},
-    "MB": {"name":"myoglobin","path":"blot/M/MB.webp","fingerprint":"c482af9b9dfd3cf000aaef77381d610d","bytes":78764},
+    "MB": {"name":"myoglobin","path":"blot/M/MB.webp","fingerprint":"640c8b572f86fb32e86fadbd62b18f5f","bytes":135862},
     "MB21D2": {"name":"Mab-21 domain containing 2","path":"blot/M/MB21D2.webp","fingerprint":"735e037f9d94dfb6da4f9ce297c816ed","bytes":197940},
     "MBD1": {"name":"methyl-CpG binding domain protein 1","path":"blot/M/MBD1.webp","fingerprint":"d48e60ca2c771576f7a89ff90638d863","bytes":108162},
     "MBD2": {"name":"methyl-CpG binding domain protein 2","path":"blot/M/MBD2.webp","fingerprint":"241e4707ad2b2ae787f0be4f60bbf6ae","bytes":112812},
