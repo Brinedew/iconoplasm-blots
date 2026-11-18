@@ -10793,7 +10793,7 @@
     "NPR2": {"name":"natriuretic peptide receptor 2","path":"blot/N/NPR2.webp","fingerprint":"dd6ae3bd6531803e3eb62b97aa2e1aa5","bytes":172706},
     "NPR3": {"name":"natriuretic peptide receptor 3","path":"blot/N/NPR3.webp","fingerprint":"3802dbd558d22093f9cb4e7ea75fb58c","bytes":135648},
     "NPRL2": {"name":"NPR2 like, GATOR1 complex subunit","path":"blot/N/NPRL2.webp","fingerprint":"437328fe9150c47948bf21763f3ebabe","bytes":116460},
-    "NPRL3": {"name":"NPR3 like, GATOR1 complex subunit","path":"blot/N/NPRL3.webp","fingerprint":"676b860fb502c8c0754d038011ec9713","bytes":143266},
+    "NPRL3": {"name":"NPR3 like, GATOR1 complex subunit","path":"blot/N/NPRL3.webp","fingerprint":"94fdab706179c85ee89019b6ea7899a5","bytes":108280},
     "NPS": {"name":"neuropeptide S","path":"blot/N/NPS.webp","fingerprint":"21afda7daee864cf8c8da86929b2af56","bytes":60916},
     "NPSR1": {"name":"neuropeptide S receptor 1","path":"blot/N/NPSR1.webp","fingerprint":"7825fc71ef836d30da262da2d4d9af6f","bytes":144610},
     "NPTN": {"name":"neuroplastin","path":"blot/N/NPTN.webp","fingerprint":"832895ee315713c136a1374823b1b12e","bytes":174264},
