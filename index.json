@@ -11726,7 +11726,7 @@
     "PAM": {"name":"peptidylglycine alpha-amidating monooxygenase","path":"blot/P/PAM.webp","fingerprint":"f7e7fba3a54bbf2171f6e19678a5ea4a","bytes":217494},
     "PAM16": {"name":"presequence translocase associated motor 16","path":"blot/P/PAM16.webp","fingerprint":"1ab55a3d2c69bf7498b35565c710a793","bytes":141606},
     "PAMR1": {"name":"peptidase domain containing associated with muscle regeneration 1","path":"blot/P/PAMR1.webp","fingerprint":"43d9c8326a9165e10099f9e2600b701e","bytes":172744},
-    "PAN2": {"name":"poly(A) specific ribonuclease subunit PAN2","path":"blot/P/PAN2.webp","fingerprint":"74a3977037773596b0a26d6efffb6161","bytes":128026},
+    "PAN2": {"name":"poly(A) specific ribonuclease subunit PAN2","path":"blot/P/PAN2.webp","fingerprint":"8bc2fce58e1f13fe9e78dfae73f9d3e9","bytes":131850},
     "PAN3": {"name":"poly(A) specific ribonuclease subunit PAN3","path":"blot/P/PAN3.webp","fingerprint":"162e373201cafe271d672270ecba03ec","bytes":139592},
     "PANK1": {"name":"pantothenate kinase 1","path":"blot/P/PANK1.webp","fingerprint":"095d8e9eae9f9b7f6af83c119f425688","bytes":110566},
     "PANK2": {"name":"pantothenate kinase 2","path":"blot/P/PANK2.webp","fingerprint":"0039632a82dd38370d7ab4437ff88bb4","bytes":202264},
