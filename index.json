@@ -7010,7 +7010,7 @@
     "HDHD3": {"name":"haloacid dehalogenase like hydrolase domain containing 3","path":"blot/H/HDHD3.webp","fingerprint":"f10c46af8d7f3870aa143311508d2c89","bytes":84882},
     "HDHD5": {"name":"haloacid dehalogenase like hydrolase domain containing 5","path":"blot/H/HDHD5.webp","fingerprint":"ee88000a76ccba2cd48edfc23c92b3c9","bytes":129400},
     "HDLBP": {"name":"high density lipoprotein binding protein","path":"blot/H/HDLBP.webp","fingerprint":"cfb9054eb3d87a0ba8aaed7247d52ace","bytes":202416},
-    "HDX": {"name":"highly divergent homeobox","path":"blot/H/HDX.webp","fingerprint":"fee9ec1e641e51d793e1f6fa7a9f66dc","bytes":98296},
+    "HDX": {"name":"highly divergent homeobox","path":"blot/H/HDX.webp","fingerprint":"a4b12cbb460874a3e0e747a20c26be50","bytes":189624},
     "HEATR1": {"name":"HEAT repeat containing 1","path":"blot/H/HEATR1.webp","fingerprint":"01d9d8330d1059e45c9e7bbbc1a61307","bytes":149816},
     "HEATR3": {"name":"HEAT repeat containing 3","path":"blot/H/HEATR3.webp","fingerprint":"4a3ee834a7e0c300deffb3301650a837","bytes":90342},
     "HEATR4": {"name":"HEAT repeat containing 4","path":"blot/H/HEATR4.webp","fingerprint":"8df373fdc0a98cfaf96322f1e9e87e51","bytes":148254},
