@@ -5068,7 +5068,7 @@
     "ERAL1": {"name":"Era like 12S mitochondrial rRNA chaperone 1","path":"blot/E/ERAL1.webp","fingerprint":"5ca77f6e5114c8fcb0d7ede991057bb3","bytes":96048},
     "ERAP1": {"name":"endoplasmic reticulum aminopeptidase 1","path":"blot/E/ERAP1.webp","fingerprint":"a254ac7ce2f4226fb7a64f398ee43b52","bytes":157720},
     "ERAP2": {"name":"endoplasmic reticulum aminopeptidase 2","path":"blot/E/ERAP2.webp","fingerprint":"f79213de4c57c9e7f702f49e3401a816","bytes":96524},
-    "ERAS": {"name":"ES cell expressed Ras","path":"blot/E/ERAS.webp","fingerprint":"34a9334c03fa447b2a121225f715dfea","bytes":129018},
+    "ERAS": {"name":"ES cell expressed Ras","path":"blot/E/ERAS.webp","fingerprint":"df12de3910446e9848ad01bca2d96f59","bytes":119154},
     "ERBB2": {"name":"erb-b2 receptor tyrosine kinase 2","path":"blot/E/ERBB2.webp","fingerprint":"7b9295d972d2f8b1ef6c867f5871a93e","bytes":160968},
     "ERBB3": {"name":"erb-b2 receptor tyrosine kinase 3","path":"blot/E/ERBB3.webp","fingerprint":"fe828bbcf80b069fc28a2d3fd6373404","bytes":86932},
     "ERBB4": {"name":"erb-b2 receptor tyrosine kinase 4","path":"blot/E/ERBB4.webp","fingerprint":"5905cdeb83251dbb865977966b95d158","bytes":68216},
