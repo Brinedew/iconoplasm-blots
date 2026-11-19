@@ -10500,7 +10500,7 @@
     "NEUROD4": {"name":"neuronal differentiation 4","path":"blot/N/NEUROD4.webp","fingerprint":"4b14024f04daa75e90c8cb48554ebba7","bytes":130226},
     "NEUROD6": {"name":"neuronal differentiation 6","path":"blot/N/NEUROD6.webp","fingerprint":"115e8c622f6ec7a18fc3f56b51db52bc","bytes":122800},
     "NEUROG1": {"name":"neurogenin 1","path":"blot/N/NEUROG1.webp","fingerprint":"b94e952172ea23fb03980c6c4c20defa","bytes":172964},
-    "NEUROG2": {"name":"neurogenin 2","path":"blot/N/NEUROG2.webp","fingerprint":"c3a558e3fc92a1d7bbc03b12ba013082","bytes":161432},
+    "NEUROG2": {"name":"neurogenin 2","path":"blot/N/NEUROG2.webp","fingerprint":"587cae1fc59debc24866d7a1f3dde217","bytes":117012},
     "NEUROG3": {"name":"neurogenin 3","path":"blot/N/NEUROG3.webp","fingerprint":"5ffa9b480ca498b33707b0761b0f059e","bytes":209518},
     "NEXMIF": {"name":"neurite extension and migration factor","path":"blot/N/NEXMIF.webp","fingerprint":"4963c48ffb0e3100931282e68ebea187","bytes":96698},
     "NEXN": {"name":"nexilin F-actin binding protein","path":"blot/N/NEXN.webp","fingerprint":"36bdb2337843519edbe06100ef48476b","bytes":210088},
