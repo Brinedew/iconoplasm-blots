@@ -440,7 +440,7 @@
     "AGFG2": {"name":"ArfGAP with FG repeats 2","path":"blot/A/AGFG2.webp","fingerprint":"6ee545ecdc5ed1c89b0320ae854504b9","bytes":62342},
     "AGGF1": {"name":"angiogenic factor with G-patch and FHA domains 1","path":"blot/A/AGGF1.webp","fingerprint":"46a0d7116ee0df865e13e8ba439bf39f","bytes":156304},
     "AGK": {"name":"acylglycerol kinase","path":"blot/A/AGK.webp","fingerprint":"661c0cb4745a348ca0b5f8ec76aee457","bytes":144700},
-    "AGL": {"name":"amylo-alpha-1,6-glucosidase and 4-alpha-glucanotransferase","path":"blot/A/AGL.webp","fingerprint":"bf9d4b99be866fafa2f911302555f6c6","bytes":157576},
+    "AGL": {"name":"amylo-alpha-1,6-glucosidase and 4-alpha-glucanotransferase","path":"blot/A/AGL.webp","fingerprint":"dc19bfc4ab1ef143e4f8b3455d13bc3e","bytes":137522},
     "AGMAT": {"name":"agmatinase (putative)","path":"blot/A/AGMAT.webp","fingerprint":"f858a4326fb7347f283a75c7dbaa1014","bytes":66614},
     "AGMO": {"name":"alkylglycerol monooxygenase","path":"blot/A/AGMO.webp","fingerprint":"993292f3a2e3a8d600a9a4d760aa6b1b","bytes":136992},
     "AGO1": {"name":"argonaute RISC component 1","path":"blot/A/AGO1.webp","fingerprint":"a1687c6ff78deea058ef3d2e480335f7","bytes":117074},
