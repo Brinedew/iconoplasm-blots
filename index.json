@@ -5922,7 +5922,7 @@
     "FSTL4": {"name":"follistatin like 4","path":"blot/F/FSTL4.webp","fingerprint":"69b73eaa36722696745fcc86fb62ec47","bytes":54350},
     "FSTL5": {"name":"follistatin like 5","path":"blot/F/FSTL5.webp","fingerprint":"8100e619ba87366c8a3731e8dedc98f5","bytes":167152},
     "FTCD": {"name":"formimidoyltransferase cyclodeaminase","path":"blot/F/FTCD.webp","fingerprint":"b41487e2df46eee295b3581097549fb7","bytes":138066},
-    "FTCDNL1": {"name":"formiminotransferase cyclodeaminase N-terminal like","path":"blot/F/FTCDNL1.webp","fingerprint":"2446fbd101d0e43e0f742faafefb8955","bytes":175396},
+    "FTCDNL1": {"name":"formiminotransferase cyclodeaminase N-terminal like","path":"blot/F/FTCDNL1.webp","fingerprint":"ab4918af8b44e91f69c14e91c90b32a4","bytes":168246},
     "FTH1": {"name":"ferritin heavy chain 1","path":"blot/F/FTH1.webp","fingerprint":"4265f8532a9c95eeeabca1d26f00e0ad","bytes":87912},
     "FTHL17": {"name":"ferritin heavy chain like 17","path":"blot/F/FTHL17.webp","fingerprint":"917ad0034e5cf2e11fe0d501c0b993c2","bytes":109614},
     "FTL": {"name":"ferritin light chain","path":"blot/F/FTL.webp","fingerprint":"975db49f53126cbceec8e04327c74125","bytes":77440},
