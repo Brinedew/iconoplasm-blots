@@ -14491,7 +14491,7 @@
     "SCN3B": {"name":"sodium voltage-gated channel beta subunit 3","path":"blot/S/SCN3B.webp","fingerprint":"6f1da048abcf1531ef43e35ef91247fe","bytes":127108},
     "SCN4A": {"name":"sodium voltage-gated channel alpha subunit 4","path":"blot/S/SCN4A.webp","fingerprint":"3467bdb0f3987a589a0e6b8f0a226695","bytes":210068},
     "SCN4B": {"name":"sodium voltage-gated channel beta subunit 4","path":"blot/S/SCN4B.webp","fingerprint":"719a7c7919dcabb1685af088f8eb452e","bytes":136184},
-    "SCN5A": {"name":"sodium voltage-gated channel alpha subunit 5","path":"blot/S/SCN5A.webp","fingerprint":"a5151f757c47b746f2035b4c1350fe23","bytes":110240},
+    "SCN5A": {"name":"sodium voltage-gated channel alpha subunit 5","path":"blot/S/SCN5A.webp","fingerprint":"7790c08998c1dca94a64dc6c7111cff8","bytes":107514},
     "SCN7A": {"name":"sodium voltage-gated channel alpha subunit 7","path":"blot/S/SCN7A.webp","fingerprint":"81db3215924bea55afabb55f1b53f290","bytes":169724},
     "SCN8A": {"name":"sodium voltage-gated channel alpha subunit 8","path":"blot/S/SCN8A.webp","fingerprint":"b8638cb0d4cf212b6d54f9ca95b002ca","bytes":141742},
     "SCN9A": {"name":"sodium voltage-gated channel alpha subunit 9","path":"blot/S/SCN9A.webp","fingerprint":"bfcc133c8141ae290d7bc061f9a9d6b8","bytes":88992},
