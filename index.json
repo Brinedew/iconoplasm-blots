@@ -10091,7 +10091,7 @@
     "MUS81": {"name":"MUS81 structure-specific endonuclease subunit","path":"blot/M/MUS81.webp","fingerprint":"6dd0148daddc2f1a0bafc98640e15819","bytes":122748},
     "MUSK": {"name":"muscle associated receptor tyrosine kinase","path":"blot/M/MUSK.webp","fingerprint":"63daf6adb3058f514dc8311911cc2a6a","bytes":192994},
     "MUSTN1": {"name":"musculoskeletal, embryonic nuclear protein 1","path":"blot/M/MUSTN1.webp","fingerprint":"952de02632220f8c243b62fcc89aa753","bytes":87314},
-    "MUTYH": {"name":"mutY DNA glycosylase","path":"blot/M/MUTYH.webp","fingerprint":"d6e4c64ac07c633da38447973839e074","bytes":266344},
+    "MUTYH": {"name":"mutY DNA glycosylase","path":"blot/M/MUTYH.webp","fingerprint":"76a8dce6e5309dc494e907568e3637d5","bytes":142184},
     "MVB12A": {"name":"multivesicular body subunit 12A","path":"blot/M/MVB12A.webp","fingerprint":"1093c8bcc20c9edca0a845464258be89","bytes":194268},
     "MVB12B": {"name":"multivesicular body subunit 12B","path":"blot/M/MVB12B.webp","fingerprint":"c9e90d3d57f6c125b41ca5a67f8b7edc","bytes":152482},
     "MVD": {"name":"mevalonate diphosphate decarboxylase","path":"blot/M/MVD.webp","fingerprint":"751b6c2a2b291f5c5c05abb6800bfd95","bytes":199378},
