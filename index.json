@@ -12723,7 +12723,7 @@
     "PPIP5K1": {"name":"diphosphoinositol pentakisphosphate kinase 1","path":"blot/P/PPIP5K1.webp","fingerprint":"90e687dafef064c7230e50a543b50976","bytes":179946},
     "PPIP5K2": {"name":"diphosphoinositol pentakisphosphate kinase 2","path":"blot/P/PPIP5K2.webp","fingerprint":"7ebcc60f3c64d92b7ac769833aa441fa","bytes":152708},
     "PPL": {"name":"periplakin","path":"blot/P/PPL.webp","fingerprint":"6942edfdc33e780018886df18e322b39","bytes":193140},
-    "PPM1A": {"name":"protein phosphatase, Mg2+/Mn2+ dependent 1A","path":"blot/P/PPM1A.webp","fingerprint":"df6587a8dd16d39bd8156d3cc2f2e9d4","bytes":99348},
+    "PPM1A": {"name":"protein phosphatase, Mg2+/Mn2+ dependent 1A","path":"blot/P/PPM1A.webp","fingerprint":"b3e1bf33b6b6d72bc95719aae865c7a0","bytes":111778},
     "PPM1B": {"name":"protein phosphatase, Mg2+/Mn2+ dependent 1B","path":"blot/P/PPM1B.webp","fingerprint":"a380629b1ecc888267f7cd60166ed2a1","bytes":139540},
     "PPM1D": {"name":"protein phosphatase, Mg2+/Mn2+ dependent 1D","path":"blot/P/PPM1D.webp","fingerprint":"b9cbee9a1c306f47cade8db2c8089d7c","bytes":137072},
     "PPM1E": {"name":"protein phosphatase, Mg2+/Mn2+ dependent 1E","path":"blot/P/PPM1E.webp","fingerprint":"4b9785a9652ec01466e20a4c82f6e40b","bytes":177654},
