@@ -6493,7 +6493,7 @@
     "GPA33": {"name":"glycoprotein A33","path":"blot/G/GPA33.webp","fingerprint":"d134c95c90ba32cd5e072bf2f046ecc8","bytes":135560},
     "GPAA1": {"name":"glycosylphosphatidylinositol anchor attachment 1","path":"blot/G/GPAA1.webp","fingerprint":"083662b3f48f7d71b5b0c23ee581808c","bytes":272548},
     "GPALPP1": {"name":"GPALPP motifs containing 1","path":"blot/G/GPALPP1.webp","fingerprint":"6162526373d448c26b68885610251b67","bytes":157686},
-    "GPAM": {"name":"glycerol-3-phosphate acyltransferase, mitochondrial","path":"blot/G/GPAM.webp","fingerprint":"c4b1af65d3d1ad65dd373eba057c9700","bytes":212540},
+    "GPAM": {"name":"glycerol-3-phosphate acyltransferase, mitochondrial","path":"blot/G/GPAM.webp","fingerprint":"07052242c44b49d9349aa490485d6ee4","bytes":178506},
     "GPANK1": {"name":"G-patch domain and ankyrin repeats 1","path":"blot/G/GPANK1.webp","fingerprint":"d91f1a97920ad60ae97c18cdcfa66d0d","bytes":128702},
     "GPAT2": {"name":"glycerol-3-phosphate acyltransferase 2, mitochondrial","path":"blot/G/GPAT2.webp","fingerprint":"83d7aadfb9d8cc7b7cd1dd161de22e14","bytes":103206},
     "GPAT3": {"name":"glycerol-3-phosphate acyltransferase 3","path":"blot/G/GPAT3.webp","fingerprint":"a90185861add957159230dac35503264","bytes":167420},
