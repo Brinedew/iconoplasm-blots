@@ -2929,7 +2929,7 @@
     "CH25H": {"name":"cholesterol 25-hydroxylase","path":"blot/C/CH25H.webp","fingerprint":"132701f30313d71da3a0672a247a18c8","bytes":180044},
     "CHAC1": {"name":"ChaC glutathione specific gamma-glutamylcyclotransferase 1","path":"blot/C/CHAC1.webp","fingerprint":"83d9fc22ff52b32b2db079f7711179de","bytes":71796},
     "CHAC2": {"name":"ChaC glutathione specific gamma-glutamylcyclotransferase 2","path":"blot/C/CHAC2.webp","fingerprint":"2155ebbb71b7b737d8f908495849c3d6","bytes":107386},
-    "CHAD": {"name":"chondroadherin","path":"blot/C/CHAD.webp","fingerprint":"6045897fed2bb144f776358c9ed84ca3","bytes":140984},
+    "CHAD": {"name":"chondroadherin","path":"blot/C/CHAD.webp","fingerprint":"ccd70fc94d17321ffdb178269db32240","bytes":107914},
     "CHADL": {"name":"chondroadherin like","path":"blot/C/CHADL.webp","fingerprint":"a958b2c3adc330cec353587d92271b59","bytes":187786},
     "CHAF1A": {"name":"chromatin assembly factor 1 subunit A","path":"blot/C/CHAF1A.webp","fingerprint":"172e08c022d04e86da85cf22dc759f9f","bytes":189502},
     "CHAF1B": {"name":"chromatin assembly factor 1 subunit B","path":"blot/C/CHAF1B.webp","fingerprint":"4f7cf68c1baa30f50a1d87e804460e4c","bytes":124112},
