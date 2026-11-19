@@ -79,7 +79,7 @@
     "ABCF2": {"name":"ATP binding cassette subfamily F member 2","path":"blot/A/ABCF2.webp","fingerprint":"8b1742c7e82ae82764a5992000727c94","bytes":150540},
     "ABCF3": {"name":"ATP binding cassette subfamily F member 3","path":"blot/A/ABCF3.webp","fingerprint":"a8612b2df5f4096001695bd3fa27d96f","bytes":86720},
     "ABCG1": {"name":"ATP binding cassette subfamily G member 1","path":"blot/A/ABCG1.webp","fingerprint":"ef39e70b4c8acceb9a0ff5a4ebc7ad74","bytes":209356},
-    "ABCG2": {"name":"ATP binding cassette subfamily G member 2 (JR blood group)","path":"blot/A/ABCG2.webp","fingerprint":"fe9bdc4fd8dcb456ab40f17088d3b3d3","bytes":150344},
+    "ABCG2": {"name":"ATP binding cassette subfamily G member 2 (JR blood group)","path":"blot/A/ABCG2.webp","fingerprint":"c0eec32fafcd69cd9baec3d5decf3434","bytes":97466},
     "ABCG4": {"name":"ATP binding cassette subfamily G member 4","path":"blot/A/ABCG4.webp","fingerprint":"cf984f4a4721f41f8040f4bb6d7d5834","bytes":153810},
     "ABCG5": {"name":"ATP binding cassette subfamily G member 5","path":"blot/A/ABCG5.webp","fingerprint":"745265e4402a2c479d4e769088ec9580","bytes":220780},
     "ABCG8": {"name":"ATP binding cassette subfamily G member 8","path":"blot/A/ABCG8.webp","fingerprint":"b6075ce08164a89ffd9490a3d48201a0","bytes":132734},
