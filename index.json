@@ -5261,7 +5261,7 @@
     "F2RL2": {"name":"coagulation factor II thrombin receptor like 2","path":"blot/F/F2RL2.webp","fingerprint":"0d76be01540a3d65e340da1fd11db7bc","bytes":164476},
     "F2RL3": {"name":"F2R like thrombin or trypsin receptor 3","path":"blot/F/F2RL3.webp","fingerprint":"db5491876e40ea17f7c2f6e59a23ebec","bytes":127020},
     "F3": {"name":"coagulation factor III, tissue factor","path":"blot/F/F3.webp","fingerprint":"6ea858afe7bc1d0bc534722af2a19fc6","bytes":104046},
-    "F5": {"name":"coagulation factor V","path":"blot/F/F5.webp","fingerprint":"939fbe55d0e8bc8ea94b16158a83a345","bytes":66258},
+    "F5": {"name":"coagulation factor V","path":"blot/F/F5.webp","fingerprint":"e8077a4c98db126b373e1371d5593d4c","bytes":102510},
     "F7": {"name":"coagulation factor VII","path":"blot/F/F7.webp","fingerprint":"fa618de8c96e1b2a6aec3aa2c01b5ded","bytes":133370},
     "F8": {"name":"coagulation factor VIII","path":"blot/F/F8.webp","fingerprint":"1147ba25b57333af410ac34d3807469a","bytes":144376},
     "F8A1": {"name":"coagulation factor VIII associated 1","path":"blot/F/F8A1.webp","fingerprint":"92a5ff31a1038798ff1992dbbc984e6f","bytes":86754},
