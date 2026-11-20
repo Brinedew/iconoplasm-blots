@@ -4349,7 +4349,7 @@
     "DMAP1": {"name":"DNA methyltransferase 1 associated protein 1","path":"blot/D/DMAP1.webp","fingerprint":"013f19a0273f008532434e7b2ab73e40","bytes":121002},
     "DMBT1": {"name":"deleted in malignant brain tumors 1","path":"blot/D/DMBT1.webp","fingerprint":"5c0e37ca176c4e15bb4bc6b58c30d982","bytes":133440},
     "DMBX1": {"name":"diencephalon/mesencephalon homeobox 1","path":"blot/D/DMBX1.webp","fingerprint":"56e1307233757333240350bd3fee21e0","bytes":102362},
-    "DMC1": {"name":"DNA meiotic recombinase 1","path":"blot/D/DMC1.webp","fingerprint":"ffcaddf15787472361820058f35c23ba","bytes":154496},
+    "DMC1": {"name":"DNA meiotic recombinase 1","path":"blot/D/DMC1.webp","fingerprint":"15eea4e9aa1851c535c0f50e486b4dfc","bytes":84028},
     "DMD": {"name":"dystrophin","path":"blot/D/DMD.webp","fingerprint":"92caa470ccab44720104c8d0821898df","bytes":155104},
     "DMGDH": {"name":"dimethylglycine dehydrogenase","path":"blot/D/DMGDH.webp","fingerprint":"1ddc3df095b548daf083bb83f3c8801d","bytes":155368},
     "DMKN": {"name":"dermokine","path":"blot/D/DMKN.webp","fingerprint":"e6ece8ceda6ec1e255078f0c0ec7b057","bytes":105812},
