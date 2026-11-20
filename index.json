@@ -7467,7 +7467,7 @@
     "IFI44": {"name":"interferon induced protein 44","path":"blot/I/IFI44.webp","fingerprint":"29b8e233014413f5d30f4f18bf2bf0c6","bytes":152984},
     "IFI44L": {"name":"interferon induced protein 44 like","path":"blot/I/IFI44L.webp","fingerprint":"d9a7e20d49c5d538dba3f5991b853013","bytes":100124},
     "IFI6": {"name":"interferon alpha inducible protein 6","path":"blot/I/IFI6.webp","fingerprint":"1ced33ce89f127975b6245bc965594a0","bytes":77116},
-    "IFIH1": {"name":"interferon induced with helicase C domain 1","path":"blot/I/IFIH1.webp","fingerprint":"ba96b207ea60214b3c17c936223572e8","bytes":214254},
+    "IFIH1": {"name":"interferon induced with helicase C domain 1","path":"blot/I/IFIH1.webp","fingerprint":"28a4494eb4c94c50cc6ff7b514040393","bytes":145026},
     "IFIT1": {"name":"interferon induced protein with tetratricopeptide repeats 1","path":"blot/I/IFIT1.webp","fingerprint":"e2469eac17e375808b2295a5b1a3b7bb","bytes":187254},
     "IFIT1B": {"name":"interferon induced protein with tetratricopeptide repeats 1B","path":"blot/I/IFIT1B.webp","fingerprint":"f0445f44770007c66740ddaf941901c5","bytes":120084},
     "IFIT2": {"name":"interferon induced protein with tetratricopeptide repeats 2","path":"blot/I/IFIT2.webp","fingerprint":"c8ede858338096f698f496cde2522045","bytes":133244},
