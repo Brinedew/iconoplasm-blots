@@ -12477,7 +12477,7 @@
     "PLSCR4": {"name":"phospholipid scramblase 4","path":"blot/P/PLSCR4.webp","fingerprint":"95cfec14dd9424006996c1eca967eb09","bytes":79656},
     "PLSCR5": {"name":"phospholipid scramblase family member 5","path":"blot/P/PLSCR5.webp","fingerprint":"e41d9c670bd2eb95d95c35f5b80403a0","bytes":165152},
     "PLTP": {"name":"phospholipid transfer protein","path":"blot/P/PLTP.webp","fingerprint":"3f99f4b4aed1b443a49ce372601a51fe","bytes":109578},
-    "PLVAP": {"name":"plasmalemma vesicle associated protein","path":"blot/P/PLVAP.webp","fingerprint":"3bebc886aafc028213812c7ff42d219f","bytes":172334},
+    "PLVAP": {"name":"plasmalemma vesicle associated protein","path":"blot/P/PLVAP.webp","fingerprint":"b928911295a02aaa32687254c0d470a7","bytes":127984},
     "PLXDC1": {"name":"plexin domain containing 1","path":"blot/P/PLXDC1.webp","fingerprint":"f2521783559aae1beb27333a66874ba4","bytes":99708},
     "PLXDC2": {"name":"plexin domain containing 2","path":"blot/P/PLXDC2.webp","fingerprint":"2b9d77259e80ce4f9d743ac5723f78d4","bytes":190274},
     "PLXNA1": {"name":"plexin A1","path":"blot/P/PLXNA1.webp","fingerprint":"9c356aef9e816f079150d5332be6cf72","bytes":108994},
