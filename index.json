@@ -11047,7 +11047,7 @@
     "OCEL1": {"name":"occludin/ELL domain containing 1","path":"blot/O/OCEL1.webp","fingerprint":"9a1deddbbfe2f51f989bf696748671c2","bytes":61978},
     "OCIAD1": {"name":"OCIA domain containing 1","path":"blot/O/OCIAD1.webp","fingerprint":"75fe7c0bc6fbf7d23f0c3cf0fa9620c5","bytes":217782},
     "OCIAD2": {"name":"OCIA domain containing 2","path":"blot/O/OCIAD2.webp","fingerprint":"58d05188ab700ee4a8128f063b6b49c7","bytes":125318},
-    "OCLN": {"name":"occludin","path":"blot/O/OCLN.webp","fingerprint":"1bab728eed7e2749be2cc38efd2fb8b2","bytes":93172},
+    "OCLN": {"name":"occludin","path":"blot/O/OCLN.webp","fingerprint":"585a7b50320ceed7c1574c45c7031a80","bytes":189482},
     "OCM": {"name":"oncomodulin","path":"blot/O/OCM.webp","fingerprint":"8a328df3dcf58fb812b4ad2ef863a117","bytes":148428},
     "OCM2": {"name":"oncomodulin 2","path":"blot/O/OCM2.webp","fingerprint":"6ea12ab26dbcbc666510c166e72d9067","bytes":193058},
     "OCRL": {"name":"OCRL inositol polyphosphate-5-phosphatase","path":"blot/O/OCRL.webp","fingerprint":"f5b1ebf4ed7de8e96da792a85ea245d4","bytes":127120},
