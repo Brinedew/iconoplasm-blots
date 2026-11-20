@@ -9187,7 +9187,7 @@
     "MAJIN": {"name":"membrane anchored junction protein","path":"blot/M/MAJIN.webp","fingerprint":"72c52cfc837a55c4c96276f0bb54f301","bytes":182124},
     "MAK": {"name":"male germ cell associated kinase","path":"blot/M/MAK.webp","fingerprint":"8a7d38020afb8c75a8c54097c4c8e614","bytes":205834},
     "MAK16": {"name":"MAK16 homolog","path":"blot/M/MAK16.webp","fingerprint":"9d14034cbd8da048afc022a2944bf4e3","bytes":83452},
-    "MAL": {"name":"mal, T cell differentiation protein (MAL blood group)","path":"blot/M/MAL.webp","fingerprint":"ba0ef847aa5eea5801025babf6647d57","bytes":158498},
+    "MAL": {"name":"mal, T cell differentiation protein (MAL blood group)","path":"blot/M/MAL.webp","fingerprint":"2a950447c78d481c7c26191701b581e7","bytes":153360},
     "MAL2": {"name":"mal, T cell differentiation protein 2","path":"blot/M/MAL2.webp","fingerprint":"36f09f434fabcfeaa50cc14a279304a7","bytes":105484},
     "MALL": {"name":"mal, T cell differentiation protein like","path":"blot/M/MALL.webp","fingerprint":"1daa916862b226e14c41c018339769ae","bytes":123910},
     "MALRD1": {"name":"MAM and LDL receptor class A domain containing 1","path":"blot/M/MALRD1.webp","fingerprint":"54ed89829bf73dccdcf052075f658537","bytes":182192},
