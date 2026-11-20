@@ -304,7 +304,7 @@
     "ADAMTSL5": {"name":"ADAMTS like 5","path":"blot/A/ADAMTSL5.webp","fingerprint":"76224ef404d26747b9d4ca4028a8783e","bytes":154670},
     "ADAP1": {"name":"ArfGAP with dual PH domains 1","path":"blot/A/ADAP1.webp","fingerprint":"419d6fa7aa80a163cd5d5a0ce68e69a4","bytes":133382},
     "ADAP2": {"name":"ArfGAP with dual PH domains 2","path":"blot/A/ADAP2.webp","fingerprint":"410ea0e36ad0aee982eae79ea471671e","bytes":141040},
-    "ADAR": {"name":"adenosine deaminase RNA specific","path":"blot/A/ADAR.webp","fingerprint":"24838f7b66ca9d915f1debc7390ea192","bytes":122366},
+    "ADAR": {"name":"adenosine deaminase RNA specific","path":"blot/A/ADAR.webp","fingerprint":"2be4d4ef5767bf49650f4ea6e71751b2","bytes":188088},
     "ADARB1": {"name":"adenosine deaminase RNA specific B1","path":"blot/A/ADARB1.webp","fingerprint":"4f0782cff911ca86c008dde47c850927","bytes":123566},
     "ADARB2": {"name":"adenosine deaminase RNA specific B2 (inactive)","path":"blot/A/ADARB2.webp","fingerprint":"4b02cb971776e5c1913c60e7390f9fae","bytes":163262},
     "ADAT1": {"name":"adenosine deaminase tRNA specific 1","path":"blot/A/ADAT1.webp","fingerprint":"2dbeffa902c52cd3eafa5970c52becf8","bytes":156098},
