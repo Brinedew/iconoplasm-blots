@@ -8590,7 +8590,7 @@
     "LAPTM4A": {"name":"lysosomal protein transmembrane 4 alpha","path":"blot/L/LAPTM4A.webp","fingerprint":"fe00e35157c54c2fbdeeeb191c10df38","bytes":96252},
     "LAPTM4B": {"name":"lysosomal protein transmembrane 4 beta","path":"blot/L/LAPTM4B.webp","fingerprint":"7fe92a1aed6aa2a0102141e2116a0629","bytes":113846},
     "LAPTM5": {"name":"lysosomal protein transmembrane 5","path":"blot/L/LAPTM5.webp","fingerprint":"02825e7e3046310d34d42af654c12374","bytes":213084},
-    "LARGE1": {"name":"LARGE xylosyl- and glucuronyltransferase 1","path":"blot/L/LARGE1.webp","fingerprint":"4dde361aeb9a94d31ad3ce6374cde108","bytes":87648},
+    "LARGE1": {"name":"LARGE xylosyl- and glucuronyltransferase 1","path":"blot/L/LARGE1.webp","fingerprint":"fb67afd02cfe58842fb5091f4637b79f","bytes":124292},
     "LARGE2": {"name":"LARGE xylosyl- and glucuronyltransferase 2","path":"blot/L/LARGE2.webp","fingerprint":"a627de26b8d0e04658988678a1878831","bytes":108642},
     "LARP1": {"name":"La ribonucleoprotein 1, translational regulator","path":"blot/L/LARP1.webp","fingerprint":"5a396a74b509f4fe1cd043ca69859e45","bytes":117004},
     "LARP1B": {"name":"La ribonucleoprotein 1B","path":"blot/L/LARP1B.webp","fingerprint":"274f99d1a728ef61c9fd2f876215e57c","bytes":125540},
