@@ -11813,7 +11813,7 @@
     "PBX3": {"name":"PBX homeobox 3","path":"blot/P/PBX3.webp","fingerprint":"3c5051c5bcacd994b3bfc942e7f059a3","bytes":113906},
     "PBX4": {"name":"PBX homeobox 4","path":"blot/P/PBX4.webp","fingerprint":"2034146f9dfe3158d014e10fef60440f","bytes":102304},
     "PBXIP1": {"name":"PBX homeobox interacting protein 1","path":"blot/P/PBXIP1.webp","fingerprint":"d62235aa1bdfa22916d3fed22e516ea6","bytes":128442},
-    "PC": {"name":"pyruvate carboxylase","path":"blot/P/PC.webp","fingerprint":"8f5c492b55ff5285168875fb2ebbbaa2","bytes":86062},
+    "PC": {"name":"pyruvate carboxylase","path":"blot/P/PC.webp","fingerprint":"7542eb364164266044fad150d1eb497b","bytes":90358},
     "PCARE": {"name":"photoreceptor cilium actin regulator","path":"blot/P/PCARE.webp","fingerprint":"1242967594448e5c8968d92ebca68ae1","bytes":177898},
     "PCBD1": {"name":"pterin-4 alpha-carbinolamine dehydratase 1","path":"blot/P/PCBD1.webp","fingerprint":"138fc1d91a674891b1841773bc476340","bytes":108554},
     "PCBD2": {"name":"pterin-4 alpha-carbinolamine dehydratase 2","path":"blot/P/PCBD2.webp","fingerprint":"d80a2f1eb90878ac6be39a53504819f5","bytes":126844},
