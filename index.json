@@ -11966,7 +11966,7 @@
     "PDE5A": {"name":"phosphodiesterase 5A","path":"blot/P/PDE5A.webp","fingerprint":"d75d6b58816ed6764051d80b28a7cffb","bytes":76238},
     "PDE6A": {"name":"phosphodiesterase 6A","path":"blot/P/PDE6A.webp","fingerprint":"a1abafd7fc40c795193ca6ccf37105b8","bytes":188196},
     "PDE6B": {"name":"phosphodiesterase 6B","path":"blot/P/PDE6B.webp","fingerprint":"dd147386a844a95f9d7f2bc211be066e","bytes":106280},
-    "PDE6C": {"name":"phosphodiesterase 6C","path":"blot/P/PDE6C.webp","fingerprint":"4b226c4220fca3bde186d98a1abc4de4","bytes":240864},
+    "PDE6C": {"name":"phosphodiesterase 6C","path":"blot/P/PDE6C.webp","fingerprint":"f30a04754555d3a5bfebf99e68fdd5a4","bytes":157462},
     "PDE6D": {"name":"phosphodiesterase 6D","path":"blot/P/PDE6D.webp","fingerprint":"dd2e0580044cfbe4494fb1472dde2f29","bytes":118504},
     "PDE6G": {"name":"phosphodiesterase 6G","path":"blot/P/PDE6G.webp","fingerprint":"9c5771795207db5b50458307e81a49ee","bytes":254578},
     "PDE6H": {"name":"phosphodiesterase 6H","path":"blot/P/PDE6H.webp","fingerprint":"8f6d8542cb144aec359b54edb7759a89","bytes":101018},
