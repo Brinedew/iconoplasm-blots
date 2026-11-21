@@ -4802,7 +4802,7 @@
     "EGFLAM": {"name":"EGF like, fibronectin type III and laminin G domains","path":"blot/E/EGFLAM.webp","fingerprint":"484c2c1b47ecfbfab536bcb31dff2c95","bytes":203602},
     "EGFR": {"name":"epidermal growth factor receptor","path":"blot/E/EGFR.webp","fingerprint":"cb99744da718f2d799c6ebc80afbc6bc","bytes":80150},
     "EGLN1": {"name":"egl-9 family hypoxia inducible factor 1","path":"blot/E/EGLN1.webp","fingerprint":"f3a8f360d9fd811cb5f594b911439583","bytes":266690},
-    "EGLN2": {"name":"egl-9 family hypoxia inducible factor 2","path":"blot/E/EGLN2.webp","fingerprint":"fe76957b7f79852e934fa729198b654d","bytes":125472},
+    "EGLN2": {"name":"egl-9 family hypoxia inducible factor 2","path":"blot/E/EGLN2.webp","fingerprint":"fc4e115ef1c2c5949dbabe5dc990668b","bytes":97924},
     "EGLN3": {"name":"egl-9 family hypoxia inducible factor 3","path":"blot/E/EGLN3.webp","fingerprint":"6c58ef09a9d54644c4d7e25868880c8b","bytes":149490},
     "EGR1": {"name":"early growth response 1","path":"blot/E/EGR1.webp","fingerprint":"fbad2406f3269e0c319b45caf5374669","bytes":125752},
     "EGR2": {"name":"early growth response 2","path":"blot/E/EGR2.webp","fingerprint":"a6f9abab9cac4f80258ee9972c2e06f1","bytes":101352},
