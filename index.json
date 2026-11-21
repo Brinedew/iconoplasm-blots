@@ -6195,7 +6195,7 @@
     "GDPD4": {"name":"glycerophosphodiester phosphodiesterase domain containing 4","path":"blot/G/GDPD4.webp","fingerprint":"0bb8fca6bb73ce36b2ad0dfeecf252a1","bytes":136568},
     "GDPD5": {"name":"glycerophosphodiester phosphodiesterase domain containing 5","path":"blot/G/GDPD5.webp","fingerprint":"014bcf1a5924a02a78e3cbd541ab2bc5","bytes":141300},
     "GDPGP1": {"name":"GDP-D-glucose phosphorylase 1","path":"blot/G/GDPGP1.webp","fingerprint":"da205d5a8f321fe4b6a7d3c2926c46f5","bytes":131874},
-    "GEM": {"name":"GTP binding protein overexpressed in skeletal muscle","path":"blot/G/GEM.webp","fingerprint":"bcf15ec4d8e3bc918a710ce618680bbc","bytes":77796},
+    "GEM": {"name":"GTP binding protein overexpressed in skeletal muscle","path":"blot/G/GEM.webp","fingerprint":"745a427ad17e63d8d0f4189d29b82ad9","bytes":136854},
     "GEMIN2": {"name":"gem nuclear organelle associated protein 2","path":"blot/G/GEMIN2.webp","fingerprint":"aad1e6a07f8aca265e11fdfa5ca0d849","bytes":151010},
     "GEMIN4": {"name":"gem nuclear organelle associated protein 4","path":"blot/G/GEMIN4.webp","fingerprint":"a509e9fac79bbc4f38660918f3aa40b4","bytes":124914},
     "GEMIN5": {"name":"gem nuclear organelle associated protein 5","path":"blot/G/GEMIN5.webp","fingerprint":"f67c39a0477f805fd6f3f24d9765834c","bytes":184306},
