@@ -5264,7 +5264,7 @@
     "F5": {"name":"coagulation factor V","path":"blot/F/F5.webp","fingerprint":"e8077a4c98db126b373e1371d5593d4c","bytes":102510},
     "F7": {"name":"coagulation factor VII","path":"blot/F/F7.webp","fingerprint":"fa618de8c96e1b2a6aec3aa2c01b5ded","bytes":133370},
     "F8": {"name":"coagulation factor VIII","path":"blot/F/F8.webp","fingerprint":"1147ba25b57333af410ac34d3807469a","bytes":144376},
-    "F8A1": {"name":"coagulation factor VIII associated 1","path":"blot/F/F8A1.webp","fingerprint":"92a5ff31a1038798ff1992dbbc984e6f","bytes":86754},
+    "F8A1": {"name":"coagulation factor VIII associated 1","path":"blot/F/F8A1.webp","fingerprint":"4331a5a1231e5710742b7b24e0968707","bytes":72088},
     "F8A2": {"name":"coagulation factor VIII associated 2","path":"blot/F/F8A2.webp","fingerprint":"584110f6292de6a6e94a17432e822d3d","bytes":156470},
     "F8A3": {"name":"coagulation factor VIII associated 3","path":"blot/F/F8A3.webp","fingerprint":"0485d5b6d21c8efada8503bdef8ffaad","bytes":109878},
     "F9": {"name":"coagulation factor IX","path":"blot/F/F9.webp","fingerprint":"24f0eda8220939242a9c61cced7db819","bytes":146294},
