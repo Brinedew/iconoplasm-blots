@@ -13340,7 +13340,7 @@
     "QRICH2": {"name":"glutamine rich 2","path":"blot/Q/QRICH2.webp","fingerprint":"8b8bbcc58244ea27a169706c4a1c68d0","bytes":142032},
     "QRSL1": {"name":"glutaminyl-tRNA amidotransferase subunit QRSL1","path":"blot/Q/QRSL1.webp","fingerprint":"46f6b6abde63f63c45f672f2ec53f971","bytes":118114},
     "QSER1": {"name":"glutamine and serine rich 1","path":"blot/Q/QSER1.webp","fingerprint":"3fe488a7ec3bc338eb7bac2919e315a7","bytes":124134},
-    "QSOX1": {"name":"quiescin sulfhydryl oxidase 1","path":"blot/Q/QSOX1.webp","fingerprint":"e8d09ae9af78baeca40124478213791b","bytes":74622},
+    "QSOX1": {"name":"quiescin sulfhydryl oxidase 1","path":"blot/Q/QSOX1.webp","fingerprint":"f7d7eb7f532d012c94fff6837566ea93","bytes":72430},
     "QSOX2": {"name":"quiescin sulfhydryl oxidase 2","path":"blot/Q/QSOX2.webp","fingerprint":"866a263c391f54d69d01cccdc3b82f21","bytes":137182},
     "QTGAL": {"name":"queuosine-tRNA galactosyltransferase","path":"blot/Q/QTGAL.webp","fingerprint":"618c75500bc6a15c274571ceb7f09981","bytes":210618},
     "QTMAN": {"name":"queuosine-tRNA mannosyltransferase","path":"blot/Q/QTMAN.webp","fingerprint":"21b673b0d87e90b81444b7c724608011","bytes":57228},
