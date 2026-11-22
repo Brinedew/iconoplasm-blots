@@ -16848,7 +16848,7 @@
     "TIPRL": {"name":"TOR signaling pathway regulator","path":"blot/T/TIPRL.webp","fingerprint":"f10541891016db12905a7e685c42e8d9","bytes":251530},
     "TIRAP": {"name":"TIR domain containing adaptor protein","path":"blot/T/TIRAP.webp","fingerprint":"73780dd957ca0afea0e8829b196caf35","bytes":133412},
     "TJAP1": {"name":"tight junction associated protein 1","path":"blot/T/TJAP1.webp","fingerprint":"e32ffe84a0cde09264e4c18b0a72d451","bytes":187716},
-    "TJP1": {"name":"tight junction protein 1","path":"blot/T/TJP1.webp","fingerprint":"4461d59621bacf634af0c0713cca9628","bytes":124900},
+    "TJP1": {"name":"tight junction protein 1","path":"blot/T/TJP1.webp","fingerprint":"e6ccd06030319d108b8d2227829ff723","bytes":110494},
     "TJP2": {"name":"tight junction protein 2","path":"blot/T/TJP2.webp","fingerprint":"4f724ec480e57099007920f242ed182e","bytes":92016},
     "TJP3": {"name":"tight junction protein 3","path":"blot/T/TJP3.webp","fingerprint":"058f2a9f45ee3f349b614608debf9047","bytes":236560},
     "TK1": {"name":"thymidine kinase 1","path":"blot/T/TK1.webp","fingerprint":"7f519c3c8ea3bb5983dc8074fa61a618","bytes":113284},
