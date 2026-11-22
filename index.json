@@ -7424,7 +7424,7 @@
     "IBTK": {"name":"inhibitor of Bruton tyrosine kinase","path":"blot/I/IBTK.webp","fingerprint":"b4938ba995b803380f178dd6f5470a39","bytes":214874},
     "ICA1": {"name":"islet cell autoantigen 1","path":"blot/I/ICA1.webp","fingerprint":"324eae4071353bfe88cfd0a5ffec14c9","bytes":135796},
     "ICA1L": {"name":"islet cell autoantigen 1 like","path":"blot/I/ICA1L.webp","fingerprint":"c13f8ec530c299b302fe91f767a0a950","bytes":138948},
-    "ICAM1": {"name":"intercellular adhesion molecule 1","path":"blot/I/ICAM1.webp","fingerprint":"01bc332626d48c645b6463e78207d4b3","bytes":87166},
+    "ICAM1": {"name":"intercellular adhesion molecule 1","path":"blot/I/ICAM1.webp","fingerprint":"81b59a80581892fa7a14a066f544ec75","bytes":202188},
     "ICAM2": {"name":"intercellular adhesion molecule 2","path":"blot/I/ICAM2.webp","fingerprint":"e238c773deff5a107ca3c9206d75ea4b","bytes":136690},
     "ICAM3": {"name":"intercellular adhesion molecule 3","path":"blot/I/ICAM3.webp","fingerprint":"ab43b245bd494e40c5194c0a2bf207e3","bytes":180398},
     "ICAM4": {"name":"intercellular adhesion molecule 4 (Landsteiner-Wiener blood group)","path":"blot/I/ICAM4.webp","fingerprint":"ba8704e8073a9a64010caa99d74a4831","bytes":206086},
