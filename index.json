@@ -13343,7 +13343,7 @@
     "QSOX1": {"name":"quiescin sulfhydryl oxidase 1","path":"blot/Q/QSOX1.webp","fingerprint":"f7d7eb7f532d012c94fff6837566ea93","bytes":72430},
     "QSOX2": {"name":"quiescin sulfhydryl oxidase 2","path":"blot/Q/QSOX2.webp","fingerprint":"866a263c391f54d69d01cccdc3b82f21","bytes":137182},
     "QTGAL": {"name":"queuosine-tRNA galactosyltransferase","path":"blot/Q/QTGAL.webp","fingerprint":"618c75500bc6a15c274571ceb7f09981","bytes":210618},
-    "QTMAN": {"name":"queuosine-tRNA mannosyltransferase","path":"blot/Q/QTMAN.webp","fingerprint":"21b673b0d87e90b81444b7c724608011","bytes":57228},
+    "QTMAN": {"name":"queuosine-tRNA mannosyltransferase","path":"blot/Q/QTMAN.webp","fingerprint":"ff9e93c658bc0fe5a89ebc32983d7808","bytes":81462},
     "QTRT1": {"name":"queuine tRNA-ribosyltransferase catalytic subunit 1","path":"blot/Q/QTRT1.webp","fingerprint":"a9b8a2fc68fa10aa613b1cc18f2ff9bd","bytes":155406},
     "QTRT2": {"name":"queuine tRNA-ribosyltransferase accessory subunit 2","path":"blot/Q/QTRT2.webp","fingerprint":"09c05e0542e6cc39b10b46a758cbadb6","bytes":223664},
     "R3HCC1": {"name":"R3H domain and coiled-coil containing 1","path":"blot/R/R3HCC1.webp","fingerprint":"ff8f290e4406a2851e192b4dfef4d87c","bytes":156892},
