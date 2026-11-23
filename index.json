@@ -17577,7 +17577,7 @@
     "TRPA1": {"name":"transient receptor potential cation channel subfamily A member 1","path":"blot/T/TRPA1.webp","fingerprint":"42d4539e6ddf19422189162a829e474f","bytes":165852},
     "TRPC1": {"name":"transient receptor potential cation channel subfamily C member 1","path":"blot/T/TRPC1.webp","fingerprint":"250539f42692b09dd1e6882ac9c939fc","bytes":115966},
     "TRPC3": {"name":"transient receptor potential cation channel subfamily C member 3","path":"blot/T/TRPC3.webp","fingerprint":"2db03bc01b5fcc124fbe6ad28d09d0f3","bytes":121258},
-    "TRPC4": {"name":"transient receptor potential cation channel subfamily C member 4","path":"blot/T/TRPC4.webp","fingerprint":"0f2dda9e48d3f35f195ca5212b60ecf6","bytes":131110},
+    "TRPC4": {"name":"transient receptor potential cation channel subfamily C member 4","path":"blot/T/TRPC4.webp","fingerprint":"247b4d8aa5c77fe9380f3f989bd5eec8","bytes":103378},
     "TRPC4AP": {"name":"transient receptor potential cation channel subfamily C member 4 associated protein","path":"blot/T/TRPC4AP.webp","fingerprint":"3a7b643903e44dbf92bb6fceb4eb030c","bytes":119180},
     "TRPC5": {"name":"transient receptor potential cation channel subfamily C member 5","path":"blot/T/TRPC5.webp","fingerprint":"d30c850b5c1045713a7c8079929ded10","bytes":116300},
     "TRPC5OS": {"name":"TRPC5 opposite strand","path":"blot/T/TRPC5OS.webp","fingerprint":"cf7ea0a0c73964f6554166eeb61a241d","bytes":113312},
