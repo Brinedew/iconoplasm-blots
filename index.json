@@ -5497,7 +5497,7 @@
     "FARSB": {"name":"phenylalanyl-tRNA synthetase subunit beta","path":"blot/F/FARSB.webp","fingerprint":"f5cce2d4a642ff134ad5c6f2f89652b4","bytes":155924},
     "FAS": {"name":"Fas cell surface death receptor","path":"blot/F/FAS.webp","fingerprint":"ec271a875fc80512fa910dd51637b251","bytes":169136},
     "FASLG": {"name":"Fas ligand","path":"blot/F/FASLG.webp","fingerprint":"ef65845563a96cb6a62d022f882c303f","bytes":164400},
-    "FASN": {"name":"fatty acid synthase","path":"blot/F/FASN.webp","fingerprint":"d0c16743875e8395f3a811042908417c","bytes":76450},
+    "FASN": {"name":"fatty acid synthase","path":"blot/F/FASN.webp","fingerprint":"b8a99046ce70617f40f7cda00cbd6cee","bytes":86554},
     "FASTK": {"name":"Fas activated serine/threonine kinase","path":"blot/F/FASTK.webp","fingerprint":"253681777bbb8a0bd077ca1fc21f005c","bytes":42278},
     "FASTKD1": {"name":"FAST kinase domains 1","path":"blot/F/FASTKD1.webp","fingerprint":"8f83831641c53797a6b258259159dbd8","bytes":117796},
     "FASTKD2": {"name":"FAST kinase domains 2","path":"blot/F/FASTKD2.webp","fingerprint":"55e7595075c5cb1b0ba789db159df740","bytes":98870},
