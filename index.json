@@ -2735,7 +2735,7 @@
     "CEACAM6": {"name":"CEA cell adhesion molecule 6","path":"blot/C/CEACAM6.webp","fingerprint":"83c42a19d68c0c310673eb77e6051d78","bytes":119132},
     "CEACAM7": {"name":"CEA cell adhesion molecule 7","path":"blot/C/CEACAM7.webp","fingerprint":"c4b3e312a80609bd61b6350e98d0cd0c","bytes":81214},
     "CEACAM8": {"name":"CEA cell adhesion molecule 8","path":"blot/C/CEACAM8.webp","fingerprint":"7f14274318bc4731b13bc7b2b4da8290","bytes":69676},
-    "CEBPA": {"name":"CCAAT enhancer binding protein alpha","path":"blot/C/CEBPA.webp","fingerprint":"0d6c8a0aaf423303664ab80a2255f966","bytes":46202},
+    "CEBPA": {"name":"CCAAT enhancer binding protein alpha","path":"blot/C/CEBPA.webp","fingerprint":"cf3c94477d4e13eb2df8c1a6d4659816","bytes":62692},
     "CEBPB": {"name":"CCAAT enhancer binding protein beta","path":"blot/C/CEBPB.webp","fingerprint":"7ece08e593d36c99b48523b9a8153a5e","bytes":89692},
     "CEBPD": {"name":"CCAAT enhancer binding protein delta","path":"blot/C/CEBPD.webp","fingerprint":"6be53e38f595525f6617a1c1dea83b72","bytes":83872},
     "CEBPE": {"name":"CCAAT enhancer binding protein epsilon","path":"blot/C/CEBPE.webp","fingerprint":"5f7c77e6fe5943c844826191aab08951","bytes":235116},
