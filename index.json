@@ -7435,7 +7435,7 @@
     "ICOS": {"name":"inducible T cell costimulator","path":"blot/I/ICOS.webp","fingerprint":"a1caae86c93d5160e96a7fe85b760381","bytes":207756},
     "ICOSLG": {"name":"inducible T cell costimulator ligand","path":"blot/I/ICOSLG.webp","fingerprint":"4990d7f6fddc62a6a0acce3fba1e89dd","bytes":179958},
     "ID1": {"name":"inhibitor of DNA binding 1","path":"blot/I/ID1.webp","fingerprint":"a9a10133a5d0f64689868ed5a790daeb","bytes":104120},
-    "ID2": {"name":"inhibitor of DNA binding 2","path":"blot/I/ID2.webp","fingerprint":"d6f7628d953f36f4cfbbea3ff8802401","bytes":145554},
+    "ID2": {"name":"inhibitor of DNA binding 2","path":"blot/I/ID2.webp","fingerprint":"da69df4d373f0b0cb7db2e38515a75b9","bytes":137828},
     "ID3": {"name":"inhibitor of DNA binding 3","path":"blot/I/ID3.webp","fingerprint":"cd627f940488634ebffdc42698d375df","bytes":48214},
     "ID4": {"name":"inhibitor of DNA binding 4","path":"blot/I/ID4.webp","fingerprint":"f96064d4db20f7ce1c699bc94273859b","bytes":121038},
     "IDE": {"name":"insulin degrading enzyme","path":"blot/I/IDE.webp","fingerprint":"e84a2a77bdbb2a2a0f61f1a919d279a3","bytes":115024},
