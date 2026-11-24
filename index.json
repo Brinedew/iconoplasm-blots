@@ -18163,7 +18163,7 @@
     "UTP3": {"name":"UTP3 small subunit processome component","path":"blot/U/UTP3.webp","fingerprint":"34aa138227c8cf366f6a81aa46f5c77f","bytes":133288},
     "UTP4": {"name":"UTP4 small subunit processome component","path":"blot/U/UTP4.webp","fingerprint":"74d79a3617c3b136b088e5b961b296af","bytes":102630},
     "UTP6": {"name":"UTP6 small subunit processome component","path":"blot/U/UTP6.webp","fingerprint":"ec772db44def50e7766657bb4f80c6f6","bytes":123852},
-    "UTRN": {"name":"utrophin","path":"blot/U/UTRN.webp","fingerprint":"bef47ff2ed90435b47a595a61a03ac04","bytes":81840},
+    "UTRN": {"name":"utrophin","path":"blot/U/UTRN.webp","fingerprint":"1f2459a3d544c60f760a1eaee596ee74","bytes":98502},
     "UTS2": {"name":"urotensin 2","path":"blot/U/UTS2.webp","fingerprint":"deeb21263a6536f4868a736151798515","bytes":99946},
     "UTS2B": {"name":"urotensin 2B","path":"blot/U/UTS2B.webp","fingerprint":"0a9ff6497b6aa16f1b096d840e30c212","bytes":169598},
     "UTS2R": {"name":"urotensin 2 receptor","path":"blot/U/UTS2R.webp","fingerprint":"0132d7bb3b33c659c51f40f210bc32c4","bytes":137238},
