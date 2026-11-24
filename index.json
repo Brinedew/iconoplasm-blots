@@ -18473,7 +18473,7 @@
     "WNT8A": {"name":"Wnt family member 8A","path":"blot/W/WNT8A.webp","fingerprint":"64d6f28a4d8f1a1630a01dc34a502753","bytes":121642},
     "WNT8B": {"name":"Wnt family member 8B","path":"blot/W/WNT8B.webp","fingerprint":"45b3d8b314bf7afe34e85e2e98375643","bytes":210496},
     "WNT9A": {"name":"Wnt family member 9A","path":"blot/W/WNT9A.webp","fingerprint":"682aa18369f70ebb057b0bb2e9bb2402","bytes":77242},
-    "WNT9B": {"name":"Wnt family member 9B","path":"blot/W/WNT9B.webp","fingerprint":"f8bc0992538fcbd3049b82201f4d6e86","bytes":156166},
+    "WNT9B": {"name":"Wnt family member 9B","path":"blot/W/WNT9B.webp","fingerprint":"f56b35fae2757753f5a37ec01a0b9f26","bytes":141388},
     "WRAP53": {"name":"WD repeat containing antisense to TP53","path":"blot/W/WRAP53.webp","fingerprint":"d79d610a6443d0140bcbcd6c59333f0f","bytes":143176},
     "WRAP73": {"name":"WD repeat containing, antisense to TP73","path":"blot/W/WRAP73.webp","fingerprint":"5158dda7ed42a04281fc7954e7ba46ab","bytes":85080},
     "WRN": {"name":"WRN RecQ like helicase","path":"blot/W/WRN.webp","fingerprint":"5db610b0071220ad77cdcd2341abc0e4","bytes":128826},
