@@ -1140,7 +1140,7 @@
     "ASCC1": {"name":"activating signal cointegrator 1 complex subunit 1","path":"blot/A/ASCC1.webp","fingerprint":"fd46049378b695e9188e14047ff20a5c","bytes":252912},
     "ASCC2": {"name":"activating signal cointegrator 1 complex subunit 2","path":"blot/A/ASCC2.webp","fingerprint":"61b57874a775090f777e3b6ffb7fa11a","bytes":147078},
     "ASCC3": {"name":"activating signal cointegrator 1 complex subunit 3","path":"blot/A/ASCC3.webp","fingerprint":"3b3046a5288fa543acc1ce1e205c0766","bytes":198810},
-    "ASCL1": {"name":"achaete-scute family bHLH transcription factor 1","path":"blot/A/ASCL1.webp","fingerprint":"0dbfb0de1faa0b5543ab9bdc51c3cb10","bytes":105030},
+    "ASCL1": {"name":"achaete-scute family bHLH transcription factor 1","path":"blot/A/ASCL1.webp","fingerprint":"4846299a74858093c10418cf23f0b72e","bytes":89530},
     "ASCL2": {"name":"achaete-scute family bHLH transcription factor 2","path":"blot/A/ASCL2.webp","fingerprint":"bf4a64030205b9fc5f896049e21dffd9","bytes":200088},
     "ASCL3": {"name":"achaete-scute family bHLH transcription factor 3","path":"blot/A/ASCL3.webp","fingerprint":"7803d28b82df0b789341dd53e1b9eb39","bytes":146860},
     "ASCL4": {"name":"achaete-scute family bHLH transcription factor 4","path":"blot/A/ASCL4.webp","fingerprint":"489f9f19282b3d38f3c7ac1ee4199509","bytes":186572},
