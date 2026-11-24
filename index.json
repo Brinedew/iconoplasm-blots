@@ -12398,7 +12398,7 @@
     "PLD4": {"name":"phospholipase D family member 4","path":"blot/P/PLD4.webp","fingerprint":"ca8bce181c4a7916621a90ff6bb8b97b","bytes":194804},
     "PLD5": {"name":"phospholipase D family member 5","path":"blot/P/PLD5.webp","fingerprint":"ee89a1fca1db42aca8d1a17b8a83c189","bytes":151600},
     "PLD6": {"name":"phospholipase D family member 6","path":"blot/P/PLD6.webp","fingerprint":"612327b4cbdda40bccb8bc518575405a","bytes":99290},
-    "PLEC": {"name":"plectin","path":"blot/P/PLEC.webp","fingerprint":"784105b5f6b29729c3511828101bca38","bytes":147172},
+    "PLEC": {"name":"plectin","path":"blot/P/PLEC.webp","fingerprint":"9702ad3ae9a3ad185d2b0ad7335809f9","bytes":134618},
     "PLEK": {"name":"pleckstrin","path":"blot/P/PLEK.webp","fingerprint":"1d5c7021931ce3650ff260e99de4a98a","bytes":125916},
     "PLEK2": {"name":"pleckstrin 2","path":"blot/P/PLEK2.webp","fingerprint":"3f8a3704066e705b1ab8e96c77a9ab56","bytes":55404},
     "PLEKHA1": {"name":"pleckstrin homology domain containing A1","path":"blot/P/PLEKHA1.webp","fingerprint":"e4a639ea7a6a27feaf4818cd20c4acb3","bytes":108768},
