@@ -3091,7 +3091,7 @@
     "CISH": {"name":"cytokine inducible SH2 containing protein","path":"blot/C/CISH.webp","fingerprint":"e0761a1d748a31ae71d2ccffb4778f27","bytes":135412},
     "CIST1": {"name":"colon, intestine and stomach enriched 1","path":"blot/C/CIST1.webp","fingerprint":"c0ed91aae23a4ffe7e0bf966e5f41611","bytes":110676},
     "CIT": {"name":"citron rho-interacting serine/threonine kinase","path":"blot/C/CIT.webp","fingerprint":"6063ffe1a350f8eec7d8a3f9f26ef703","bytes":63310},
-    "CITED1": {"name":"Cbp/p300 interacting transactivator with Glu/Asp rich carboxy-terminal domain 1","path":"blot/C/CITED1.webp","fingerprint":"c7ac60977598d7b2ef54cfafb051ba07","bytes":86496},
+    "CITED1": {"name":"Cbp/p300 interacting transactivator with Glu/Asp rich carboxy-terminal domain 1","path":"blot/C/CITED1.webp","fingerprint":"0ad9cb95e1a0d8325fffd3ad1998bb83","bytes":108566},
     "CITED2": {"name":"Cbp/p300 interacting transactivator with ED-rich tail 2","path":"blot/C/CITED2.webp","fingerprint":"3dca4617c4eff81ea154681c00fa9ccf","bytes":120504},
     "CITED4": {"name":"Cbp/p300 interacting transactivator with Glu/Asp rich carboxy-terminal domain 4","path":"blot/C/CITED4.webp","fingerprint":"6b0f3bd1c8493c7dd4e445f8549673bc","bytes":225038},
     "CIZ1": {"name":"CDKN1A interacting zinc finger protein 1","path":"blot/C/CIZ1.webp","fingerprint":"b4224298acc9d55c1475e3786c012447","bytes":122380},
