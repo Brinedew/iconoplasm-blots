@@ -17496,7 +17496,7 @@
     "TRIM42": {"name":"tripartite motif containing 42","path":"blot/T/TRIM42.webp","fingerprint":"ba4531b0fbe2179ec8b9994b4b822a81","bytes":79546},
     "TRIM43": {"name":"tripartite motif containing 43","path":"blot/T/TRIM43.webp","fingerprint":"863e2c655104707fb872241deb240a6c","bytes":199272},
     "TRIM43B": {"name":"tripartite motif containing 43B","path":"blot/T/TRIM43B.webp","fingerprint":"cdc9a29c2db1c59659d8c208d645bf4d","bytes":205656},
-    "TRIM44": {"name":"tripartite motif containing 44","path":"blot/T/TRIM44.webp","fingerprint":"99c1af180f8638de6817d04da1ee788d","bytes":220368},
+    "TRIM44": {"name":"TRIM family member 44","path":"blot/T/TRIM44.webp","fingerprint":"f87c0de19387798fe29e5f7ad9822536","bytes":219174},
     "TRIM45": {"name":"tripartite motif containing 45","path":"blot/T/TRIM45.webp","fingerprint":"16e78c0628d41a501811c3f49339e3b7","bytes":132376},
     "TRIM46": {"name":"tripartite motif containing 46","path":"blot/T/TRIM46.webp","fingerprint":"895fdb20851768cfc41b296dfe453b18","bytes":184336},
     "TRIM47": {"name":"tripartite motif containing 47","path":"blot/T/TRIM47.webp","fingerprint":"f4dae6787e83a3a254af751f9606c5e5","bytes":99394},
