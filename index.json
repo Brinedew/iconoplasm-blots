@@ -14790,7 +14790,7 @@
     "SGMS1": {"name":"sphingomyelin synthase 1","path":"blot/S/SGMS1.webp","fingerprint":"5fce142aedbcecf405810a5b40607039","bytes":161180},
     "SGMS2": {"name":"sphingomyelin synthase 2","path":"blot/S/SGMS2.webp","fingerprint":"c03379a3a37390e46205adffea4d4e5d","bytes":82594},
     "SGO1": {"name":"shugoshin 1","path":"blot/S/SGO1.webp","fingerprint":"a5c08fa945b058b4660a8a00610ecb59","bytes":216602},
-    "SGO2": {"name":"shugoshin 2","path":"blot/S/SGO2.webp","fingerprint":"97807cb44e18d1157e1ec552a2080ac8","bytes":75712},
+    "SGO2": {"name":"shugoshin 2","path":"blot/S/SGO2.webp","fingerprint":"4f6799df38bdf6e9adddff2434e14248","bytes":119012},
     "SGPL1": {"name":"sphingosine-1-phosphate lyase 1","path":"blot/S/SGPL1.webp","fingerprint":"6347887650ed999a5b00a016fdfcc245","bytes":189492},
     "SGPP1": {"name":"sphingosine-1-phosphate phosphatase 1","path":"blot/S/SGPP1.webp","fingerprint":"424f450a3a7c5489111e00d0df00e896","bytes":146364},
     "SGPP2": {"name":"sphingosine-1-phosphate phosphatase 2","path":"blot/S/SGPP2.webp","fingerprint":"caaae36461e48fb6b2e49a1a98bf906d","bytes":110230},
