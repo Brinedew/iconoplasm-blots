@@ -2712,7 +2712,7 @@
     "CDS1": {"name":"CDP-diacylglycerol synthase 1","path":"blot/C/CDS1.webp","fingerprint":"dc42a3960e1fad49968abb9299a552a4","bytes":146866},
     "CDS2": {"name":"CDP-diacylglycerol synthase 2","path":"blot/C/CDS2.webp","fingerprint":"bea8729f489091efcb367f951053372e","bytes":161792},
     "CDSN": {"name":"corneodesmosin","path":"blot/C/CDSN.webp","fingerprint":"94ab77483fd5cac3cd2767a82826cca8","bytes":42350},
-    "CDT1": {"name":"chromatin licensing and DNA replication factor 1","path":"blot/C/CDT1.webp","fingerprint":"1fc32d9c310d5cabcc5b26709d647f78","bytes":137384},
+    "CDT1": {"name":"chromatin licensing and DNA replication factor 1","path":"blot/C/CDT1.webp","fingerprint":"fc6f620092de17fcf8493eda59a87943","bytes":104416},
     "CDV3": {"name":"CDV3 homolog","path":"blot/C/CDV3.webp","fingerprint":"d136b8049483494118db382b50edcaee","bytes":96456},
     "CDX1": {"name":"caudal type homeobox 1","path":"blot/C/CDX1.webp","fingerprint":"829c0b1d169163c7b8c89ae74cefedc4","bytes":60984},
     "CDX2": {"name":"caudal type homeobox 2","path":"blot/C/CDX2.webp","fingerprint":"00519427a493159e2b25dce0685c7591","bytes":137546},
