@@ -3742,7 +3742,7 @@
     "CTBP2": {"name":"C-terminal binding protein 2","path":"blot/C/CTBP2.webp","fingerprint":"b211a1e9346bd2007fd2ede3a9bbcf25","bytes":123752},
     "CTBS": {"name":"chitobiase","path":"blot/C/CTBS.webp","fingerprint":"7149a12f70f09d9d31082a986c626b6a","bytes":147226},
     "CTC1": {"name":"CST telomere replication complex component 1","path":"blot/C/CTC1.webp","fingerprint":"b2c8e45562b332af2d78d27f21faa1a0","bytes":135278},
-    "CTCF": {"name":"CCCTC-binding factor","path":"blot/C/CTCF.webp","fingerprint":"3370f634da5b290abf50a0db69e867c5","bytes":95566},
+    "CTCF": {"name":"CCCTC-binding factor","path":"blot/C/CTCF.webp","fingerprint":"4346c8450d894788181cd5d01996e9ff","bytes":144168},
     "CTCFL": {"name":"CCCTC-binding factor like","path":"blot/C/CTCFL.webp","fingerprint":"ca9523dc6ad9ac16835133abe95e2b29","bytes":88808},
     "CTDNEP1": {"name":"CTD nuclear envelope phosphatase 1","path":"blot/C/CTDNEP1.webp","fingerprint":"b6cdf011d80d9a8c08fefa1d371ad449","bytes":90788},
     "CTDP1": {"name":"CTD phosphatase subunit 1","path":"blot/C/CTDP1.webp","fingerprint":"270d0a277f01829a63d095875958f9b5","bytes":189280},
