@@ -9177,7 +9177,7 @@
     "MAGEH1": {"name":"MAGE family member H1","path":"blot/M/MAGEH1.webp","fingerprint":"7ea55ec1d90442c67e2d624d4813c78b","bytes":227426},
     "MAGEL2": {"name":"MAGE family member L2","path":"blot/M/MAGEL2.webp","fingerprint":"a85b3cbf27f53ba134c542e16f1800a4","bytes":72610},
     "MAGI1": {"name":"membrane associated guanylate kinase, WW and PDZ domain containing 1","path":"blot/M/MAGI1.webp","fingerprint":"ea28acf7198982b5246a782b1307c850","bytes":96866},
-    "MAGI2": {"name":"membrane associated guanylate kinase, WW and PDZ domain containing 2","path":"blot/M/MAGI2.webp","fingerprint":"ef1091af79eb2a3cde308c8c9b72be65","bytes":147730},
+    "MAGI2": {"name":"membrane associated guanylate kinase, WW and PDZ domain containing 2","path":"blot/M/MAGI2.webp","fingerprint":"c17ac9a6a56a083ad7f56507a0e43ee7","bytes":145106},
     "MAGI3": {"name":"membrane associated guanylate kinase, WW and PDZ domain containing 3","path":"blot/M/MAGI3.webp","fingerprint":"6457ef066725dd988fee63e687af05cd","bytes":99454},
     "MAGIX": {"name":"MAGI family member, X-linked","path":"blot/M/MAGIX.webp","fingerprint":"4978bc9df9ebaaee39eaab7ff02ca143","bytes":132444},
     "MAGOH": {"name":"mago homolog, exon junction complex subunit","path":"blot/M/MAGOH.webp","fingerprint":"040e00fd7cc1525ea4b7553b8cd0fdb1","bytes":79956},
