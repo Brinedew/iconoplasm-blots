@@ -6216,7 +6216,7 @@
     "GFOD2": {"name":"Gfo/Idh/MocA-like oxidoreductase domain containing 2","path":"blot/G/GFOD2.webp","fingerprint":"be5a0d5148ec4347e0727fa7872fe3da","bytes":153936},
     "GFPT1": {"name":"glutamine--fructose-6-phosphate transaminase 1","path":"blot/G/GFPT1.webp","fingerprint":"4093902e76db6fabadd4b3d349309f4e","bytes":110578},
     "GFPT2": {"name":"glutamine--fructose-6-phosphate transaminase 2","path":"blot/G/GFPT2.webp","fingerprint":"2e246225e1128ddef4b835bba000ad47","bytes":196610},
-    "GFRA1": {"name":"GDNF family receptor alpha 1","path":"blot/G/GFRA1.webp","fingerprint":"1942af010ca5fa57a45f120fcdddbc2a","bytes":206184},
+    "GFRA1": {"name":"GDNF family receptor alpha 1","path":"blot/G/GFRA1.webp","fingerprint":"d52438524c9abab6c3fb29e75708865b","bytes":98558},
     "GFRA2": {"name":"GDNF family receptor alpha 2","path":"blot/G/GFRA2.webp","fingerprint":"0d5066970582a9a264594a0d891dccc7","bytes":122142},
     "GFRA3": {"name":"GDNF family receptor alpha 3","path":"blot/G/GFRA3.webp","fingerprint":"0daa57c5f1c0f4866512cbeb1211e17b","bytes":177190},
     "GFRA4": {"name":"GDNF family receptor alpha 4","path":"blot/G/GFRA4.webp","fingerprint":"376d294c41902680556bb8e5d50ffadd","bytes":95514},
