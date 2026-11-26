@@ -5028,7 +5028,7 @@
     "EPGN": {"name":"epithelial mitogen","path":"blot/E/EPGN.webp","fingerprint":"133df60f4a24250de980deaf85919f8a","bytes":64882},
     "EPHA1": {"name":"EPH receptor A1","path":"blot/E/EPHA1.webp","fingerprint":"c6c73379daadf93ad5be08f346973295","bytes":96852},
     "EPHA10": {"name":"EPH receptor A10","path":"blot/E/EPHA10.webp","fingerprint":"876224e2cfde53e56a9aecab9fd53232","bytes":129626},
-    "EPHA2": {"name":"EPH receptor A2","path":"blot/E/EPHA2.webp","fingerprint":"b73850600bd2ce01176bb321d0b34662","bytes":127476},
+    "EPHA2": {"name":"EPH receptor A2","path":"blot/E/EPHA2.webp","fingerprint":"3e322d86a2f4f14d180ac440434b6c36","bytes":162134},
     "EPHA3": {"name":"EPH receptor A3","path":"blot/E/EPHA3.webp","fingerprint":"0fec534daa4b61e46dc68812cd4426eb","bytes":147566},
     "EPHA4": {"name":"EPH receptor A4","path":"blot/E/EPHA4.webp","fingerprint":"28e91e9551aa211a81983ef543665d11","bytes":197684},
     "EPHA5": {"name":"EPH receptor A5","path":"blot/E/EPHA5.webp","fingerprint":"0e572fbcf6aec47ad489880acb11625d","bytes":180734},
