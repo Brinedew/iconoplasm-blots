@@ -14355,7 +14355,7 @@
     "SACK1G": {"name":"scaffolding CK1 anchoring protein G","path":"blot/S/SACK1G.webp","fingerprint":"1981d4e88e037652717aa64585cf903f","bytes":129610},
     "SACK1H": {"name":"scaffolding CK1 anchoring protein H","path":"blot/S/SACK1H.webp","fingerprint":"cc680428c8257b9a5aa8d356f7a0786b","bytes":90092},
     "SACM1L": {"name":"SAC1 like phosphatidylinositide phosphatase","path":"blot/S/SACM1L.webp","fingerprint":"6ce6bb203babd01d152e246b9f68c5a4","bytes":130116},
-    "SACS": {"name":"sacsin molecular chaperone","path":"blot/S/SACS.webp","fingerprint":"77fd49e23c59d92f83f4382144f8ab58","bytes":122426},
+    "SACS": {"name":"sacsin molecular chaperone","path":"blot/S/SACS.webp","fingerprint":"9aa0bcee53359e5cd78f19d0972bff0f","bytes":149678},
     "SAE1": {"name":"SUMO1 activating enzyme subunit 1","path":"blot/S/SAE1.webp","fingerprint":"7caa66c26092f1c288d5812e835a67c3","bytes":96674},
     "SAFB": {"name":"scaffold attachment factor B","path":"blot/S/SAFB.webp","fingerprint":"ff28b7608a08630d18168d16b2ed9d86","bytes":121082},
     "SAFB2": {"name":"scaffold attachment factor B2","path":"blot/S/SAFB2.webp","fingerprint":"2987aaaaf3caa39cbd6fe16543abb837","bytes":142756},
