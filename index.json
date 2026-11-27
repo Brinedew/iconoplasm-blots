@@ -13738,7 +13738,7 @@
     "REV3L": {"name":"REV3 like, DNA directed polymerase zeta catalytic subunit","path":"blot/R/REV3L.webp","fingerprint":"4f0af7f55412319248483a47e628b8d5","bytes":99660},
     "REX1BD": {"name":"required for excision 1-B domain containing","path":"blot/R/REX1BD.webp","fingerprint":"a8759ec24c198875e69e4159fc3415c8","bytes":187622},
     "REXO1": {"name":"RNA exonuclease 1 homolog","path":"blot/R/REXO1.webp","fingerprint":"f25cdfcf83b04a9414960f87c468082b","bytes":133810},
-    "REXO2": {"name":"RNA exonuclease 2","path":"blot/R/REXO2.webp","fingerprint":"46e0bd32d2b5361742057c059ffce10c","bytes":151286},
+    "REXO2": {"name":"RNA exonuclease 2","path":"blot/R/REXO2.webp","fingerprint":"2e50695f381c05f7386851228e9b2748","bytes":131748},
     "REXO4": {"name":"RNA exonuclease 4","path":"blot/R/REXO4.webp","fingerprint":"63b29cb8b052c50c5cf0083f4e2a3e7b","bytes":135446},
     "REXO5": {"name":"RNA exonuclease 5","path":"blot/R/REXO5.webp","fingerprint":"314f2d129ce9733b7734ce83923a6254","bytes":99778},
     "RFC1": {"name":"replication factor C subunit 1","path":"blot/R/RFC1.webp","fingerprint":"77d9150e8230c18324a46f73ae29fc54","bytes":168804},
