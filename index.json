@@ -1501,7 +1501,7 @@
     "BCL7A": {"name":"BAF chromatin remodeling complex subunit BCL7A","path":"blot/B/BCL7A.webp","fingerprint":"c20877e0096105fe863760972bb9d40f","bytes":120776},
     "BCL7B": {"name":"BAF chromatin remodeling complex subunit BCL7B","path":"blot/B/BCL7B.webp","fingerprint":"effab8511a591e7e4a2a0d7121cde07f","bytes":80214},
     "BCL7C": {"name":"BAF chromatin remodeling complex subunit BCL7C","path":"blot/B/BCL7C.webp","fingerprint":"adba2e571377eccb0a661d485c65036e","bytes":110318},
-    "BCL9": {"name":"BCL9 transcription coactivator","path":"blot/B/BCL9.webp","fingerprint":"28ec0dbe4f8a67b2582d645152b8d8a1","bytes":128530},
+    "BCL9": {"name":"BCL9 transcription coactivator","path":"blot/B/BCL9.webp","fingerprint":"e86abf7a2812007b9e52d8826749e570","bytes":180418},
     "BCL9L": {"name":"BCL9 like","path":"blot/B/BCL9L.webp","fingerprint":"28930658f8c4ee184e4a96342f3d7f0f","bytes":175512},
     "BCLAF1": {"name":"BCL2 associated transcription factor 1","path":"blot/B/BCLAF1.webp","fingerprint":"1008d87dbac2f4c704849bc89f784f94","bytes":124826},
     "BCLAF3": {"name":"BCLAF1 and THRAP3 family member 3","path":"blot/B/BCLAF3.webp","fingerprint":"055f7d7b58dc56c92551e4ad9eb49184","bytes":126896},
