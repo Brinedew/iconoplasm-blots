@@ -17250,7 +17250,7 @@
     "TNFRSF6B": {"name":"TNF receptor superfamily member 6b","path":"blot/T/TNFRSF6B.webp","fingerprint":"8461af67f57d53302eca951d94e1bfef","bytes":99502},
     "TNFRSF8": {"name":"TNF receptor superfamily member 8","path":"blot/T/TNFRSF8.webp","fingerprint":"9f24df3411fa4d949f9933be326ce29b","bytes":97316},
     "TNFRSF9": {"name":"TNF receptor superfamily member 9","path":"blot/T/TNFRSF9.webp","fingerprint":"3d788cffa1ccd6869d12299d43592a69","bytes":142594},
-    "TNFSF10": {"name":"TNF superfamily member 10","path":"blot/T/TNFSF10.webp","fingerprint":"2423b6b38f635d7891b765cf7f390eb7","bytes":77038},
+    "TNFSF10": {"name":"TNF superfamily member 10","path":"blot/T/TNFSF10.webp","fingerprint":"4e7fac963b8e19a3d1c070b67b5dd528","bytes":196360},
     "TNFSF11": {"name":"TNF superfamily member 11","path":"blot/T/TNFSF11.webp","fingerprint":"5889e70b158371ac2278809fad4104eb","bytes":86666},
     "TNFSF12": {"name":"TNF superfamily member 12","path":"blot/T/TNFSF12.webp","fingerprint":"1e8cb6e84840e4122e864d153efc73fd","bytes":90160},
     "TNFSF13": {"name":"TNF superfamily member 13","path":"blot/T/TNFSF13.webp","fingerprint":"40227e200efdd5b35ddce54c0db6e988","bytes":68446},
