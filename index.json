@@ -15519,7 +15519,7 @@
     "SMYD3": {"name":"SET and MYND domain containing 3","path":"blot/S/SMYD3.webp","fingerprint":"d284adef378c4db0016f2dd8dc22cd19","bytes":116072},
     "SMYD4": {"name":"SET and MYND domain containing 4","path":"blot/S/SMYD4.webp","fingerprint":"17fc53f5524c04ea5b1d5c59f0cae673","bytes":121544},
     "SMYD5": {"name":"SMYD family member 5","path":"blot/S/SMYD5.webp","fingerprint":"6b3e1e43ccc3ee0663d4d614213abfdb","bytes":197068},
-    "SNAI1": {"name":"snail family transcriptional repressor 1","path":"blot/S/SNAI1.webp","fingerprint":"5c6b69baf6230b847234582287459941","bytes":122920},
+    "SNAI1": {"name":"snail family transcriptional repressor 1","path":"blot/S/SNAI1.webp","fingerprint":"8875067c77a2d1d7de9bb4b37fa5f57a","bytes":108006},
     "SNAI2": {"name":"snail family transcriptional repressor 2","path":"blot/S/SNAI2.webp","fingerprint":"9d441cd9fc45ce54f3201e69111177f1","bytes":126826},
     "SNAI3": {"name":"snail family transcriptional repressor 3","path":"blot/S/SNAI3.webp","fingerprint":"8cd88847183f5fbe7bac941a388d046b","bytes":109602},
     "SNAP23": {"name":"synaptosome associated protein 23","path":"blot/S/SNAP23.webp","fingerprint":"36a4ad5bfac2abef6d70bae23c3608fa","bytes":81940},
