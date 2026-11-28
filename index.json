@@ -11574,7 +11574,7 @@
     "OSBPL9": {"name":"oxysterol binding protein like 9","path":"blot/O/OSBPL9.webp","fingerprint":"7b3c4d2bf892ddef324cf7a7429aa510","bytes":71258},
     "OSCAR": {"name":"osteoclast associated Ig-like receptor","path":"blot/O/OSCAR.webp","fingerprint":"b4390fab96b3c5b624ed9b542866a19b","bytes":179440},
     "OSCP1": {"name":"organic solute carrier partner 1","path":"blot/O/OSCP1.webp","fingerprint":"ce046bc2d495d0a53cf0d746d5e58c44","bytes":104450},
-    "OSER1": {"name":"oxidative stress responsive serine rich 1","path":"blot/O/OSER1.webp","fingerprint":"4ffdf1b9fc8363e30bf3c7e59ec2fda8","bytes":139332},
+    "OSER1": {"name":"oxidative stress responsive serine rich 1","path":"blot/O/OSER1.webp","fingerprint":"71269c5956227d44d01dbb9d965790a7","bytes":84074},
     "OSGEP": {"name":"O-sialoglycoprotein endopeptidase","path":"blot/O/OSGEP.webp","fingerprint":"1d91b20a5b3a361ef490304cfbeeeec1","bytes":144166},
     "OSGEPL1": {"name":"O-sialoglycoprotein endopeptidase like 1","path":"blot/O/OSGEPL1.webp","fingerprint":"e7e71d22e930f1c2a5a22278894247cb","bytes":127302},
     "OSGIN1": {"name":"oxidative stress induced growth inhibitor 1","path":"blot/O/OSGIN1.webp","fingerprint":"0f5b8571f19660091664e3b834f40418","bytes":117276},
