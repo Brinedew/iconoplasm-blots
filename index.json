@@ -11007,7 +11007,7 @@
     "NWD2": {"name":"NACHT and WD repeat domain containing 2","path":"blot/N/NWD2.webp","fingerprint":"d08a12a3b61adf374704199464365a5a","bytes":92618},
     "NXF1": {"name":"nuclear RNA export factor 1","path":"blot/N/NXF1.webp","fingerprint":"0ed6177a531d9ed91671108fd192e4bc","bytes":226182},
     "NXF2": {"name":"nuclear RNA export factor 2","path":"blot/N/NXF2.webp","fingerprint":"66e5f3799e98cb66749f96e499a3d18b","bytes":131602},
-    "NXF2B": {"name":"nuclear RNA export factor 2B","path":"blot/N/NXF2B.webp","fingerprint":"648d0e4cfdf36efaa9273a6331d82713","bytes":124578},
+    "NXF2B": {"name":"nuclear RNA export factor 2B","path":"blot/N/NXF2B.webp","fingerprint":"3aaeaa1f9739f61c30549126913ad7c9","bytes":159980},
     "NXF3": {"name":"nuclear RNA export factor 3","path":"blot/N/NXF3.webp","fingerprint":"41bbebacf6bf18c3a5e007be025b6046","bytes":119574},
     "NXF5": {"name":"nuclear RNA export factor 5","path":"blot/N/NXF5.webp","fingerprint":"038a1aa51fc61cfd5387de279de6cbe0","bytes":144868},
     "NXN": {"name":"nucleoredoxin","path":"blot/N/NXN.webp","fingerprint":"44d160fe6801760a080d247e2bd4e975","bytes":159938},
