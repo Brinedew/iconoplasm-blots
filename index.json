@@ -18546,7 +18546,7 @@
     "XYLT2": {"name":"xylosyltransferase 2","path":"blot/X/XYLT2.webp","fingerprint":"a2df8001fc683a72ee468bfec9d3beab","bytes":55760},
     "YAE1": {"name":"YAE1 maturation factor of ABCE1","path":"blot/Y/YAE1.webp","fingerprint":"58605d55b9bf1cac32d126b6f38acbf9","bytes":109666},
     "YAF2": {"name":"YY1 associated factor 2","path":"blot/Y/YAF2.webp","fingerprint":"5070432fc70c9505667fb188e9826da0","bytes":124026},
-    "YAP1": {"name":"Yes1 associated transcriptional regulator","path":"blot/Y/YAP1.webp","fingerprint":"9f2950c027767f887c7e794ff7f5ab29","bytes":95124},
+    "YAP1": {"name":"Yes1 associated transcriptional regulator","path":"blot/Y/YAP1.webp","fingerprint":"d227c8802ac20377b3b63f18dfa4e1f6","bytes":114100},
     "YARS1": {"name":"tyrosyl-tRNA synthetase 1","path":"blot/Y/YARS1.webp","fingerprint":"0a2ad378900eaf1e510cfa63b9d42ef1","bytes":174926},
     "YARS2": {"name":"tyrosyl-tRNA synthetase 2","path":"blot/Y/YARS2.webp","fingerprint":"f481473fbefe2583719c570444e83fd4","bytes":164430},
     "YBEY": {"name":"ybeY metalloendoribonuclease","path":"blot/Y/YBEY.webp","fingerprint":"e25f0e06309576cbd93ecf0a6848981c","bytes":167540},
